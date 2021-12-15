@@ -11,43 +11,11 @@ const BASE_URL = "https://azu.github.io/github-search-rss";
 // TYPE references
 // https://docs.github.com/en/graphql/reference/queries#searchresultitemconnection
 export const SEARCH_ITEMS: RSSItem[] = [
-    // Issue
-    {
-        title: "microsoft/TypeScript Iteration Plan",
-        query: "repo:microsoft/TypeScript is:issue label:Planning",
-        TYPE: "ISSUE",
-        link: `${BASE_URL}/typescript-iterator-plan.json`,
-        homepage: "https://github.com/search?q=repo%3Amicrosoft%2FTypeScript+is%3Aissue+label%3APlanning"
-    },
-    {
-        title: "w3ctag/design-reviews Design Issues",
-        query: "repo:w3ctag/design-reviews is:issue",
-        TYPE: "ISSUE",
-        link: `${BASE_URL}/w3ctag-design-reviews.json`
-    },
-    // Pull Request
-    {
-        // label:data:
-        title: "mdn/browser-compat-data update data",
-        query: "repo:mdn/browser-compat-data is:pr is:open",
-        TYPE: "ISSUE",
-        link: `${BASE_URL}/mdn-browser-compat-data.json`,
-        filter: (item) => {
-            return item.labels.some((label) => label.startsWith("data:"));
-        }
-    },
-    {
-        // label:data:
-        title: "mdn/content update content",
-        query: "repo:mdn/content is:pr is:open",
-        TYPE: "ISSUE",
-        link: `${BASE_URL}/mdn-content.json`
-    },
     // Repository
     {
-        title: "LightWeight JavaScript repositories",
-        query: "lightweight language:javascript language:typescript sort:updated-desc",
+        title: "WASM-4 repositories",
+        query: "wasm4 sort:updated-desc",
         TYPE: "REPOSITORY",
-        link: `${BASE_URL}/lightweight-javascript-repo.json`
+        link: `${BASE_URL}/wasm4-repos.json`
     }
 ];
