@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
     <head>
     <title>GitHub Search Subscriptions</title>
-    <dateCreated>2021-12-15T00:35:25.411Z</dateCreated>
+    <dateCreated>2021-12-15T01:37:38.332Z</dateCreated>
 </head>
     <body>
     <outline title="Subscriptions">
         <outline>
-            <outline type="rss" title="microsoft/TypeScript Iteration Plan" htmlUrl="https://azu.github.io/github-search-rss/typescript-iterator-plan.json" xmlUrl="https://azu.github.io/github-search-rss/typescript-iterator-plan.json"/>
-            <outline type="rss" title="w3ctag/design-reviews Design Issues" htmlUrl="https://azu.github.io/github-search-rss/w3ctag-design-reviews.json" xmlUrl="https://azu.github.io/github-search-rss/w3ctag-design-reviews.json"/>
-            <outline type="rss" title="mdn/browser-compat-data update data" htmlUrl="https://azu.github.io/github-search-rss/mdn-browser-compat-data.json" xmlUrl="https://azu.github.io/github-search-rss/mdn-browser-compat-data.json"/>
-            <outline type="rss" title="mdn/content update content" htmlUrl="https://azu.github.io/github-search-rss/mdn-content.json" xmlUrl="https://azu.github.io/github-search-rss/mdn-content.json"/>
-            <outline type="rss" title="LightWeight JavaScript repositories" htmlUrl="https://azu.github.io/github-search-rss/lightweight-javascript-repo.json" xmlUrl="https://azu.github.io/github-search-rss/lightweight-javascript-repo.json"/>
+            <outline type="rss" title="WASM-4 repositories" htmlUrl="https://azu.github.io/github-search-rss/wasm4-repos.json" xmlUrl="https://azu.github.io/github-search-rss/wasm4-repos.json"/>
         </outline>
     </outline>
 </body>
