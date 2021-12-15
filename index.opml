@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><opml version="2.0">
     <head>
     <title>GitHub Search Subscriptions</title>
-    <dateCreated>2021-12-15T01:37:38.332Z</dateCreated>
+    <dateCreated>2021-12-15T01:49:45.062Z</dateCreated>
 </head>
     <body>
     <outline title="Subscriptions">
         <outline>
-            <outline type="rss" title="WASM-4 repositories" htmlUrl="https://azu.github.io/github-search-rss/wasm4-repos.json" xmlUrl="https://azu.github.io/github-search-rss/wasm4-repos.json"/>
+            <outline type="rss" title="WASM-4 repositories" htmlUrl="https://azu.github.io/github-search-rss/wasm4-repos.xml" xmlUrl="https://azu.github.io/github-search-rss/wasm4-repos.xml"/>
         </outline>
     </outline>
 </body>
