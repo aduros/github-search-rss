@@ -18,4 +18,5 @@ export const SEARCH_ITEMS: RSSItem[] = [
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/wasm4-repos.json`
     }
+
 ];
