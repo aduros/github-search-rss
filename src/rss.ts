@@ -14,7 +14,7 @@ export const SEARCH_ITEMS: RSSItem[] = [
     // Repository
     {
         title: "WASM-4 repositories",
-        query: "wasm4 sort:updated-desc",
+        query: `"wasm-4" OR "wasm4" sort:updated-desc`,
         TYPE: "REPOSITORY",
         link: `${BASE_URL}/wasm4-repos.xml`
     }
