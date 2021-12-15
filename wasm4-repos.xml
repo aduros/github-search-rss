@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://azu.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2021-12-15T01:49:45.056Z</updated>
+    <updated>2021-12-15T02:03:54.319Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://azu.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4-discord-test: Testing WASM-4 discord bot integration]]></title>
+        <id>https://github.com/aduros/wasm4-discord-test</id>
+        <link href="https://github.com/aduros/wasm4-discord-test"/>
+        <updated>2021-12-15T02:03:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Testing WASM-4 discord bot integration</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-12-15T02:03:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
         <id>https://github.com/ZetaNumbers/wasm4-rs</id>
@@ -86,6 +99,45 @@
         <published>2021-11-25T20:07:24.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[claudiomattera/minesweeper: A minesweeper game using WASM-4 engine]]></title>
+        <id>https://github.com/claudiomattera/minesweeper</id>
+        <link href="https://github.com/claudiomattera/minesweeper"/>
+        <updated>2021-11-26T12:07:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2611656?v=4" width="64" height="64" alt=""/><br/><div>A minesweeper game using WASM-4 engine</div>]]></content>
+        <author>
+            <name>claudiomattera</name>
+            <email>claudiomattera@noreply.github.com</email>
+            <uri>https://github.com/claudiomattera</uri>
+        </author>
+        <published>2021-10-23T09:56:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[christopher-kleine/wasm-4-tutorial-games: A collection of small games for the Fantasy Console WASM-4]]></title>
+        <id>https://github.com/christopher-kleine/wasm-4-tutorial-games</id>
+        <link href="https://github.com/christopher-kleine/wasm-4-tutorial-games"/>
+        <updated>2021-11-24T20:10:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div>A collection of small games for the Fantasy Console WASM-4</div>]]></content>
+        <author>
+            <name>christopher-kleine</name>
+            <email>christopher-kleine@noreply.github.com</email>
+            <uri>https://github.com/christopher-kleine</uri>
+        </author>
+        <published>2021-11-11T12:14:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jakeledoux/nyan: A musical demo for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/jakeledoux/nyan</id>
+        <link href="https://github.com/jakeledoux/nyan"/>
+        <updated>2021-11-23T04:08:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5758561?u=5e47c9da53f8e4c2822195a687d5b844dada6d5c&v=4" width="64" height="64" alt=""/><br/><div>A musical demo for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>jakeledoux</name>
+            <email>jakeledoux@noreply.github.com</email>
+            <uri>https://github.com/jakeledoux</uri>
+        </author>
+        <published>2021-11-22T17:38:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[claudiomattera/wasm4fun.neocities.org: Source of static website at https://wasm4fun.neocities.org/]]></title>
         <id>https://github.com/claudiomattera/wasm4fun.neocities.org</id>
         <link href="https://github.com/claudiomattera/wasm4fun.neocities.org"/>
@@ -152,6 +204,19 @@
         <published>2021-10-19T21:30:50.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[claudiomattera/png2wasm4src: Convert indexed PNG images to Rust source code for WASM-4 engine]]></title>
+        <id>https://github.com/claudiomattera/png2wasm4src</id>
+        <link href="https://github.com/claudiomattera/png2wasm4src"/>
+        <updated>2021-10-18T21:34:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2611656?v=4" width="64" height="64" alt=""/><br/><div>Convert indexed PNG images to Rust source code for WASM-4 engine</div>]]></content>
+        <author>
+            <name>claudiomattera</name>
+            <email>claudiomattera@noreply.github.com</email>
+            <uri>https://github.com/claudiomattera</uri>
+        </author>
+        <published>2021-10-18T21:22:53.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[pak5/wasm427: api client]]></title>
         <id>https://github.com/pak5/wasm427</id>
         <link href="https://github.com/pak5/wasm427"/>
@@ -178,6 +243,19 @@
         <published>2021-10-16T18:49:43.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[christopher-kleine/wasm-4-snake-tutorial]]></title>
+        <id>https://github.com/christopher-kleine/wasm-4-snake-tutorial</id>
+        <link href="https://github.com/christopher-kleine/wasm-4-snake-tutorial"/>
+        <updated>2021-10-12T19:27:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>christopher-kleine</name>
+            <email>christopher-kleine@noreply.github.com</email>
+            <uri>https://github.com/christopher-kleine</uri>
+        </author>
+        <published>2021-10-10T15:56:39.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kethku/wasm4-mandelbrot: mandelbrot test of the wasm4 fantasy console]]></title>
         <id>https://github.com/Kethku/wasm4-mandelbrot</id>
         <link href="https://github.com/Kethku/wasm4-mandelbrot"/>
@@ -189,83 +267,5 @@
             <uri>https://github.com/Kethku</uri>
         </author>
         <published>2021-10-09T21:05:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-meteoroids: Meteoroids game for WASM-4 fantasy game console]]></title>
-        <id>https://github.com/jzeiber/wasm4-meteoroids</id>
-        <link href="https://github.com/jzeiber/wasm4-meteoroids"/>
-        <updated>2021-09-29T01:40:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Meteoroids game for WASM-4 fantasy game console</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2021-09-02T19:01:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[peterhellberg/w4-2048: 2048 using the fantasy console WASM-4 and TinyGo]]></title>
-        <id>https://github.com/peterhellberg/w4-2048</id>
-        <link href="https://github.com/peterhellberg/w4-2048"/>
-        <updated>2021-12-05T02:56:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/565124?u=f795ff29c899b93e15dd0b758ad5da487dd03908&v=4" width="64" height="64" alt=""/><br/><div>2048 using the fantasy console WASM-4 and TinyGo</div>]]></content>
-        <author>
-            <name>peterhellberg</name>
-            <email>peterhellberg@noreply.github.com</email>
-            <uri>https://github.com/peterhellberg</uri>
-        </author>
-        <published>2021-09-19T12:22:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[eXponenta/wasm4-game: Game for wasm4 runtime]]></title>
-        <id>https://github.com/eXponenta/wasm4-game</id>
-        <link href="https://github.com/eXponenta/wasm4-game"/>
-        <updated>2021-12-02T05:24:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/12572222?v=4" width="64" height="64" alt=""/><br/><div>Game for wasm4 runtime</div>]]></content>
-        <author>
-            <name>eXponenta</name>
-            <email>eXponenta@noreply.github.com</email>
-            <uri>https://github.com/eXponenta</uri>
-        </author>
-        <published>2021-09-02T21:09:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[christopher-kleine/tic-tac-toe-wasm4: A simply version of "Tic Tac Toe" (aka "noughts and crosses") using WASM4 and Go]]></title>
-        <id>https://github.com/christopher-kleine/tic-tac-toe-wasm4</id>
-        <link href="https://github.com/christopher-kleine/tic-tac-toe-wasm4"/>
-        <updated>2021-10-09T18:48:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div>A simply version of "Tic Tac Toe" (aka "noughts and crosses") using WASM4 and Go</div>]]></content>
-        <author>
-            <name>christopher-kleine</name>
-            <email>christopher-kleine@noreply.github.com</email>
-            <uri>https://github.com/christopher-kleine</uri>
-        </author>
-        <published>2021-09-10T00:53:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[christopher-kleine/SameGameWASM4: A simple version of SameGame using WASM4 and Go.]]></title>
-        <id>https://github.com/christopher-kleine/SameGameWASM4</id>
-        <link href="https://github.com/christopher-kleine/SameGameWASM4"/>
-        <updated>2021-09-13T09:48:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div>A simple version of SameGame using WASM4 and Go.</div>]]></content>
-        <author>
-            <name>christopher-kleine</name>
-            <email>christopher-kleine@noreply.github.com</email>
-            <uri>https://github.com/christopher-kleine</uri>
-        </author>
-        <published>2021-09-13T05:09:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Socrates1232/WASM4Win]]></title>
-        <id>https://github.com/Socrates1232/WASM4Win</id>
-        <link href="https://github.com/Socrates1232/WASM4Win"/>
-        <updated>2021-07-12T01:43:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34000675?u=44404684870290137c5a722d5961f454e557d1a6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Socrates1232</name>
-            <email>Socrates1232@noreply.github.com</email>
-            <uri>https://github.com/Socrates1232</uri>
-        </author>
-        <published>2021-07-07T03:36:56.000Z</published>
     </entry>
 </feed>
