@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2021-12-19T00:57:05.663Z</updated>
+    <updated>2021-12-20T00:54:37.541Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2021-12-19T00:09:28.000Z</updated>
+        <updated>2021-12-19T15:17:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -77,7 +77,7 @@
         <id>https://github.com/christopher-kleine/wasm4-docker</id>
         <link href="https://github.com/christopher-kleine/wasm4-docker"/>
         <updated>2021-11-26T14:00:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div>Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig</div>]]></content>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig</div>]]></content>
         <author>
             <name>christopher-kleine</name>
             <email>christopher-kleine@noreply.github.com</email>
@@ -103,7 +103,7 @@
         <id>https://github.com/christopher-kleine/wasm-4-tutorial-games</id>
         <link href="https://github.com/christopher-kleine/wasm-4-tutorial-games"/>
         <updated>2021-11-24T20:10:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div>A collection of small games for the Fantasy Console WASM-4</div>]]></content>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>A collection of small games for the Fantasy Console WASM-4</div>]]></content>
         <author>
             <name>christopher-kleine</name>
             <email>christopher-kleine@noreply.github.com</email>
@@ -234,7 +234,7 @@
         <id>https://github.com/christopher-kleine/wasm-4-snake-tutorial</id>
         <link href="https://github.com/christopher-kleine/wasm-4-snake-tutorial"/>
         <updated>2021-10-12T19:27:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=aa91b64fcf0b988262f0252d8eccfdb92e255461&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>christopher-kleine</name>
             <email>christopher-kleine@noreply.github.com</email>
