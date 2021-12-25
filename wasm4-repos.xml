@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2021-12-24T00:53:12.957Z</updated>
+    <updated>2021-12-25T00:52:25.384Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[leonskidev/sper-wasm4: A tiny, half-done space invaders example for WASM-4.]]></title>
-        <id>https://github.com/leonskidev/sper-wasm4</id>
-        <link href="https://github.com/leonskidev/sper-wasm4"/>
-        <updated>2021-12-24T00:14:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58236115?u=682cf4a08ee4bae438310b87853d01b2fa689d97&v=4" width="64" height="64" alt=""/><br/><div>A tiny, half-done space invaders example for WASM-4.</div>]]></content>
+        <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
+        <id>https://github.com/ZetaNumbers/wasm4-rs</id>
+        <link href="https://github.com/ZetaNumbers/wasm4-rs"/>
+        <updated>2021-12-24T22:20:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53300196?u=7bb691c0398a0bb831048e26100cdc8fd26bbc94&v=4" width="64" height="64" alt=""/><br/><div>Idiomatic bindings to wasm4 for Rust</div>]]></content>
         <author>
-            <name>leonskidev</name>
-            <email>leonskidev@noreply.github.com</email>
-            <uri>https://github.com/leonskidev</uri>
+            <name>ZetaNumbers</name>
+            <email>ZetaNumbers@noreply.github.com</email>
+            <uri>https://github.com/ZetaNumbers</uri>
         </author>
-        <published>2021-12-24T00:02:05.000Z</published>
+        <published>2021-12-14T23:50:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2021-12-24T00:14:12.000Z</updated>
+        <updated>2021-12-24T22:07:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -32,6 +32,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[luehmann/wasm4-test-cart]]></title>
+        <id>https://github.com/luehmann/wasm4-test-cart</id>
+        <link href="https://github.com/luehmann/wasm4-test-cart"/>
+        <updated>2021-12-24T12:21:51.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47984692?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>luehmann</name>
+            <email>luehmann@noreply.github.com</email>
+            <uri>https://github.com/luehmann</uri>
+        </author>
+        <published>2021-12-24T11:57:09.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[sporksmith/snake-wasm4]]></title>
@@ -113,19 +126,6 @@
         <published>2021-12-20T23:57:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
-        <id>https://github.com/ZetaNumbers/wasm4-rs</id>
-        <link href="https://github.com/ZetaNumbers/wasm4-rs"/>
-        <updated>2021-12-22T20:50:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53300196?u=7bb691c0398a0bb831048e26100cdc8fd26bbc94&v=4" width="64" height="64" alt=""/><br/><div>Idiomatic bindings to wasm4 for Rust</div>]]></content>
-        <author>
-            <name>ZetaNumbers</name>
-            <email>ZetaNumbers@noreply.github.com</email>
-            <uri>https://github.com/ZetaNumbers</uri>
-        </author>
-        <published>2021-12-14T23:50:55.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[joshgoebel/Arduboy2-WASM4: Arduboy2 library ported to WASM4]]></title>
         <id>https://github.com/joshgoebel/Arduboy2-WASM4</id>
         <link href="https://github.com/joshgoebel/Arduboy2-WASM4"/>
@@ -142,7 +142,7 @@
         <title type="html"><![CDATA[jaese/wasm4-snake-zig: WASM-4 Tutorial Snake game written in Zig]]></title>
         <id>https://github.com/jaese/wasm4-snake-zig</id>
         <link href="https://github.com/jaese/wasm4-snake-zig"/>
-        <updated>2021-12-14T04:44:41.000Z</updated>
+        <updated>2021-12-24T04:59:48.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/779106?u=ad0d8af23df70ab8414f738ac3957cf90f2c0e06&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Tutorial Snake game written in Zig</div>]]></content>
         <author>
             <name>jaese</name>
