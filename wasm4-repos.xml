@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2021-12-31T00:55:30.462Z</updated>
+    <updated>2022-01-01T00:56:03.274Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[scrivener/parking-puzzle: WASM-4 clone of that parking game]]></title>
+        <id>https://github.com/scrivener/parking-puzzle</id>
+        <link href="https://github.com/scrivener/parking-puzzle"/>
+        <updated>2021-12-31T23:29:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/493227?u=80a7834facb87698ba9bca159b202f4ec1ecd6b3&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 clone of that parking game</div>]]></content>
+        <author>
+            <name>scrivener</name>
+            <email>scrivener@noreply.github.com</email>
+            <uri>https://github.com/scrivener</uri>
+        </author>
+        <published>2021-12-31T23:23:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pascalruscher/wasm4_snake: A snake clone for the WASM-4 Fantasy Console]]></title>
+        <id>https://github.com/pascalruscher/wasm4_snake</id>
+        <link href="https://github.com/pascalruscher/wasm4_snake"/>
+        <updated>2021-12-31T13:56:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6429037?u=b794ac2f4053d22786b305f338bbc95633f47c4a&v=4" width="64" height="64" alt=""/><br/><div>A snake clone for the WASM-4 Fantasy Console</div>]]></content>
+        <author>
+            <name>pascalruscher</name>
+            <email>pascalruscher@noreply.github.com</email>
+            <uri>https://github.com/pascalruscher</uri>
+        </author>
+        <published>2021-12-31T13:56:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/wasm4-beep2src: Experimental music converter for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/wasm4-beep2src</id>
+        <link href="https://github.com/MrRafael-dev/wasm4-beep2src"/>
+        <updated>2021-12-31T11:53:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>Experimental music converter for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2021-12-31T10:19:25.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
         <id>https://github.com/EdSwordsmith/wasm4_snake</id>
@@ -24,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2021-12-30T20:51:00.000Z</updated>
+        <updated>2021-12-31T16:29:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -228,44 +267,5 @@
             <uri>https://github.com/jaese</uri>
         </author>
         <published>2021-11-12T18:59:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenialAdams/InfiniteRunner: wasm4 infinite runner]]></title>
-        <id>https://github.com/DenialAdams/InfiniteRunner</id>
-        <link href="https://github.com/DenialAdams/InfiniteRunner"/>
-        <updated>2021-12-12T00:09:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2072405?u=63365cf369ecd1ea9fefa422971fca4276d4575c&v=4" width="64" height="64" alt=""/><br/><div>wasm4 infinite runner</div>]]></content>
-        <author>
-            <name>DenialAdams</name>
-            <email>DenialAdams@noreply.github.com</email>
-            <uri>https://github.com/DenialAdams</uri>
-        </author>
-        <published>2021-11-05T02:03:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[christopher-kleine/wasm4-docker: Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig]]></title>
-        <id>https://github.com/christopher-kleine/wasm4-docker</id>
-        <link href="https://github.com/christopher-kleine/wasm4-docker"/>
-        <updated>2021-12-29T14:31:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig</div>]]></content>
-        <author>
-            <name>christopher-kleine</name>
-            <email>christopher-kleine@noreply.github.com</email>
-            <uri>https://github.com/christopher-kleine</uri>
-        </author>
-        <published>2021-11-25T20:07:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[claudiomattera/minesweeper: A minesweeper game using WASM-4 engine]]></title>
-        <id>https://github.com/claudiomattera/minesweeper</id>
-        <link href="https://github.com/claudiomattera/minesweeper"/>
-        <updated>2021-11-26T12:07:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2611656?v=4" width="64" height="64" alt=""/><br/><div>A minesweeper game using WASM-4 engine</div>]]></content>
-        <author>
-            <name>claudiomattera</name>
-            <email>claudiomattera@noreply.github.com</email>
-            <uri>https://github.com/claudiomattera</uri>
-        </author>
-        <published>2021-10-23T09:56:12.000Z</published>
     </entry>
 </feed>
