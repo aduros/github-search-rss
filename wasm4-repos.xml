@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-01T00:56:03.274Z</updated>
+    <updated>2022-01-02T00:56:58.754Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[scrivener/parking-puzzle: WASM-4 clone of that parking game]]></title>
         <id>https://github.com/scrivener/parking-puzzle</id>
         <link href="https://github.com/scrivener/parking-puzzle"/>
-        <updated>2021-12-31T23:29:25.000Z</updated>
+        <updated>2022-01-02T00:53:47.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/493227?u=80a7834facb87698ba9bca159b202f4ec1ecd6b3&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 clone of that parking game</div>]]></content>
         <author>
             <name>scrivener</name>
@@ -19,6 +19,32 @@
             <uri>https://github.com/scrivener</uri>
         </author>
         <published>2021-12-31T23:23:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[graziel666/simple-rpg: just a simple rpg, triyng to learn to use wasm4]]></title>
+        <id>https://github.com/graziel666/simple-rpg</id>
+        <link href="https://github.com/graziel666/simple-rpg"/>
+        <updated>2022-01-01T23:41:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35145859?u=7b58c4e2bf5d1c90c8bdd12440ad8fae56774f1a&v=4" width="64" height="64" alt=""/><br/><div>just a simple rpg, triyng to learn to use wasm4</div>]]></content>
+        <author>
+            <name>graziel666</name>
+            <email>graziel666@noreply.github.com</email>
+            <uri>https://github.com/graziel666</uri>
+        </author>
+        <published>2021-12-29T02:42:38.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-01T18:56:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[pascalruscher/wasm4_snake: A snake clone for the WASM-4 Fantasy Console]]></title>
@@ -60,19 +86,6 @@
         <published>2021-12-28T18:45:48.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2021-12-31T16:29:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ShigekiKarita/wasm4-flappy-bird]]></title>
         <id>https://github.com/ShigekiKarita/wasm4-flappy-bird</id>
         <link href="https://github.com/ShigekiKarita/wasm4-flappy-bird"/>
@@ -97,19 +110,6 @@
             <uri>https://github.com/christopher-kleine</uri>
         </author>
         <published>2021-11-11T12:14:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[graziel666/simple-rpg: just a simple rpg, triyng to learn to use wasm4]]></title>
-        <id>https://github.com/graziel666/simple-rpg</id>
-        <link href="https://github.com/graziel666/simple-rpg"/>
-        <updated>2021-12-30T02:17:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35145859?u=7b58c4e2bf5d1c90c8bdd12440ad8fae56774f1a&v=4" width="64" height="64" alt=""/><br/><div>just a simple rpg, triyng to learn to use wasm4</div>]]></content>
-        <author>
-            <name>graziel666</name>
-            <email>graziel666@noreply.github.com</email>
-            <uri>https://github.com/graziel666</uri>
-        </author>
-        <published>2021-12-29T02:42:38.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[yowl/csharp-wasm4]]></title>
