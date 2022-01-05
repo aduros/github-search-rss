@@ -2,29 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-04T00:55:12.132Z</updated>
+    <updated>2022-01-05T00:57:00.788Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[sporksmith/wasm4-sketchbook]]></title>
-        <id>https://github.com/sporksmith/wasm4-sketchbook</id>
-        <link href="https://github.com/sporksmith/wasm4-sketchbook"/>
-        <updated>2022-01-03T23:37:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sporksmith</name>
-            <email>sporksmith@noreply.github.com</email>
-            <uri>https://github.com/sporksmith</uri>
-        </author>
-        <published>2022-01-03T19:13:35.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[yowl/csharp-wasm4]]></title>
         <id>https://github.com/yowl/csharp-wasm4</id>
         <link href="https://github.com/yowl/csharp-wasm4"/>
-        <updated>2022-01-03T23:30:22.000Z</updated>
+        <updated>2022-01-05T00:07:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2720041?u=26f05259d47d7245cf1aba6f56eec278944659a7&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>yowl</name>
@@ -32,6 +19,32 @@
             <uri>https://github.com/yowl</uri>
         </author>
         <published>2021-12-20T23:57:07.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
+        <id>https://github.com/EdSwordsmith/wasm4_snake</id>
+        <link href="https://github.com/EdSwordsmith/wasm4_snake"/>
+        <updated>2022-01-04T22:17:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22300113?u=511ea7a0c7c21662c88cdf98318dbefaf2747c8f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>EdSwordsmith</name>
+            <email>EdSwordsmith@noreply.github.com</email>
+            <uri>https://github.com/EdSwordsmith</uri>
+        </author>
+        <published>2021-12-28T18:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sporksmith/wasm4-sketchbook]]></title>
+        <id>https://github.com/sporksmith/wasm4-sketchbook</id>
+        <link href="https://github.com/sporksmith/wasm4-sketchbook"/>
+        <updated>2022-01-04T07:09:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>sporksmith</name>
+            <email>sporksmith@noreply.github.com</email>
+            <uri>https://github.com/sporksmith</uri>
+        </author>
+        <published>2022-01-03T19:13:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[scrivener/parking-puzzle: WASM-4 clone of that parking game]]></title>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-03T13:05:44.000Z</updated>
+        <updated>2022-01-04T08:47:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -71,19 +84,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
-        <id>https://github.com/EdSwordsmith/wasm4_snake</id>
-        <link href="https://github.com/EdSwordsmith/wasm4_snake"/>
-        <updated>2022-01-03T12:46:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22300113?u=511ea7a0c7c21662c88cdf98318dbefaf2747c8f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>EdSwordsmith</name>
-            <email>EdSwordsmith@noreply.github.com</email>
-            <uri>https://github.com/EdSwordsmith</uri>
-        </author>
-        <published>2021-12-28T18:45:48.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[pascalruscher/wasm4_snake: A snake clone for the WASM-4 Fantasy Console]]></title>
