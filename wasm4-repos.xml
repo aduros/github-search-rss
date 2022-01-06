@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-05T00:57:00.788Z</updated>
+    <updated>2022-01-06T01:00:59.406Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[sporksmith/wasm4-sketchbook]]></title>
+        <id>https://github.com/sporksmith/wasm4-sketchbook</id>
+        <link href="https://github.com/sporksmith/wasm4-sketchbook"/>
+        <updated>2022-01-05T23:08:54.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>sporksmith</name>
+            <email>sporksmith@noreply.github.com</email>
+            <uri>https://github.com/sporksmith</uri>
+        </author>
+        <published>2022-01-03T19:13:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
+        <id>https://github.com/ZetaNumbers/wasm4-rs</id>
+        <link href="https://github.com/ZetaNumbers/wasm4-rs"/>
+        <updated>2022-01-05T18:25:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53300196?u=7bb691c0398a0bb831048e26100cdc8fd26bbc94&v=4" width="64" height="64" alt=""/><br/><div>Idiomatic bindings to wasm4 for Rust</div>]]></content>
+        <author>
+            <name>ZetaNumbers</name>
+            <email>ZetaNumbers@noreply.github.com</email>
+            <uri>https://github.com/ZetaNumbers</uri>
+        </author>
+        <published>2021-12-14T23:50:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
+        <id>https://github.com/EdSwordsmith/wasm4_snake</id>
+        <link href="https://github.com/EdSwordsmith/wasm4_snake"/>
+        <updated>2022-01-05T14:51:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22300113?u=511ea7a0c7c21662c88cdf98318dbefaf2747c8f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>EdSwordsmith</name>
+            <email>EdSwordsmith@noreply.github.com</email>
+            <uri>https://github.com/EdSwordsmith</uri>
+        </author>
+        <published>2021-12-28T18:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-05T20:14:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yowl/csharp-wasm4]]></title>
         <id>https://github.com/yowl/csharp-wasm4</id>
@@ -19,32 +71,6 @@
             <uri>https://github.com/yowl</uri>
         </author>
         <published>2021-12-20T23:57:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
-        <id>https://github.com/EdSwordsmith/wasm4_snake</id>
-        <link href="https://github.com/EdSwordsmith/wasm4_snake"/>
-        <updated>2022-01-04T22:17:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22300113?u=511ea7a0c7c21662c88cdf98318dbefaf2747c8f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>EdSwordsmith</name>
-            <email>EdSwordsmith@noreply.github.com</email>
-            <uri>https://github.com/EdSwordsmith</uri>
-        </author>
-        <published>2021-12-28T18:45:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sporksmith/wasm4-sketchbook]]></title>
-        <id>https://github.com/sporksmith/wasm4-sketchbook</id>
-        <link href="https://github.com/sporksmith/wasm4-sketchbook"/>
-        <updated>2022-01-04T07:09:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sporksmith</name>
-            <email>sporksmith@noreply.github.com</email>
-            <uri>https://github.com/sporksmith</uri>
-        </author>
-        <published>2022-01-03T19:13:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[scrivener/parking-puzzle: WASM-4 clone of that parking game]]></title>
@@ -73,19 +99,6 @@
         <published>2022-01-03T17:18:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-04T08:47:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pascalruscher/wasm4_snake: A snake clone for the WASM-4 Fantasy Console]]></title>
         <id>https://github.com/pascalruscher/wasm4_snake</id>
         <link href="https://github.com/pascalruscher/wasm4_snake"/>
@@ -110,19 +123,6 @@
             <uri>https://github.com/christopher-kleine</uri>
         </author>
         <published>2021-11-11T12:14:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
-        <id>https://github.com/ZetaNumbers/wasm4-rs</id>
-        <link href="https://github.com/ZetaNumbers/wasm4-rs"/>
-        <updated>2022-01-02T14:01:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53300196?u=7bb691c0398a0bb831048e26100cdc8fd26bbc94&v=4" width="64" height="64" alt=""/><br/><div>Idiomatic bindings to wasm4 for Rust</div>]]></content>
-        <author>
-            <name>ZetaNumbers</name>
-            <email>ZetaNumbers@noreply.github.com</email>
-            <uri>https://github.com/ZetaNumbers</uri>
-        </author>
-        <published>2021-12-14T23:50:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[christopher-kleine/wasm4-docker: Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig]]></title>
