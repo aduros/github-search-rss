@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-06T01:00:59.406Z</updated>
+    <updated>2022-01-07T01:00:34.778Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[ShigekiKarita/wasm4-reversi]]></title>
+        <id>https://github.com/ShigekiKarita/wasm4-reversi</id>
+        <link href="https://github.com/ShigekiKarita/wasm4-reversi"/>
+        <updated>2022-01-06T19:04:22.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6745326?u=bd8cba2b1d21d8b0f5b7309fbd158462677bd85a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ShigekiKarita</name>
+            <email>ShigekiKarita@noreply.github.com</email>
+            <uri>https://github.com/ShigekiKarita</uri>
+        </author>
+        <published>2022-01-06T18:06:34.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[sporksmith/wasm4-sketchbook]]></title>
         <id>https://github.com/sporksmith/wasm4-sketchbook</id>
         <link href="https://github.com/sporksmith/wasm4-sketchbook"/>
-        <updated>2022-01-05T23:08:54.000Z</updated>
+        <updated>2022-01-06T16:04:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>sporksmith</name>
@@ -19,6 +32,45 @@
             <uri>https://github.com/sporksmith</uri>
         </author>
         <published>2022-01-03T19:13:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
+        <id>https://github.com/EdSwordsmith/wasm4_snake</id>
+        <link href="https://github.com/EdSwordsmith/wasm4_snake"/>
+        <updated>2022-01-06T15:54:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22300113?u=511ea7a0c7c21662c88cdf98318dbefaf2747c8f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>EdSwordsmith</name>
+            <email>EdSwordsmith@noreply.github.com</email>
+            <uri>https://github.com/EdSwordsmith</uri>
+        </author>
+        <published>2021-12-28T18:45:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-06T14:48:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mnohem/wasm4-jam: Game in Zig made for the wasm4 game jam.]]></title>
+        <id>https://github.com/Mnohem/wasm4-jam</id>
+        <link href="https://github.com/Mnohem/wasm4-jam"/>
+        <updated>2022-01-06T07:03:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69613082?v=4" width="64" height="64" alt=""/><br/><div>Game in Zig made for the wasm4 game jam.</div>]]></content>
+        <author>
+            <name>Mnohem</name>
+            <email>Mnohem@noreply.github.com</email>
+            <uri>https://github.com/Mnohem</uri>
+        </author>
+        <published>2022-01-06T06:04:40.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
@@ -32,32 +84,6 @@
             <uri>https://github.com/ZetaNumbers</uri>
         </author>
         <published>2021-12-14T23:50:55.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
-        <id>https://github.com/EdSwordsmith/wasm4_snake</id>
-        <link href="https://github.com/EdSwordsmith/wasm4_snake"/>
-        <updated>2022-01-05T14:51:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22300113?u=511ea7a0c7c21662c88cdf98318dbefaf2747c8f&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>EdSwordsmith</name>
-            <email>EdSwordsmith@noreply.github.com</email>
-            <uri>https://github.com/EdSwordsmith</uri>
-        </author>
-        <published>2021-12-28T18:45:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-05T20:14:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[yowl/csharp-wasm4]]></title>
@@ -167,7 +193,7 @@
         <title type="html"><![CDATA[ShigekiKarita/wasm4-flappy-bird]]></title>
         <id>https://github.com/ShigekiKarita/wasm4-flappy-bird</id>
         <link href="https://github.com/ShigekiKarita/wasm4-flappy-bird"/>
-        <updated>2021-12-30T21:00:44.000Z</updated>
+        <updated>2022-01-06T03:15:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6745326?u=bd8cba2b1d21d8b0f5b7309fbd158462677bd85a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>ShigekiKarita</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/luehmann</uri>
         </author>
         <published>2021-12-24T11:57:09.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[leonskidev/tw4f: A tiny and safe abstraction over the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/leonskidev/tw4f</id>
-        <link href="https://github.com/leonskidev/tw4f"/>
-        <updated>2021-12-23T14:19:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58236115?u=682cf4a08ee4bae438310b87853d01b2fa689d97&v=4" width="64" height="64" alt=""/><br/><div>A tiny and safe abstraction over the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>leonskidev</name>
-            <email>leonskidev@noreply.github.com</email>
-            <uri>https://github.com/leonskidev</uri>
-        </author>
-        <published>2021-12-22T13:14:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rohlem/wasm4-cadences: wasm4 cadence playbox]]></title>
-        <id>https://github.com/rohlem/wasm4-cadences</id>
-        <link href="https://github.com/rohlem/wasm4-cadences"/>
-        <updated>2021-12-23T12:41:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9973386?v=4" width="64" height="64" alt=""/><br/><div>wasm4 cadence playbox</div>]]></content>
-        <author>
-            <name>rohlem</name>
-            <email>rohlem@noreply.github.com</email>
-            <uri>https://github.com/rohlem</uri>
-        </author>
-        <published>2021-12-23T12:36:24.000Z</published>
     </entry>
 </feed>
