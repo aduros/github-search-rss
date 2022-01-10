@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-09T00:57:41.923Z</updated>
+    <updated>2022-01-10T00:54:02.723Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-10T00:08:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[sporksmith/wasm4-sketchbook]]></title>
         <id>https://github.com/sporksmith/wasm4-sketchbook</id>
         <link href="https://github.com/sporksmith/wasm4-sketchbook"/>
-        <updated>2022-01-08T20:25:19.000Z</updated>
+        <updated>2022-01-09T22:39:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>sporksmith</name>
@@ -19,6 +32,32 @@
             <uri>https://github.com/sporksmith</uri>
         </author>
         <published>2022-01-03T19:13:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mnohem/wasm4-jam: Game in Zig made for the wasm4 game jam.]]></title>
+        <id>https://github.com/Mnohem/wasm4-jam</id>
+        <link href="https://github.com/Mnohem/wasm4-jam"/>
+        <updated>2022-01-09T20:24:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69613082?v=4" width="64" height="64" alt=""/><br/><div>Game in Zig made for the wasm4 game jam.</div>]]></content>
+        <author>
+            <name>Mnohem</name>
+            <email>Mnohem@noreply.github.com</email>
+            <uri>https://github.com/Mnohem</uri>
+        </author>
+        <published>2022-01-06T06:04:40.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DenialAdams/InfiniteRunner: wasm4 infinite runner]]></title>
+        <id>https://github.com/DenialAdams/InfiniteRunner</id>
+        <link href="https://github.com/DenialAdams/InfiniteRunner"/>
+        <updated>2022-01-09T18:59:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2072405?u=63365cf369ecd1ea9fefa422971fca4276d4575c&v=4" width="64" height="64" alt=""/><br/><div>wasm4 infinite runner</div>]]></content>
+        <author>
+            <name>DenialAdams</name>
+            <email>DenialAdams@noreply.github.com</email>
+            <uri>https://github.com/DenialAdams</uri>
+        </author>
+        <published>2021-11-05T02:03:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[christopher-kleine/wasm-4-tutorial-games: A collection of small games for the Fantasy Console WASM-4]]></title>
@@ -32,19 +71,6 @@
             <uri>https://github.com/christopher-kleine</uri>
         </author>
         <published>2021-11-11T12:14:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-08T16:54:41.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
@@ -63,7 +89,7 @@
         <title type="html"><![CDATA[SLiV9/dodgeball-wasm-4: Just a little game I made in a day to try out the WASM-4 fantasy console.]]></title>
         <id>https://github.com/SLiV9/dodgeball-wasm-4</id>
         <link href="https://github.com/SLiV9/dodgeball-wasm-4"/>
-        <updated>2022-01-07T17:29:18.000Z</updated>
+        <updated>2022-01-09T19:06:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>Just a little game I made in a day to try out the WASM-4 fantasy console.</div>]]></content>
         <author>
             <name>SLiV9</name>
@@ -97,19 +123,6 @@
             <uri>https://github.com/ShigekiKarita</uri>
         </author>
         <published>2022-01-06T18:06:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mnohem/wasm4-jam: Game in Zig made for the wasm4 game jam.]]></title>
-        <id>https://github.com/Mnohem/wasm4-jam</id>
-        <link href="https://github.com/Mnohem/wasm4-jam"/>
-        <updated>2022-01-06T07:03:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69613082?v=4" width="64" height="64" alt=""/><br/><div>Game in Zig made for the wasm4 game jam.</div>]]></content>
-        <author>
-            <name>Mnohem</name>
-            <email>Mnohem@noreply.github.com</email>
-            <uri>https://github.com/Mnohem</uri>
-        </author>
-        <published>2022-01-06T06:04:40.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[yowl/csharp-wasm4]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/w4-lander</uri>
         </author>
         <published>2021-12-18T06:21:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-rpg: RPG for WASM-4 fantasy game console]]></title>
-        <id>https://github.com/jzeiber/wasm4-rpg</id>
-        <link href="https://github.com/jzeiber/wasm4-rpg"/>
-        <updated>2021-12-26T00:55:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>RPG for WASM-4 fantasy game console</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2021-11-27T22:52:18.000Z</published>
     </entry>
 </feed>
