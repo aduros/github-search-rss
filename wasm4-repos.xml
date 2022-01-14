@@ -2,16 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-13T00:58:16.508Z</updated>
+    <updated>2022-01-14T00:57:32.433Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[leonskidev/tw4f: A tiny and safe abstraction over the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/leonskidev/tw4f</id>
+        <link href="https://github.com/leonskidev/tw4f"/>
+        <updated>2021-12-23T14:19:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58236115?u=682cf4a08ee4bae438310b87853d01b2fa689d97&v=4" width="64" height="64" alt=""/><br/><div>A tiny and safe abstraction over the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>leonskidev</name>
+            <email>leonskidev@noreply.github.com</email>
+            <uri>https://github.com/leonskidev</uri>
+        </author>
+        <published>2021-12-22T13:14:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pfgithub/wasm4-zig: idiomatic wasm-4 bindings in zig]]></title>
+        <id>https://github.com/pfgithub/wasm4-zig</id>
+        <link href="https://github.com/pfgithub/wasm4-zig"/>
+        <updated>2022-01-03T17:43:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>idiomatic wasm-4 bindings in zig</div>]]></content>
+        <author>
+            <name>pfgithub</name>
+            <email>pfgithub@noreply.github.com</email>
+            <uri>https://github.com/pfgithub</uri>
+        </author>
+        <published>2022-01-03T17:18:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kirinokirino/wasm-4-dithering: A static cart made to see how Floyd-Steinberg dithering will look on 160x160]]></title>
+        <id>https://github.com/kirinokirino/wasm-4-dithering</id>
+        <link href="https://github.com/kirinokirino/wasm-4-dithering"/>
+        <updated>2022-01-13T17:12:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19394486?u=8708d9151d213cfaf8d959ee32cc651cf90a7ed4&v=4" width="64" height="64" alt=""/><br/><div>A static cart made to see how Floyd-Steinberg dithering will look on 160x160</div>]]></content>
+        <author>
+            <name>kirinokirino</name>
+            <email>kirinokirino@noreply.github.com</email>
+            <uri>https://github.com/kirinokirino</uri>
+        </author>
+        <published>2022-01-13T16:33:08.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-12T17:27:56.000Z</updated>
+        <updated>2022-01-13T10:26:50.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -164,19 +203,6 @@
         <published>2021-12-20T23:57:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pfgithub/wasm4-zig: idiomatic wasm-4 bindings in zig]]></title>
-        <id>https://github.com/pfgithub/wasm4-zig</id>
-        <link href="https://github.com/pfgithub/wasm4-zig"/>
-        <updated>2022-01-03T17:43:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>idiomatic wasm-4 bindings in zig</div>]]></content>
-        <author>
-            <name>pfgithub</name>
-            <email>pfgithub@noreply.github.com</email>
-            <uri>https://github.com/pfgithub</uri>
-        </author>
-        <published>2022-01-03T17:18:12.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pascalruscher/wasm4_snake: A snake clone for the WASM-4 Fantasy Console]]></title>
         <id>https://github.com/pascalruscher/wasm4_snake</id>
         <link href="https://github.com/pascalruscher/wasm4_snake"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/ShigekiKarita</uri>
         </author>
         <published>2021-12-30T19:42:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShigekiKarita/wasm4-puyo: puyopuyo like game by D and WASM4]]></title>
-        <id>https://github.com/ShigekiKarita/wasm4-puyo</id>
-        <link href="https://github.com/ShigekiKarita/wasm4-puyo"/>
-        <updated>2021-12-28T17:24:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6745326?u=bd8cba2b1d21d8b0f5b7309fbd158462677bd85a&v=4" width="64" height="64" alt=""/><br/><div>puyopuyo like game by D and WASM4</div>]]></content>
-        <author>
-            <name>ShigekiKarita</name>
-            <email>ShigekiKarita@noreply.github.com</email>
-            <uri>https://github.com/ShigekiKarita</uri>
-        </author>
-        <published>2021-12-26T17:07:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sporksmith/snake-wasm4]]></title>
-        <id>https://github.com/sporksmith/snake-wasm4</id>
-        <link href="https://github.com/sporksmith/snake-wasm4"/>
-        <updated>2021-12-27T23:59:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/179146?u=16e787e3fea202b5de925a73c955b2671446344a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>sporksmith</name>
-            <email>sporksmith@noreply.github.com</email>
-            <uri>https://github.com/sporksmith</uri>
-        </author>
-        <published>2021-12-23T04:25:58.000Z</published>
     </entry>
 </feed>
