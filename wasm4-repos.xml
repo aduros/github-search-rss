@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-14T00:57:32.433Z</updated>
+    <updated>2022-01-15T00:54:50.561Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-14T20:48:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rutrum/wasm4-game-jam-2022: My submission for the wasm4 2022 game jam]]></title>
+        <id>https://github.com/rutrum/wasm4-game-jam-2022</id>
+        <link href="https://github.com/rutrum/wasm4-game-jam-2022"/>
+        <updated>2022-01-14T23:50:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23003873?u=51292071d14273c480c42c8c226ed7f7b794046a&v=4" width="64" height="64" alt=""/><br/><div>My submission for the wasm4 2022 game jam</div>]]></content>
+        <author>
+            <name>rutrum</name>
+            <email>rutrum@noreply.github.com</email>
+            <uri>https://github.com/rutrum</uri>
+        </author>
+        <published>2022-01-14T23:48:04.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[usysrc/get-the-apple: a very simple wasm-4 game]]></title>
+        <id>https://github.com/usysrc/get-the-apple</id>
+        <link href="https://github.com/usysrc/get-the-apple"/>
+        <updated>2022-01-14T23:45:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/355470?u=e07dfd4dab813a777a9179b56517472cce8b622c&v=4" width="64" height="64" alt=""/><br/><div>a very simple wasm-4 game</div>]]></content>
+        <author>
+            <name>usysrc</name>
+            <email>usysrc@noreply.github.com</email>
+            <uri>https://github.com/usysrc</uri>
+        </author>
+        <published>2022-01-14T23:40:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mallow-malt/wasm4-gamejam-2022]]></title>
+        <id>https://github.com/mallow-malt/wasm4-gamejam-2022</id>
+        <link href="https://github.com/mallow-malt/wasm4-gamejam-2022"/>
+        <updated>2022-01-14T22:06:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75922293?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>mallow-malt</name>
+            <email>mallow-malt@noreply.github.com</email>
+            <uri>https://github.com/mallow-malt</uri>
+        </author>
+        <published>2022-01-14T22:06:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kirinokirino/wasm-4-gfx-utils: Graphics workbench for experimentation.]]></title>
+        <id>https://github.com/kirinokirino/wasm-4-gfx-utils</id>
+        <link href="https://github.com/kirinokirino/wasm-4-gfx-utils"/>
+        <updated>2022-01-14T19:03:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19394486?u=8708d9151d213cfaf8d959ee32cc651cf90a7ed4&v=4" width="64" height="64" alt=""/><br/><div>Graphics workbench for experimentation.</div>]]></content>
+        <author>
+            <name>kirinokirino</name>
+            <email>kirinokirino@noreply.github.com</email>
+            <uri>https://github.com/kirinokirino</uri>
+        </author>
+        <published>2022-01-14T18:59:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[edubart/antcopter: 2D speed run platformer game made for the WASM4 Game Jam]]></title>
+        <id>https://github.com/edubart/antcopter</id>
+        <link href="https://github.com/edubart/antcopter"/>
+        <updated>2022-01-15T00:12:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/322030?u=1cf0bdd819f869e49442c85ca591650da3f312be&v=4" width="64" height="64" alt=""/><br/><div>2D speed run platformer game made for the WASM4 Game Jam</div>]]></content>
+        <author>
+            <name>edubart</name>
+            <email>edubart@noreply.github.com</email>
+            <uri>https://github.com/edubart</uri>
+        </author>
+        <published>2022-01-14T20:55:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
+        <id>https://github.com/ZetaNumbers/wasm4-rs</id>
+        <link href="https://github.com/ZetaNumbers/wasm4-rs"/>
+        <updated>2022-01-13T00:22:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53300196?u=7bb691c0398a0bb831048e26100cdc8fd26bbc94&v=4" width="64" height="64" alt=""/><br/><div>Idiomatic bindings to wasm4 for Rust</div>]]></content>
+        <author>
+            <name>ZetaNumbers</name>
+            <email>ZetaNumbers@noreply.github.com</email>
+            <uri>https://github.com/ZetaNumbers</uri>
+        </author>
+        <published>2021-12-14T23:50:55.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[leonskidev/tw4f: A tiny and safe abstraction over the WASM-4 fantasy console.]]></title>
         <id>https://github.com/leonskidev/tw4f</id>
@@ -24,7 +115,7 @@
         <title type="html"><![CDATA[pfgithub/wasm4-zig: idiomatic wasm-4 bindings in zig]]></title>
         <id>https://github.com/pfgithub/wasm4-zig</id>
         <link href="https://github.com/pfgithub/wasm4-zig"/>
-        <updated>2022-01-03T17:43:46.000Z</updated>
+        <updated>2022-01-14T21:09:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>idiomatic wasm-4 bindings in zig</div>]]></content>
         <author>
             <name>pfgithub</name>
@@ -45,32 +136,6 @@
             <uri>https://github.com/kirinokirino</uri>
         </author>
         <published>2022-01-13T16:33:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-13T10:26:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZetaNumbers/wasm4-rs: Idiomatic bindings to wasm4 for Rust]]></title>
-        <id>https://github.com/ZetaNumbers/wasm4-rs</id>
-        <link href="https://github.com/ZetaNumbers/wasm4-rs"/>
-        <updated>2022-01-13T00:22:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53300196?u=7bb691c0398a0bb831048e26100cdc8fd26bbc94&v=4" width="64" height="64" alt=""/><br/><div>Idiomatic bindings to wasm4 for Rust</div>]]></content>
-        <author>
-            <name>ZetaNumbers</name>
-            <email>ZetaNumbers@noreply.github.com</email>
-            <uri>https://github.com/ZetaNumbers</uri>
-        </author>
-        <published>2021-12-14T23:50:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[scrivener/parking-puzzle: WASM-4 clone of that parking game]]></title>
@@ -201,70 +266,5 @@
             <uri>https://github.com/yowl</uri>
         </author>
         <published>2021-12-20T23:57:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pascalruscher/wasm4_snake: A snake clone for the WASM-4 Fantasy Console]]></title>
-        <id>https://github.com/pascalruscher/wasm4_snake</id>
-        <link href="https://github.com/pascalruscher/wasm4_snake"/>
-        <updated>2022-01-02T17:59:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6429037?u=b794ac2f4053d22786b305f338bbc95633f47c4a&v=4" width="64" height="64" alt=""/><br/><div>A snake clone for the WASM-4 Fantasy Console</div>]]></content>
-        <author>
-            <name>pascalruscher</name>
-            <email>pascalruscher@noreply.github.com</email>
-            <uri>https://github.com/pascalruscher</uri>
-        </author>
-        <published>2021-12-31T13:56:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[christopher-kleine/wasm4-docker: Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig]]></title>
-        <id>https://github.com/christopher-kleine/wasm4-docker</id>
-        <link href="https://github.com/christopher-kleine/wasm4-docker"/>
-        <updated>2022-01-02T13:43:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>Dockerfile to create a docker image than compiles AssemblyScript, C, Go, Rust and Zig</div>]]></content>
-        <author>
-            <name>christopher-kleine</name>
-            <email>christopher-kleine@noreply.github.com</email>
-            <uri>https://github.com/christopher-kleine</uri>
-        </author>
-        <published>2021-11-25T20:07:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[graziel666/simple-rpg: just a simple rpg, triyng to learn to use wasm4]]></title>
-        <id>https://github.com/graziel666/simple-rpg</id>
-        <link href="https://github.com/graziel666/simple-rpg"/>
-        <updated>2022-01-10T19:47:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35145859?u=7b58c4e2bf5d1c90c8bdd12440ad8fae56774f1a&v=4" width="64" height="64" alt=""/><br/><div>just a simple rpg, triyng to learn to use wasm4</div>]]></content>
-        <author>
-            <name>graziel666</name>
-            <email>graziel666@noreply.github.com</email>
-            <uri>https://github.com/graziel666</uri>
-        </author>
-        <published>2021-12-29T02:42:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/wasm4-beep2src: Experimental music converter for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/wasm4-beep2src</id>
-        <link href="https://github.com/MrRafael-dev/wasm4-beep2src"/>
-        <updated>2021-12-31T11:53:22.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>Experimental music converter for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2021-12-31T10:19:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ShigekiKarita/wasm4-flappy-bird]]></title>
-        <id>https://github.com/ShigekiKarita/wasm4-flappy-bird</id>
-        <link href="https://github.com/ShigekiKarita/wasm4-flappy-bird"/>
-        <updated>2022-01-06T03:15:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6745326?u=bd8cba2b1d21d8b0f5b7309fbd158462677bd85a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ShigekiKarita</name>
-            <email>ShigekiKarita@noreply.github.com</email>
-            <uri>https://github.com/ShigekiKarita</uri>
-        </author>
-        <published>2021-12-30T19:42:50.000Z</published>
     </entry>
 </feed>
