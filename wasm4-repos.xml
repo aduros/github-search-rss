@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-20T01:02:19.522Z</updated>
+    <updated>2022-01-21T00:51:53.847Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -34,17 +34,17 @@
         <published>2022-01-14T23:48:04.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-19T18:58:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[jamesmcm/w4tron: Small tron game in wasm4]]></title>
+        <id>https://github.com/jamesmcm/w4tron</id>
+        <link href="https://github.com/jamesmcm/w4tron"/>
+        <updated>2022-01-20T20:43:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54889?u=7ed894dd9317e2c6434ca4d0aa2b9fe5087d1ef6&v=4" width="64" height="64" alt=""/><br/><div>Small tron game in wasm4</div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>jamesmcm</name>
+            <email>jamesmcm@noreply.github.com</email>
+            <uri>https://github.com/jamesmcm</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-01-20T20:33:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
@@ -58,6 +58,46 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[samhattangady/rolling_hills: Hills in the Moonlight. A WASM4 Game]]></title>
+        <id>https://github.com/samhattangady/rolling_hills</id>
+        <link href="https://github.com/samhattangady/rolling_hills"/>
+        <updated>2022-01-20T18:41:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15143832?u=4083f6b59132aaa93dc8a9e41dc7e0982c96bc80&v=4" width="64" height="64" alt=""/><br/><div>Hills in the Moonlight. A WASM4 Game</div>]]></content>
+        <author>
+            <name>samhattangady</name>
+            <email>samhattangady@noreply.github.com</email>
+            <uri>https://github.com/samhattangady</uri>
+        </author>
+        <published>2022-01-15T16:56:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[willGuimont/rolly-dango: Play it here: https://willguimont.github.io/rolly-dango/]]></title>
+        <id>https://github.com/willGuimont/rolly-dango</id>
+        <link href="https://github.com/willGuimont/rolly-dango"/>
+        <updated>2022-01-18T04:45:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10492253?u=b7c99e8677fb95ad9bb984f85c953038a2cb76f3&v=4" width="64" height="64" alt=""/><br/><div>Play it here: <a href="https://willguimont.github.io/rolly-dango/" rel="nofollow">https://willguimont.github.io/rolly-dango/</a>
+</div>]]></content>
+        <author>
+            <name>willGuimont</name>
+            <email>willGuimont@noreply.github.com</email>
+            <uri>https://github.com/willGuimont</uri>
+        </author>
+        <published>2021-12-21T14:17:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-19T18:58:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpencasaurusRex/WASM4GameJam]]></title>
@@ -97,20 +137,6 @@
             <uri>https://github.com/pfgithub</uri>
         </author>
         <published>2022-01-18T21:11:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[willGuimont/rolly-dango: Play it here: https://willguimont.github.io/rolly-dango/]]></title>
-        <id>https://github.com/willGuimont/rolly-dango</id>
-        <link href="https://github.com/willGuimont/rolly-dango"/>
-        <updated>2022-01-18T04:45:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10492253?u=b7c99e8677fb95ad9bb984f85c953038a2cb76f3&v=4" width="64" height="64" alt=""/><br/><div>Play it here: <a href="https://willguimont.github.io/rolly-dango/" rel="nofollow">https://willguimont.github.io/rolly-dango/</a>
-</div>]]></content>
-        <author>
-            <name>willGuimont</name>
-            <email>willGuimont@noreply.github.com</email>
-            <uri>https://github.com/willGuimont</uri>
-        </author>
-        <published>2021-12-21T14:17:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Unesty/calculator: Game for wasm4 game jam]]></title>
@@ -242,31 +268,5 @@
             <uri>https://github.com/ad-ops</uri>
         </author>
         <published>2022-01-16T16:24:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pfgithub/wasm4-zig: idiomatic wasm-4 bindings in zig]]></title>
-        <id>https://github.com/pfgithub/wasm4-zig</id>
-        <link href="https://github.com/pfgithub/wasm4-zig"/>
-        <updated>2022-01-14T21:09:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>idiomatic wasm-4 bindings in zig</div>]]></content>
-        <author>
-            <name>pfgithub</name>
-            <email>pfgithub@noreply.github.com</email>
-            <uri>https://github.com/pfgithub</uri>
-        </author>
-        <published>2022-01-03T17:18:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[troywiegand/wasm4-game-jam-2022]]></title>
-        <id>https://github.com/troywiegand/wasm4-game-jam-2022</id>
-        <link href="https://github.com/troywiegand/wasm4-game-jam-2022"/>
-        <updated>2022-01-15T17:55:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/38299976?u=bdb743537f2bbe87be72d950bf5b55e4f3d0b039&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>troywiegand</name>
-            <email>troywiegand@noreply.github.com</email>
-            <uri>https://github.com/troywiegand</uri>
-        </author>
-        <published>2022-01-15T17:53:14.000Z</published>
     </entry>
 </feed>
