@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-26T00:57:38.518Z</updated>
+    <updated>2022-01-27T00:54:21.917Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/tinysprite</id>
+        <link href="https://github.com/MrRafael-dev/tinysprite"/>
+        <updated>2022-01-19T18:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pfgithub/wasm4-zig: idiomatic wasm-4 bindings in zig]]></title>
+        <id>https://github.com/pfgithub/wasm4-zig</id>
+        <link href="https://github.com/pfgithub/wasm4-zig"/>
+        <updated>2022-01-25T17:32:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>idiomatic wasm-4 bindings in zig</div>]]></content>
+        <author>
+            <name>pfgithub</name>
+            <email>pfgithub@noreply.github.com</email>
+            <uri>https://github.com/pfgithub</uri>
+        </author>
+        <published>2022-01-03T17:18:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-26T23:03:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[madwareru/wasm4_shadertoy: A simple shadertoy-like experience where user can make some visualizations in a single "pixel shader"]]></title>
         <id>https://github.com/madwareru/wasm4_shadertoy</id>
@@ -32,19 +71,6 @@
             <uri>https://github.com/RobLoach</uri>
         </author>
         <published>2022-01-17T08:48:42.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-23T02:46:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[drcz/ZxZ: ZxZ]]></title>
@@ -97,19 +123,6 @@
             <uri>https://github.com/zenith391</uri>
         </author>
         <published>2022-01-15T09:58:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2022-01-19T18:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Andre-LA/micro-quest: entry for wasm4 jam]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jamesmcm</uri>
         </author>
         <published>2022-01-20T20:33:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
-        <id>https://github.com/Gertkeno/to-the-core</id>
-        <link href="https://github.com/Gertkeno/to-the-core"/>
-        <updated>2022-01-23T22:14:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gem collecting and super digging game</div>]]></content>
-        <author>
-            <name>Gertkeno</name>
-            <email>Gertkeno@noreply.github.com</email>
-            <uri>https://github.com/Gertkeno</uri>
-        </author>
-        <published>2022-01-23T15:50:17.000Z</published>
     </entry>
 </feed>
