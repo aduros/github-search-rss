@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-01-31T00:51:48.569Z</updated>
+    <updated>2022-02-01T00:54:54.895Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-01-30T12:29:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jonathanderque/lingword: Lingword is a word-guessing game written in Zig for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/jonathanderque/lingword</id>
+        <link href="https://github.com/jonathanderque/lingword"/>
+        <updated>2022-01-31T00:07:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4202568?v=4" width="64" height="64" alt=""/><br/><div>Lingword is a word-guessing game written in Zig for the WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>jonathanderque</name>
+            <email>jonathanderque@noreply.github.com</email>
+            <uri>https://github.com/jonathanderque</uri>
+        </author>
+        <published>2022-01-30T18:39:54.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
         <id>https://github.com/Gertkeno/to-the-core</id>
@@ -24,7 +50,7 @@
         <title type="html"><![CDATA[Andre-LA/totally-not-sumo: GGJ 2022 game, made with nelua and wasm4]]></title>
         <id>https://github.com/Andre-LA/totally-not-sumo</id>
         <link href="https://github.com/Andre-LA/totally-not-sumo"/>
-        <updated>2022-01-30T19:44:03.000Z</updated>
+        <updated>2022-01-31T22:40:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>GGJ 2022 game, made with nelua and wasm4</div>]]></content>
         <author>
             <name>Andre-LA</name>
@@ -32,19 +58,6 @@
             <uri>https://github.com/Andre-LA</uri>
         </author>
         <published>2022-01-26T15:42:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jonathanderque/lingword: Lingword is a word-guessing game written in Zig for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/jonathanderque/lingword</id>
-        <link href="https://github.com/jonathanderque/lingword"/>
-        <updated>2022-01-31T00:07:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4202568?v=4" width="64" height="64" alt=""/><br/><div>Lingword is a word-guessing game written in Zig for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>jonathanderque</name>
-            <email>jonathanderque@noreply.github.com</email>
-            <uri>https://github.com/jonathanderque</uri>
-        </author>
-        <published>2022-01-30T18:39:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
@@ -58,19 +71,6 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-01-30T12:29:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aduros/lime-volleyball]]></title>
