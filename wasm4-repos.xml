@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-02-10T00:56:00.920Z</updated>
+    <updated>2022-02-11T00:59:38.047Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-02-09T12:04:41.000Z</updated>
+        <updated>2022-02-10T00:56:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[zenith391/don-carlos: A small platformer for WASM-4 fantasy console]]></title>
+        <id>https://github.com/zenith391/don-carlos</id>
+        <link href="https://github.com/zenith391/don-carlos"/>
+        <updated>2022-01-24T13:42:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39484230?u=50690602d18316b3a23b06c163ddafd4bde3aa47&v=4" width="64" height="64" alt=""/><br/><div>A small platformer for WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>zenith391</name>
+            <email>zenith391@noreply.github.com</email>
+            <uri>https://github.com/zenith391</uri>
+        </author>
+        <published>2022-01-15T09:58:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[christopher-kleine/wasm-4-tutorial-games: A collection of small games for the Fantasy Console WASM-4]]></title>
@@ -149,19 +162,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2022-01-30T03:25:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zenith391/don-carlos: A small platformer for WASM-4 fantasy console]]></title>
-        <id>https://github.com/zenith391/don-carlos</id>
-        <link href="https://github.com/zenith391/don-carlos"/>
-        <updated>2022-01-24T13:42:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39484230?u=50690602d18316b3a23b06c163ddafd4bde3aa47&v=4" width="64" height="64" alt=""/><br/><div>A small platformer for WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>zenith391</name>
-            <email>zenith391@noreply.github.com</email>
-            <uri>https://github.com/zenith391</uri>
-        </author>
-        <published>2022-01-15T09:58:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kirinokirino/space-delivery: Wasm-4 game jam entry.]]></title>
