@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-02-21T00:11:44.996Z</updated>
+    <updated>2022-02-22T00:11:35.304Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[JustinRyanH/wasm4-znake]]></title>
+        <id>https://github.com/JustinRyanH/wasm4-znake</id>
+        <link href="https://github.com/JustinRyanH/wasm4-znake"/>
+        <updated>2022-02-21T20:39:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/571433?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JustinRyanH</name>
+            <email>JustinRyanH@noreply.github.com</email>
+            <uri>https://github.com/JustinRyanH</uri>
+        </author>
+        <published>2022-02-19T02:25:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andre-LA/micro-quest: entry for wasm4 jam]]></title>
+        <id>https://github.com/Andre-LA/micro-quest</id>
+        <link href="https://github.com/Andre-LA/micro-quest"/>
+        <updated>2022-01-24T10:54:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>entry for wasm4 jam</div>]]></content>
+        <author>
+            <name>Andre-LA</name>
+            <email>Andre-LA@noreply.github.com</email>
+            <uri>https://github.com/Andre-LA</uri>
+        </author>
+        <published>2022-01-15T19:38:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-02-21T09:34:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libretro-thumbnails/WASM-4: Thumbnails for WASM-4]]></title>
+        <id>https://github.com/libretro-thumbnails/WASM-4</id>
+        <link href="https://github.com/libretro-thumbnails/WASM-4"/>
+        <updated>2022-01-17T05:01:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30330242?v=4" width="64" height="64" alt=""/><br/><div>Thumbnails for WASM-4</div>]]></content>
+        <author>
+            <name>libretro-thumbnails</name>
+            <email>libretro-thumbnails@noreply.github.com</email>
+            <uri>https://github.com/libretro-thumbnails</uri>
+        </author>
+        <published>2022-01-17T05:01:26.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WonkyMic/snake-wasm4: A WASM 2D Game Tutorial from https://wasm4.org/docs/]]></title>
         <id>https://github.com/WonkyMic/snake-wasm4</id>
@@ -35,19 +87,6 @@
         <published>2022-01-19T18:47:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-02-19T16:15:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RobLoach/libretro-database-wasm-4: WASM-4 database builder for libretro]]></title>
         <id>https://github.com/RobLoach/libretro-database-wasm-4</id>
         <link href="https://github.com/RobLoach/libretro-database-wasm-4"/>
@@ -59,19 +98,6 @@
             <uri>https://github.com/RobLoach</uri>
         </author>
         <published>2022-01-16T21:07:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[libretro-thumbnails/WASM-4: Thumbnails for WASM-4]]></title>
-        <id>https://github.com/libretro-thumbnails/WASM-4</id>
-        <link href="https://github.com/libretro-thumbnails/WASM-4"/>
-        <updated>2022-01-17T05:01:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30330242?v=4" width="64" height="64" alt=""/><br/><div>Thumbnails for WASM-4</div>]]></content>
-        <author>
-            <name>libretro-thumbnails</name>
-            <email>libretro-thumbnails@noreply.github.com</email>
-            <uri>https://github.com/libretro-thumbnails</uri>
-        </author>
-        <published>2022-01-17T05:01:26.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[zenith391/don-carlos: A small platformer for WASM-4 fantasy console]]></title>
@@ -241,31 +267,5 @@
             <uri>https://github.com/drcz</uri>
         </author>
         <published>2022-01-20T10:24:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DenialAdams/InfiniteRunner: wasm4 infinite runner]]></title>
-        <id>https://github.com/DenialAdams/InfiniteRunner</id>
-        <link href="https://github.com/DenialAdams/InfiniteRunner"/>
-        <updated>2022-02-06T13:21:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2072405?u=63365cf369ecd1ea9fefa422971fca4276d4575c&v=4" width="64" height="64" alt=""/><br/><div>wasm4 infinite runner</div>]]></content>
-        <author>
-            <name>DenialAdams</name>
-            <email>DenialAdams@noreply.github.com</email>
-            <uri>https://github.com/DenialAdams</uri>
-        </author>
-        <published>2021-11-05T02:03:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pfgithub/wasm4image: image converter and compressor for wasm4 zig]]></title>
-        <id>https://github.com/pfgithub/wasm4image</id>
-        <link href="https://github.com/pfgithub/wasm4image"/>
-        <updated>2022-01-24T17:14:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>image converter and compressor for wasm4 zig</div>]]></content>
-        <author>
-            <name>pfgithub</name>
-            <email>pfgithub@noreply.github.com</email>
-            <uri>https://github.com/pfgithub</uri>
-        </author>
-        <published>2022-01-18T21:11:17.000Z</published>
     </entry>
 </feed>
