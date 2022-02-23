@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-02-22T00:11:35.304Z</updated>
+    <updated>2022-02-23T00:13:07.067Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -21,19 +21,6 @@
         <published>2022-02-19T02:25:11.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andre-LA/micro-quest: entry for wasm4 jam]]></title>
-        <id>https://github.com/Andre-LA/micro-quest</id>
-        <link href="https://github.com/Andre-LA/micro-quest"/>
-        <updated>2022-01-24T10:54:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>entry for wasm4 jam</div>]]></content>
-        <author>
-            <name>Andre-LA</name>
-            <email>Andre-LA@noreply.github.com</email>
-            <uri>https://github.com/Andre-LA</uri>
-        </author>
-        <published>2022-01-15T19:38:55.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
@@ -45,6 +32,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andre-LA/micro-quest: entry for wasm4 jam]]></title>
+        <id>https://github.com/Andre-LA/micro-quest</id>
+        <link href="https://github.com/Andre-LA/micro-quest"/>
+        <updated>2022-01-24T10:54:37.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>entry for wasm4 jam</div>]]></content>
+        <author>
+            <name>Andre-LA</name>
+            <email>Andre-LA@noreply.github.com</email>
+            <uri>https://github.com/Andre-LA</uri>
+        </author>
+        <published>2022-01-15T19:38:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[libretro-thumbnails/WASM-4: Thumbnails for WASM-4]]></title>
@@ -256,11 +256,11 @@
         <published>2022-01-17T08:48:42.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[drcz/ZxZ: ZxZ]]></title>
+        <title type="html"><![CDATA[drcz/ZxZ: wasm4 gamejam entry (sci-fi puzzle/adventure)]]></title>
         <id>https://github.com/drcz/ZxZ</id>
         <link href="https://github.com/drcz/ZxZ"/>
-        <updated>2022-02-18T14:04:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1406282?u=370ee6f4b3614304df0237138e0cbe5fe7fc361d&v=4" width="64" height="64" alt=""/><br/><div>ZxZ</div>]]></content>
+        <updated>2022-02-22T12:29:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1406282?u=370ee6f4b3614304df0237138e0cbe5fe7fc361d&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gamejam entry (sci-fi puzzle/adventure)</div>]]></content>
         <author>
             <name>drcz</name>
             <email>drcz@noreply.github.com</email>
