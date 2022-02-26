@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-02-25T00:11:49.422Z</updated>
+    <updated>2022-02-26T00:11:19.378Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[msakuta/InnerWilds: Wasm4 executable to simulate planetary motion]]></title>
         <id>https://github.com/msakuta/InnerWilds</id>
         <link href="https://github.com/msakuta/InnerWilds"/>
-        <updated>2022-02-24T02:44:56.000Z</updated>
+        <updated>2022-02-25T21:43:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2798715?v=4" width="64" height="64" alt=""/><br/><div>Wasm4 executable to simulate planetary motion</div>]]></content>
         <author>
             <name>msakuta</name>
