@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-03-08T00:11:36.857Z</updated>
+    <updated>2022-03-09T00:12:19.429Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -19,6 +19,19 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TimDeve/carp-wasm4-template]]></title>
+        <id>https://github.com/TimDeve/carp-wasm4-template</id>
+        <link href="https://github.com/TimDeve/carp-wasm4-template"/>
+        <updated>2022-03-08T19:57:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15091071?u=1145703d4c3532a1ddf8d4ad9800de67f26e5341&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>TimDeve</name>
+            <email>TimDeve@noreply.github.com</email>
+            <uri>https://github.com/TimDeve</uri>
+        </author>
+        <published>2022-03-08T19:40:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
@@ -254,18 +267,5 @@
             <uri>https://github.com/pfgithub</uri>
         </author>
         <published>2022-01-03T17:18:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[madwareru/wasm4_shadertoy: A simple shadertoy-like experience where user can make some visualizations in a single "pixel shader"]]></title>
-        <id>https://github.com/madwareru/wasm4_shadertoy</id>
-        <link href="https://github.com/madwareru/wasm4_shadertoy"/>
-        <updated>2022-01-25T06:19:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/29083023?u=b826d992c677737ad6e85c5f89d3d134b5b571ed&v=4" width="64" height="64" alt=""/><br/><div>A simple shadertoy-like experience where user can make some visualizations in a single "pixel shader"</div>]]></content>
-        <author>
-            <name>madwareru</name>
-            <email>madwareru@noreply.github.com</email>
-            <uri>https://github.com/madwareru</uri>
-        </author>
-        <published>2022-01-24T06:42:51.000Z</published>
     </entry>
 </feed>
