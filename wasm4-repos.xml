@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-03-11T00:14:19.505Z</updated>
+    <updated>2022-03-12T00:11:43.012Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -19,6 +19,19 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KrazyKirby99999/wasm4-linux-setup: curl https://raw.githubusercontent.com/KrazyKirby99999/wasm4-linux-setup/master/setup.sh | bash]]></title>
+        <id>https://github.com/KrazyKirby99999/wasm4-linux-setup</id>
+        <link href="https://github.com/KrazyKirby99999/wasm4-linux-setup"/>
+        <updated>2022-03-11T16:05:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/69373044?v=4" width="64" height="64" alt=""/><br/><div>curl <a href="https://raw.githubusercontent.com/KrazyKirby99999/wasm4-linux-setup/master/setup.sh" rel="nofollow">https://raw.githubusercontent.com/KrazyKirby99999/wasm4-linux-setup/master/setup.sh</a> | bash</div>]]></content>
+        <author>
+            <name>KrazyKirby99999</name>
+            <email>KrazyKirby99999@noreply.github.com</email>
+            <uri>https://github.com/KrazyKirby99999</uri>
+        </author>
+        <published>2022-03-11T15:59:07.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[TimDeve/carp-wasm4-template]]></title>
@@ -254,18 +267,5 @@
             <uri>https://github.com/kirinokirino</uri>
         </author>
         <published>2022-01-23T14:21:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pfgithub/wasm4-zig: idiomatic wasm-4 bindings in zig]]></title>
-        <id>https://github.com/pfgithub/wasm4-zig</id>
-        <link href="https://github.com/pfgithub/wasm4-zig"/>
-        <updated>2022-01-25T17:32:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6010774?u=5188a33e37197effb2c39c31afe7d056c2510ca3&v=4" width="64" height="64" alt=""/><br/><div>idiomatic wasm-4 bindings in zig</div>]]></content>
-        <author>
-            <name>pfgithub</name>
-            <email>pfgithub@noreply.github.com</email>
-            <uri>https://github.com/pfgithub</uri>
-        </author>
-        <published>2022-01-03T17:18:12.000Z</published>
     </entry>
 </feed>
