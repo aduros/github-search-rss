@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-03-13T00:12:35.547Z</updated>
+    <updated>2022-03-14T00:13:24.756Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-03-13T09:05:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[TimDeve/carp-wasm4-template]]></title>
         <id>https://github.com/TimDeve/carp-wasm4-template</id>
         <link href="https://github.com/TimDeve/carp-wasm4-template"/>
-        <updated>2022-03-09T15:56:37.000Z</updated>
+        <updated>2022-03-13T11:34:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15091071?u=1145703d4c3532a1ddf8d4ad9800de67f26e5341&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>TimDeve</name>
@@ -45,19 +58,6 @@
             <uri>https://github.com/TimDeve</uri>
         </author>
         <published>2022-03-08T19:40:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-03-10T11:54:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[msakuta/InnerWilds: Wasm4 executable to simulate planetary motion]]></title>
