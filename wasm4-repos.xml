@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-03-29T00:16:28.320Z</updated>
+    <updated>2022-03-30T00:12:46.062Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-03-28T09:17:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth to Wasm compiler with Wasm-4 bindings]]></title>
         <id>https://github.com/FrankWPA/4orth</id>
@@ -32,6 +19,32 @@
             <uri>https://github.com/FrankWPA</uri>
         </author>
         <published>2022-03-17T03:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 音]]></title>
+        <id>https://github.com/JerwuQu/w4on</id>
+        <link href="https://github.com/JerwuQu/w4on"/>
+        <updated>2022-03-29T20:48:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 音</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-03-29T20:46:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-03-28T09:17:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[drcz/ZxZ: wasm4 gamejam entry (sci-fi puzzle/adventure)]]></title>
@@ -115,7 +128,7 @@
         <title type="html"><![CDATA[Andre-LA/micro-quest: entry for wasm4 jam]]></title>
         <id>https://github.com/Andre-LA/micro-quest</id>
         <link href="https://github.com/Andre-LA/micro-quest"/>
-        <updated>2022-01-24T10:54:37.000Z</updated>
+        <updated>2022-03-29T07:05:54.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>entry for wasm4 jam</div>]]></content>
         <author>
             <name>Andre-LA</name>
@@ -254,18 +267,5 @@
             <uri>https://github.com/Gertkeno</uri>
         </author>
         <published>2022-01-23T15:50:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andre-LA/totally-not-sumo: GGJ 2022 game, made with nelua and wasm4]]></title>
-        <id>https://github.com/Andre-LA/totally-not-sumo</id>
-        <link href="https://github.com/Andre-LA/totally-not-sumo"/>
-        <updated>2022-02-02T11:16:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>GGJ 2022 game, made with nelua and wasm4</div>]]></content>
-        <author>
-            <name>Andre-LA</name>
-            <email>Andre-LA@noreply.github.com</email>
-            <uri>https://github.com/Andre-LA</uri>
-        </author>
-        <published>2022-01-26T15:42:29.000Z</published>
     </entry>
 </feed>
