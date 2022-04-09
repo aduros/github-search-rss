@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-04-08T00:16:33.198Z</updated>
+    <updated>2022-04-09T00:14:13.753Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[AlexandrosKap/wasm4-playground: I'm just using this repo for storing WASM-4 things :)]]></title>
+        <id>https://github.com/AlexandrosKap/wasm4-playground</id>
+        <link href="https://github.com/AlexandrosKap/wasm4-playground"/>
+        <updated>2022-04-08T10:26:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53071962?u=8bb8d01ac0e0c298cdac26da32dc48fa9c9be196&v=4" width="64" height="64" alt=""/><br/><div>I'm just using this repo for storing WASM-4 things :)</div>]]></content>
+        <author>
+            <name>AlexandrosKap</name>
+            <email>AlexandrosKap@noreply.github.com</email>
+            <uri>https://github.com/AlexandrosKap</uri>
+        </author>
+        <published>2022-04-08T10:24:45.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
@@ -254,18 +267,5 @@
             <uri>https://github.com/restitux</uri>
         </author>
         <published>2022-01-14T22:03:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
-        <id>https://github.com/Gertkeno/to-the-core</id>
-        <link href="https://github.com/Gertkeno/to-the-core"/>
-        <updated>2022-02-26T20:32:01.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gem collecting and super digging game</div>]]></content>
-        <author>
-            <name>Gertkeno</name>
-            <email>Gertkeno@noreply.github.com</email>
-            <uri>https://github.com/Gertkeno</uri>
-        </author>
-        <published>2022-01-23T15:50:17.000Z</published>
     </entry>
 </feed>
