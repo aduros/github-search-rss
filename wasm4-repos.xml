@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-04-11T00:13:34.500Z</updated>
+    <updated>2022-04-12T00:14:39.142Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth to Wasm compiler with Wasm-4 bindings]]></title>
+        <id>https://github.com/FrankWPA/4orth</id>
+        <link href="https://github.com/FrankWPA/4orth"/>
+        <updated>2022-04-10T23:05:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=923c6b66d30a26e957a80f2ffdf193d5f4cb8fcb&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth to Wasm compiler with Wasm-4 bindings</div>]]></content>
+        <author>
+            <name>FrankWPA</name>
+            <email>FrankWPA@noreply.github.com</email>
+            <uri>https://github.com/FrankWPA</uri>
+        </author>
+        <published>2022-03-17T03:21:42.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-04-06T16:03:11.000Z</updated>
+        <updated>2022-04-11T19:01:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -32,19 +45,6 @@
             <uri>https://github.com/AlexandrosKap</uri>
         </author>
         <published>2022-04-08T10:24:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth to Wasm compiler with Wasm-4 bindings]]></title>
-        <id>https://github.com/FrankWPA/4orth</id>
-        <link href="https://github.com/FrankWPA/4orth"/>
-        <updated>2022-04-10T23:05:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=923c6b66d30a26e957a80f2ffdf193d5f4cb8fcb&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth to Wasm compiler with Wasm-4 bindings</div>]]></content>
-        <author>
-            <name>FrankWPA</name>
-            <email>FrankWPA@noreply.github.com</email>
-            <uri>https://github.com/FrankWPA</uri>
-        </author>
-        <published>2022-03-17T03:21:42.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 音]]></title>
