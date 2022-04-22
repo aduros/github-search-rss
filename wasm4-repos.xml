@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-04-21T00:16:41.890Z</updated>
+    <updated>2022-04-22T00:18:02.213Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -19,6 +19,19 @@
             <uri>https://github.com/FrankWPA</uri>
         </author>
         <published>2022-03-17T03:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
+        <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
+        <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
+        <updated>2022-04-21T20:27:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
+        <author>
+            <name>MinusKelvin</name>
+            <email>MinusKelvin@noreply.github.com</email>
+            <uri>https://github.com/MinusKelvin</uri>
+        </author>
+        <published>2022-04-21T00:38:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jzeiber/wasm4-tankbattle: Multiplayer tank battle game for WASM-4 fantasy game console]]></title>
@@ -50,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-04-20T18:54:53.000Z</updated>
+        <updated>2022-04-21T07:23:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -254,18 +267,5 @@
             <uri>https://github.com/FrankWPA</uri>
         </author>
         <published>2022-02-06T17:17:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RobLoach/libretro-database-wasm-4: WASM-4 database builder for libretro]]></title>
-        <id>https://github.com/RobLoach/libretro-database-wasm-4</id>
-        <link href="https://github.com/RobLoach/libretro-database-wasm-4"/>
-        <updated>2022-01-16T21:07:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25086?v=4" width="64" height="64" alt=""/><br/><div>WASM-4 database builder for libretro</div>]]></content>
-        <author>
-            <name>RobLoach</name>
-            <email>RobLoach@noreply.github.com</email>
-            <uri>https://github.com/RobLoach</uri>
-        </author>
-        <published>2022-01-16T21:07:10.000Z</published>
     </entry>
 </feed>
