@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-04-22T00:18:02.213Z</updated>
+    <updated>2022-04-23T00:13:13.115Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
         <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
         <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
-        <updated>2022-04-21T20:27:33.000Z</updated>
+        <updated>2022-04-22T13:44:14.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
         <author>
             <name>MinusKelvin</name>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[jzeiber/wasm4-tankbattle: Multiplayer tank battle game for WASM-4 fantasy game console]]></title>
         <id>https://github.com/jzeiber/wasm4-tankbattle</id>
         <link href="https://github.com/jzeiber/wasm4-tankbattle"/>
-        <updated>2022-04-19T16:17:28.000Z</updated>
+        <updated>2022-04-22T13:44:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Multiplayer tank battle game for WASM-4 fantasy game console</div>]]></content>
         <author>
             <name>jzeiber</name>
@@ -63,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-04-21T07:23:01.000Z</updated>
+        <updated>2022-04-22T21:37:31.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -76,7 +76,7 @@
         <title type="html"><![CDATA[analog-hors/glowfish: Simple Wasm4 Chess game.]]></title>
         <id>https://github.com/analog-hors/glowfish</id>
         <link href="https://github.com/analog-hors/glowfish"/>
-        <updated>2022-04-17T14:48:26.000Z</updated>
+        <updated>2022-04-22T13:44:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44050761?u=d7ebb4c2a9a7388538a7e481235e0c832355705f&v=4" width="64" height="64" alt=""/><br/><div>Simple Wasm4 Chess game.</div>]]></content>
         <author>
             <name>analog-hors</name>
