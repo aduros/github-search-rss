@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-04-25T00:14:12.819Z</updated>
+    <updated>2022-04-26T00:16:08.455Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with a WASM-4 target]]></title>
+        <id>https://github.com/FrankWPA/4orth</id>
+        <link href="https://github.com/FrankWPA/4orth"/>
+        <updated>2022-04-19T22:12:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=923c6b66d30a26e957a80f2ffdf193d5f4cb8fcb&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth compiler with a WASM-4 target</div>]]></content>
+        <author>
+            <name>FrankWPA</name>
+            <email>FrankWPA@noreply.github.com</email>
+            <uri>https://github.com/FrankWPA</uri>
+        </author>
+        <published>2022-03-17T03:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-04-25T03:16:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[locriacyber/wasm4-zig-template: Template for wasm4]]></title>
         <id>https://github.com/locriacyber/wasm4-zig-template</id>
@@ -21,19 +47,6 @@
         <published>2022-04-24T13:06:32.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-04-24T11:11:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
         <link href="https://github.com/MrRafael-dev/tinysprite"/>
@@ -45,19 +58,6 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with a WASM-4 target]]></title>
-        <id>https://github.com/FrankWPA/4orth</id>
-        <link href="https://github.com/FrankWPA/4orth"/>
-        <updated>2022-04-19T22:12:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=923c6b66d30a26e957a80f2ffdf193d5f4cb8fcb&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth compiler with a WASM-4 target</div>]]></content>
-        <author>
-            <name>FrankWPA</name>
-            <email>FrankWPA@noreply.github.com</email>
-            <uri>https://github.com/FrankWPA</uri>
-        </author>
-        <published>2022-03-17T03:21:42.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
