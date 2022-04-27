@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-04-26T00:16:08.455Z</updated>
+    <updated>2022-04-27T00:16:23.480Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[locriacyber/wasm4-zig-template: Template for wasm4]]></title>
+        <id>https://github.com/locriacyber/wasm4-zig-template</id>
+        <link href="https://github.com/locriacyber/wasm4-zig-template"/>
+        <updated>2022-04-24T13:09:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74560659?u=fee2300159e1f828b8211eee01143a6af7449ebe&v=4" width="64" height="64" alt=""/><br/><div>Template for wasm4</div>]]></content>
+        <author>
+            <name>locriacyber</name>
+            <email>locriacyber@noreply.github.com</email>
+            <uri>https://github.com/locriacyber</uri>
+        </author>
+        <published>2022-04-24T13:06:32.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with a WASM-4 target]]></title>
         <id>https://github.com/FrankWPA/4orth</id>
@@ -21,6 +34,19 @@
         <published>2022-03-17T03:21:42.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
+        <id>https://github.com/JustinRyanH/znake</id>
+        <link href="https://github.com/JustinRyanH/znake"/>
+        <updated>2022-04-26T03:16:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/571433?v=4" width="64" height="64" alt=""/><br/><div>Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol</div>]]></content>
+        <author>
+            <name>JustinRyanH</name>
+            <email>JustinRyanH@noreply.github.com</email>
+            <uri>https://github.com/JustinRyanH</uri>
+        </author>
+        <published>2022-02-19T02:25:11.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
@@ -32,19 +58,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[locriacyber/wasm4-zig-template: Template for wasm4]]></title>
-        <id>https://github.com/locriacyber/wasm4-zig-template</id>
-        <link href="https://github.com/locriacyber/wasm4-zig-template"/>
-        <updated>2022-04-24T13:09:25.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/74560659?u=fee2300159e1f828b8211eee01143a6af7449ebe&v=4" width="64" height="64" alt=""/><br/><div>Template for wasm4</div>]]></content>
-        <author>
-            <name>locriacyber</name>
-            <email>locriacyber@noreply.github.com</email>
-            <uri>https://github.com/locriacyber</uri>
-        </author>
-        <published>2022-04-24T13:06:32.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
@@ -253,19 +266,5 @@
             <uri>https://github.com/libretro-thumbnails</uri>
         </author>
         <published>2022-01-17T05:01:26.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WonkyMic/snake-wasm4: A WASM 2D Game Tutorial from https://wasm4.org/docs/]]></title>
-        <id>https://github.com/WonkyMic/snake-wasm4</id>
-        <link href="https://github.com/WonkyMic/snake-wasm4"/>
-        <updated>2022-02-20T19:49:54.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/17017417?u=414bb2fb1e57b736a3ed4ab521ef11b90fa77326&v=4" width="64" height="64" alt=""/><br/><div>A WASM 2D Game Tutorial from <a href="https://wasm4.org/docs/" rel="nofollow">https://wasm4.org/docs/</a>
-</div>]]></content>
-        <author>
-            <name>WonkyMic</name>
-            <email>WonkyMic@noreply.github.com</email>
-            <uri>https://github.com/WonkyMic</uri>
-        </author>
-        <published>2022-02-20T19:46:19.000Z</published>
     </entry>
 </feed>
