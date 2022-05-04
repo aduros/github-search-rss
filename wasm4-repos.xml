@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-03T00:14:52.318Z</updated>
+    <updated>2022-05-04T00:14:36.698Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
-        <id>https://github.com/JustinRyanH/znake</id>
-        <link href="https://github.com/JustinRyanH/znake"/>
-        <updated>2022-04-26T03:16:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/571433?v=4" width="64" height="64" alt=""/><br/><div>Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol</div>]]></content>
-        <author>
-            <name>JustinRyanH</name>
-            <email>JustinRyanH@noreply.github.com</email>
-            <uri>https://github.com/JustinRyanH</uri>
-        </author>
-        <published>2022-02-19T02:25:11.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
         <id>https://github.com/FrankWPA/4orth</id>
@@ -32,6 +19,19 @@
             <uri>https://github.com/FrankWPA</uri>
         </author>
         <published>2022-03-17T03:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
+        <id>https://github.com/JustinRyanH/znake</id>
+        <link href="https://github.com/JustinRyanH/znake"/>
+        <updated>2022-04-26T03:16:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/571433?v=4" width="64" height="64" alt=""/><br/><div>Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol</div>]]></content>
+        <author>
+            <name>JustinRyanH</name>
+            <email>JustinRyanH@noreply.github.com</email>
+            <uri>https://github.com/JustinRyanH</uri>
+        </author>
+        <published>2022-02-19T02:25:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[locriacyber/wasm4-zig-template: Template for wasm4]]></title>
@@ -63,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-04-30T21:08:32.000Z</updated>
+        <updated>2022-05-03T12:51:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
