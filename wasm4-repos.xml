@@ -2,23 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-09T00:14:19.960Z</updated>
+    <updated>2022-05-10T00:16:27.299Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-05-08T13:29:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
+        <id>https://github.com/ChuuniMage/wasm4-fg</id>
+        <link href="https://github.com/ChuuniMage/wasm4-fg"/>
+        <updated>2022-05-01T12:11:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28918404?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>ChuuniMage</name>
+            <email>ChuuniMage@noreply.github.com</email>
+            <uri>https://github.com/ChuuniMage</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-05-01T12:07:10.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
+        <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
+        <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
+        <updated>2022-04-29T12:56:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
+        <author>
+            <name>MinusKelvin</name>
+            <email>MinusKelvin@noreply.github.com</email>
+            <uri>https://github.com/MinusKelvin</uri>
+        </author>
+        <published>2022-04-21T00:38:19.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
@@ -34,17 +47,17 @@
         <published>2022-03-17T03:21:42.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
-        <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
-        <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
-        <updated>2022-04-29T12:56:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-05-09T17:28:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
-            <name>MinusKelvin</name>
-            <email>MinusKelvin@noreply.github.com</email>
-            <uri>https://github.com/MinusKelvin</uri>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
         </author>
-        <published>2022-04-21T00:38:19.000Z</published>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[bwaters34/choate-bridge: Multiplayer bridge implementation in roland/WASM4]]></title>
@@ -84,19 +97,6 @@
             <uri>https://github.com/Yardanico</uri>
         </author>
         <published>2021-11-10T15:52:25.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
-        <id>https://github.com/ChuuniMage/wasm4-fg</id>
-        <link href="https://github.com/ChuuniMage/wasm4-fg"/>
-        <updated>2022-05-01T12:11:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28918404?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ChuuniMage</name>
-            <email>ChuuniMage@noreply.github.com</email>
-            <uri>https://github.com/ChuuniMage</uri>
-        </author>
-        <published>2022-05-01T12:07:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
