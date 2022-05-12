@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-11T00:14:28.813Z</updated>
+    <updated>2022-05-12T00:16:49.642Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[r00ster91/viridian-wasm: Viridian from VVVVVV on the WASM-4 fantasy console!]]></title>
+        <id>https://github.com/r00ster91/viridian-wasm</id>
+        <link href="https://github.com/r00ster91/viridian-wasm"/>
+        <updated>2022-04-27T09:55:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35064754?v=4" width="64" height="64" alt=""/><br/><div>Viridian from VVVVVV on the WASM-4 fantasy console!</div>]]></content>
+        <author>
+            <name>r00ster91</name>
+            <email>r00ster91@noreply.github.com</email>
+            <uri>https://github.com/r00ster91</uri>
+        </author>
+        <published>2022-04-27T08:26:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
+        <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
+        <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
+        <updated>2022-05-11T04:12:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
+        <author>
+            <name>MinusKelvin</name>
+            <email>MinusKelvin@noreply.github.com</email>
+            <uri>https://github.com/MinusKelvin</uri>
+        </author>
+        <published>2022-04-21T00:38:19.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
+        <id>https://github.com/JustinRyanH/znake</id>
+        <link href="https://github.com/JustinRyanH/znake"/>
+        <updated>2022-04-26T03:16:27.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/571433?v=4" width="64" height="64" alt=""/><br/><div>Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol</div>]]></content>
+        <author>
+            <name>JustinRyanH</name>
+            <email>JustinRyanH@noreply.github.com</email>
+            <uri>https://github.com/JustinRyanH</uri>
+        </author>
+        <published>2022-02-19T02:25:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[xaeroseven/wasm4-snake: WASM-4 / C Snake game]]></title>
         <id>https://github.com/xaeroseven/wasm4-snake</id>
@@ -34,19 +73,6 @@
         <published>2022-05-01T12:07:10.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
-        <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
-        <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
-        <updated>2022-04-29T12:56:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
-        <author>
-            <name>MinusKelvin</name>
-            <email>MinusKelvin@noreply.github.com</email>
-            <uri>https://github.com/MinusKelvin</uri>
-        </author>
-        <published>2022-04-21T00:38:19.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
         <id>https://github.com/FrankWPA/4orth</id>
         <link href="https://github.com/FrankWPA/4orth"/>
@@ -63,7 +89,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-05-10T22:14:42.000Z</updated>
+        <updated>2022-05-11T21:53:01.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -112,19 +138,6 @@
         <published>2021-11-10T15:52:25.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
-        <id>https://github.com/JustinRyanH/znake</id>
-        <link href="https://github.com/JustinRyanH/znake"/>
-        <updated>2022-04-26T03:16:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/571433?v=4" width="64" height="64" alt=""/><br/><div>Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol</div>]]></content>
-        <author>
-            <name>JustinRyanH</name>
-            <email>JustinRyanH@noreply.github.com</email>
-            <uri>https://github.com/JustinRyanH</uri>
-        </author>
-        <published>2022-02-19T02:25:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[locriacyber/wasm4-zig-template: Template for wasm4]]></title>
         <id>https://github.com/locriacyber/wasm4-zig-template</id>
         <link href="https://github.com/locriacyber/wasm4-zig-template"/>
@@ -136,19 +149,6 @@
             <uri>https://github.com/locriacyber</uri>
         </author>
         <published>2022-04-24T13:06:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[r00ster91/viridian-wasm: Viridian from VVVVVV on the WASM-4 fantasy console!]]></title>
-        <id>https://github.com/r00ster91/viridian-wasm</id>
-        <link href="https://github.com/r00ster91/viridian-wasm"/>
-        <updated>2022-04-27T09:55:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35064754?v=4" width="64" height="64" alt=""/><br/><div>Viridian from VVVVVV on the WASM-4 fantasy console!</div>]]></content>
-        <author>
-            <name>r00ster91</name>
-            <email>r00ster91@noreply.github.com</email>
-            <uri>https://github.com/r00ster91</uri>
-        </author>
-        <published>2022-04-27T08:26:25.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jzeiber/wasm4-tankbattle: Multiplayer tank battle game for WASM-4 fantasy game console]]></title>
