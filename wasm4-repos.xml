@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-12T00:16:49.642Z</updated>
+    <updated>2022-05-13T00:17:47.815Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
+        <id>https://github.com/skrshe/mung</id>
+        <link href="https://github.com/skrshe/mung"/>
+        <updated>2022-05-12T09:16:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40524589?u=717637d8afe3606da0e2a7f7640a3f185ebe424f&v=4" width="64" height="64" alt=""/><br/><div>Mother's Pong</div>]]></content>
+        <author>
+            <name>skrshe</name>
+            <email>skrshe@noreply.github.com</email>
+            <uri>https://github.com/skrshe</uri>
+        </author>
+        <published>2022-05-12T08:44:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
+        <id>https://github.com/ChuuniMage/wasm4-fg</id>
+        <link href="https://github.com/ChuuniMage/wasm4-fg"/>
+        <updated>2022-05-01T12:11:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28918404?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ChuuniMage</name>
+            <email>ChuuniMage@noreply.github.com</email>
+            <uri>https://github.com/ChuuniMage</uri>
+        </author>
+        <published>2022-05-01T12:07:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[r00ster91/viridian-wasm: Viridian from VVVVVV on the WASM-4 fantasy console!]]></title>
         <id>https://github.com/r00ster91/viridian-wasm</id>
@@ -60,19 +86,6 @@
         <published>2022-05-10T00:39:28.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
-        <id>https://github.com/ChuuniMage/wasm4-fg</id>
-        <link href="https://github.com/ChuuniMage/wasm4-fg"/>
-        <updated>2022-05-01T12:11:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28918404?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ChuuniMage</name>
-            <email>ChuuniMage@noreply.github.com</email>
-            <uri>https://github.com/ChuuniMage</uri>
-        </author>
-        <published>2022-05-01T12:07:10.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
         <id>https://github.com/FrankWPA/4orth</id>
         <link href="https://github.com/FrankWPA/4orth"/>
@@ -89,7 +102,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-05-11T21:53:01.000Z</updated>
+        <updated>2022-05-12T17:00:05.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/KrazyKirby99999</uri>
         </author>
         <published>2022-03-11T15:59:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TimDeve/carp-wasm4-template]]></title>
-        <id>https://github.com/TimDeve/carp-wasm4-template</id>
-        <link href="https://github.com/TimDeve/carp-wasm4-template"/>
-        <updated>2022-03-13T11:34:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15091071?u=1145703d4c3532a1ddf8d4ad9800de67f26e5341&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>TimDeve</name>
-            <email>TimDeve@noreply.github.com</email>
-            <uri>https://github.com/TimDeve</uri>
-        </author>
-        <published>2022-03-08T19:40:50.000Z</published>
     </entry>
 </feed>
