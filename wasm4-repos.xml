@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-16T00:17:32.890Z</updated>
+    <updated>2022-05-17T00:16:35.584Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/tinysprite</id>
+        <link href="https://github.com/MrRafael-dev/tinysprite"/>
+        <updated>2022-01-19T18:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
+        <id>https://github.com/FrankWPA/4orth</id>
+        <link href="https://github.com/FrankWPA/4orth"/>
+        <updated>2022-05-07T19:15:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=923c6b66d30a26e957a80f2ffdf193d5f4cb8fcb&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth compiler with WASM, WASI and WASM-4 targets</div>]]></content>
+        <author>
+            <name>FrankWPA</name>
+            <email>FrankWPA@noreply.github.com</email>
+            <uri>https://github.com/FrankWPA</uri>
+        </author>
+        <published>2022-03-17T03:21:42.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
+        <id>https://github.com/ChuuniMage/wasm4-fg</id>
+        <link href="https://github.com/ChuuniMage/wasm4-fg"/>
+        <updated>2022-05-16T06:10:35.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28918404?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ChuuniMage</name>
+            <email>ChuuniMage@noreply.github.com</email>
+            <uri>https://github.com/ChuuniMage</uri>
+        </author>
+        <published>2022-05-01T12:07:10.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
         <id>https://github.com/JustinRyanH/znake</id>
@@ -34,19 +73,6 @@
         <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FrankWPA/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
-        <id>https://github.com/FrankWPA/4orth</id>
-        <link href="https://github.com/FrankWPA/4orth"/>
-        <updated>2022-05-07T19:15:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=923c6b66d30a26e957a80f2ffdf193d5f4cb8fcb&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth compiler with WASM, WASI and WASM-4 targets</div>]]></content>
-        <author>
-            <name>FrankWPA</name>
-            <email>FrankWPA@noreply.github.com</email>
-            <uri>https://github.com/FrankWPA</uri>
-        </author>
-        <published>2022-03-17T03:21:42.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
         <id>https://github.com/skrshe/mung</id>
         <link href="https://github.com/skrshe/mung"/>
@@ -58,19 +84,6 @@
             <uri>https://github.com/skrshe</uri>
         </author>
         <published>2022-05-12T08:44:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
-        <id>https://github.com/ChuuniMage/wasm4-fg</id>
-        <link href="https://github.com/ChuuniMage/wasm4-fg"/>
-        <updated>2022-05-01T12:11:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/28918404?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ChuuniMage</name>
-            <email>ChuuniMage@noreply.github.com</email>
-            <uri>https://github.com/ChuuniMage</uri>
-        </author>
-        <published>2022-05-01T12:07:10.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[r00ster91/viridian-wasm: Viridian from VVVVVV on the WASM-4 fantasy console!]]></title>
@@ -123,19 +136,6 @@
             <uri>https://github.com/bwaters34</uri>
         </author>
         <published>2022-05-07T17:10:34.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2022-01-19T18:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Yardanico/wasm4nim: A simple example of creating WASM-4 cartridges in Nim]]></title>
