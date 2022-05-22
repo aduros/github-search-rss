@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-21T00:15:25.619Z</updated>
+    <updated>2022-05-22T00:15:03.969Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[jsyrjala/jumper: Platformer game with zig and WASM-4. Nitor codecamp.]]></title>
+        <id>https://github.com/jsyrjala/jumper</id>
+        <link href="https://github.com/jsyrjala/jumper"/>
+        <updated>2022-05-21T15:11:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25238?v=4" width="64" height="64" alt=""/><br/><div>Platformer game with zig and WASM-4. Nitor codecamp.</div>]]></content>
+        <author>
+            <name>jsyrjala</name>
+            <email>jsyrjala@noreply.github.com</email>
+            <uri>https://github.com/jsyrjala</uri>
+        </author>
+        <published>2022-05-18T16:35:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
+        <id>https://github.com/skrshe/mung</id>
+        <link href="https://github.com/skrshe/mung"/>
+        <updated>2022-05-13T05:22:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40524589?u=717637d8afe3606da0e2a7f7640a3f185ebe424f&v=4" width="64" height="64" alt=""/><br/><div>Mother's Pong</div>]]></content>
+        <author>
+            <name>skrshe</name>
+            <email>skrshe@noreply.github.com</email>
+            <uri>https://github.com/skrshe</uri>
+        </author>
+        <published>2022-05-12T08:44:22.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LunaAmora/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
         <id>https://github.com/LunaAmora/4orth</id>
@@ -37,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-05-19T16:34:32.000Z</updated>
+        <updated>2022-05-21T20:23:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -45,19 +71,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jsyrjala/jumper: Platformer game with zig and WASM-4. Nitor codecamp.]]></title>
-        <id>https://github.com/jsyrjala/jumper</id>
-        <link href="https://github.com/jsyrjala/jumper"/>
-        <updated>2022-05-18T16:35:56.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/25238?v=4" width="64" height="64" alt=""/><br/><div>Platformer game with zig and WASM-4. Nitor codecamp.</div>]]></content>
-        <author>
-            <name>jsyrjala</name>
-            <email>jsyrjala@noreply.github.com</email>
-            <uri>https://github.com/jsyrjala</uri>
-        </author>
-        <published>2022-05-18T16:35:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JustinRyanH/znake: Multiple Implementations of Snake in Zig. One with WASM 4, and one with Sokol]]></title>
@@ -71,19 +84,6 @@
             <uri>https://github.com/JustinRyanH</uri>
         </author>
         <published>2022-02-19T02:25:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
-        <id>https://github.com/skrshe/mung</id>
-        <link href="https://github.com/skrshe/mung"/>
-        <updated>2022-05-13T05:22:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40524589?u=717637d8afe3606da0e2a7f7640a3f185ebe424f&v=4" width="64" height="64" alt=""/><br/><div>Mother's Pong</div>]]></content>
-        <author>
-            <name>skrshe</name>
-            <email>skrshe@noreply.github.com</email>
-            <uri>https://github.com/skrshe</uri>
-        </author>
-        <published>2022-05-12T08:44:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChuuniMage/wasm4-fg]]></title>
