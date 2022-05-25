@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-05-24T00:16:51.632Z</updated>
+    <updated>2022-05-25T00:17:25.946Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-05-24T13:09:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xaeroseven/wasm4-snake: WASM-4 / C Snake game]]></title>
+        <id>https://github.com/xaeroseven/wasm4-snake</id>
+        <link href="https://github.com/xaeroseven/wasm4-snake"/>
+        <updated>2022-05-10T00:55:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1595973?u=9a2fec1c5d784516d5acecfa26427475e15945b7&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 / C Snake game</div>]]></content>
+        <author>
+            <name>xaeroseven</name>
+            <email>xaeroseven@noreply.github.com</email>
+            <uri>https://github.com/xaeroseven</uri>
+        </author>
+        <published>2022-05-10T00:39:28.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
@@ -19,19 +45,6 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-05-23T23:16:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
@@ -136,19 +149,6 @@
             <uri>https://github.com/MinusKelvin</uri>
         </author>
         <published>2022-04-21T00:38:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xaeroseven/wasm4-snake: WASM-4 / C Snake game]]></title>
-        <id>https://github.com/xaeroseven/wasm4-snake</id>
-        <link href="https://github.com/xaeroseven/wasm4-snake"/>
-        <updated>2022-05-10T00:55:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1595973?u=9a2fec1c5d784516d5acecfa26427475e15945b7&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 / C Snake game</div>]]></content>
-        <author>
-            <name>xaeroseven</name>
-            <email>xaeroseven@noreply.github.com</email>
-            <uri>https://github.com/xaeroseven</uri>
-        </author>
-        <published>2022-05-10T00:39:28.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[bwaters34/choate-bridge: Multiplayer bridge implementation in roland/WASM4]]></title>
