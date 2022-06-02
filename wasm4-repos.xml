@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-06-01T00:17:28.501Z</updated>
+    <updated>2022-06-02T00:19:02.193Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[christopher-kleine/w4g: WASM-4 tools written in Go]]></title>
-        <id>https://github.com/christopher-kleine/w4g</id>
-        <link href="https://github.com/christopher-kleine/w4g"/>
-        <updated>2022-05-27T01:41:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 tools written in Go</div>]]></content>
-        <author>
-            <name>christopher-kleine</name>
-            <email>christopher-kleine@noreply.github.com</email>
-            <uri>https://github.com/christopher-kleine</uri>
-        </author>
-        <published>2022-05-27T01:40:16.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
@@ -32,6 +19,19 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[christopher-kleine/w4g: WASM-4 tools written in Go]]></title>
+        <id>https://github.com/christopher-kleine/w4g</id>
+        <link href="https://github.com/christopher-kleine/w4g"/>
+        <updated>2022-05-27T01:41:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 tools written in Go</div>]]></content>
+        <author>
+            <name>christopher-kleine</name>
+            <email>christopher-kleine@noreply.github.com</email>
+            <uri>https://github.com/christopher-kleine</uri>
+        </author>
+        <published>2022-05-27T01:40:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[LunaAmora/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
@@ -141,7 +141,7 @@
         <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
         <id>https://github.com/Gertkeno/to-the-core</id>
         <link href="https://github.com/Gertkeno/to-the-core"/>
-        <updated>2022-02-26T20:32:01.000Z</updated>
+        <updated>2022-06-01T21:23:46.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gem collecting and super digging game</div>]]></content>
         <author>
             <name>Gertkeno</name>
@@ -194,7 +194,7 @@
         <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
         <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
         <updated>2022-05-11T04:12:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=43521450ddfafca8ff4918cb3fd14044419c89c4&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=e18011f1fa4878ac5dc9ccb299d76e1ec6f177fc&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
         <author>
             <name>MinusKelvin</name>
             <email>MinusKelvin@noreply.github.com</email>
