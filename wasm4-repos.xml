@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-06-11T00:15:14.682Z</updated>
+    <updated>2022-06-12T00:16:47.986Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[mwbryant/wasm4-space-invaders: Coded live, first time using zig]]></title>
+        <id>https://github.com/mwbryant/wasm4-space-invaders</id>
+        <link href="https://github.com/mwbryant/wasm4-space-invaders"/>
+        <updated>2022-06-11T23:11:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/65699744?v=4" width="64" height="64" alt=""/><br/><div>Coded live, first time using zig</div>]]></content>
+        <author>
+            <name>mwbryant</name>
+            <email>mwbryant@noreply.github.com</email>
+            <uri>https://github.com/mwbryant</uri>
+        </author>
+        <published>2022-06-11T20:27:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-gfx-test-cart]]></title>
         <id>https://github.com/JerwuQu/wasm4-gfx-test-cart</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/locriacyber</uri>
         </author>
         <published>2022-04-24T13:06:32.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-tankbattle: Multiplayer tank battle game for WASM-4 fantasy game console]]></title>
-        <id>https://github.com/jzeiber/wasm4-tankbattle</id>
-        <link href="https://github.com/jzeiber/wasm4-tankbattle"/>
-        <updated>2022-04-24T13:59:35.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Multiplayer tank battle game for WASM-4 fantasy game console</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2022-04-19T16:11:42.000Z</published>
     </entry>
 </feed>
