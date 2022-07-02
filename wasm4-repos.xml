@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-07-01T00:17:15.903Z</updated>
+    <updated>2022-07-02T00:16:19.714Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/tinysprite</id>
+        <link href="https://github.com/MrRafael-dev/tinysprite"/>
+        <updated>2022-01-19T18:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
@@ -47,19 +60,6 @@
         <published>2022-06-24T19:58:53.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2022-01-19T18:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lavender-Perry/purple_land: A game for the WASM-4 fantasy console.]]></title>
         <id>https://github.com/Lavender-Perry/purple_land</id>
         <link href="https://github.com/Lavender-Perry/purple_land"/>
@@ -84,19 +84,6 @@
             <uri>https://github.com/LunaAmora</uri>
         </author>
         <published>2022-03-17T03:21:42.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[slimehands/game: a webassembly wasm4 game]]></title>
-        <id>https://github.com/slimehands/game</id>
-        <link href="https://github.com/slimehands/game"/>
-        <updated>2022-06-13T13:37:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96319365?v=4" width="64" height="64" alt=""/><br/><div>a webassembly wasm4 game</div>]]></content>
-        <author>
-            <name>slimehands</name>
-            <email>slimehands@noreply.github.com</email>
-            <uri>https://github.com/slimehands</uri>
-        </author>
-        <published>2022-06-13T13:37:27.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[mwbryant/wasm4-space-invaders: Coded live, first time using zig]]></title>
@@ -266,5 +253,18 @@
             <uri>https://github.com/r00ster91</uri>
         </author>
         <published>2022-04-27T08:26:25.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinusKelvin/wasm4-bad-apple: Bad Apple!! music video on WASM-4]]></title>
+        <id>https://github.com/MinusKelvin/wasm4-bad-apple</id>
+        <link href="https://github.com/MinusKelvin/wasm4-bad-apple"/>
+        <updated>2022-05-11T04:12:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10615311?u=e18011f1fa4878ac5dc9ccb299d76e1ec6f177fc&v=4" width="64" height="64" alt=""/><br/><div>Bad Apple!! music video on WASM-4</div>]]></content>
+        <author>
+            <name>MinusKelvin</name>
+            <email>MinusKelvin@noreply.github.com</email>
+            <uri>https://github.com/MinusKelvin</uri>
+        </author>
+        <published>2022-04-21T00:38:19.000Z</published>
     </entry>
 </feed>
