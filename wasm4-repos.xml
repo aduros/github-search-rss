@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-07-03T00:18:17.415Z</updated>
+    <updated>2022-07-04T00:18:09.772Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[jzeiber/wasm4-starfighterarena: Multiplayer space battle for WASM-4 fantasy game console]]></title>
+        <id>https://github.com/jzeiber/wasm4-starfighterarena</id>
+        <link href="https://github.com/jzeiber/wasm4-starfighterarena"/>
+        <updated>2022-05-27T19:57:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Multiplayer space battle for WASM-4 fantasy game console</div>]]></content>
+        <author>
+            <name>jzeiber</name>
+            <email>jzeiber@noreply.github.com</email>
+            <uri>https://github.com/jzeiber</uri>
+        </author>
+        <published>2022-05-27T19:39:36.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
         <id>https://github.com/benrussell80/mad-cows-w4</id>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-06-30T15:58:39.000Z</updated>
+        <updated>2022-07-03T16:02:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -136,19 +149,6 @@
             <uri>https://github.com/christopher-kleine</uri>
         </author>
         <published>2022-05-27T01:40:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-starfighterarena: Multiplayer space battle for WASM-4 fantasy game console]]></title>
-        <id>https://github.com/jzeiber/wasm4-starfighterarena</id>
-        <link href="https://github.com/jzeiber/wasm4-starfighterarena"/>
-        <updated>2022-05-27T19:57:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Multiplayer space battle for WASM-4 fantasy game console</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2022-05-27T19:39:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[HKhademian/Snake4W: Wasm4 Snake implemention]]></title>
