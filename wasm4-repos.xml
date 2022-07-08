@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-07-07T00:18:24.511Z</updated>
+    <updated>2022-07-08T00:18:24.329Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
+        <id>https://github.com/benrussell80/mad-cows-w4</id>
+        <link href="https://github.com/benrussell80/mad-cows-w4"/>
+        <updated>2022-07-02T23:31:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47754537?v=4" width="64" height="64" alt=""/><br/><div>WASM4 Angry Birds-like game</div>]]></content>
+        <author>
+            <name>benrussell80</name>
+            <email>benrussell80@noreply.github.com</email>
+            <uri>https://github.com/benrussell80</uri>
+        </author>
+        <published>2022-07-02T23:30:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-07-06T09:42:15.000Z</updated>
+        <updated>2022-07-07T18:43:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -45,19 +58,6 @@
             <uri>https://github.com/jzeiber</uri>
         </author>
         <published>2022-05-27T19:39:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
-        <id>https://github.com/benrussell80/mad-cows-w4</id>
-        <link href="https://github.com/benrussell80/mad-cows-w4"/>
-        <updated>2022-07-02T23:31:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47754537?v=4" width="64" height="64" alt=""/><br/><div>WASM4 Angry Birds-like game</div>]]></content>
-        <author>
-            <name>benrussell80</name>
-            <email>benrussell80@noreply.github.com</email>
-            <uri>https://github.com/benrussell80</uri>
-        </author>
-        <published>2022-07-02T23:30:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jzeiber/wasm4-ioccc98flightsim: Port of IOCCC 98 Banks' Flight Sim to WASM-4]]></title>
