@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-07-10T00:19:13.099Z</updated>
+    <updated>2022-07-11T00:15:13.142Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
-        <id>https://github.com/benrussell80/mad-cows-w4</id>
-        <link href="https://github.com/benrussell80/mad-cows-w4"/>
-        <updated>2022-07-02T23:31:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47754537?v=4" width="64" height="64" alt=""/><br/><div>WASM4 Angry Birds-like game</div>]]></content>
-        <author>
-            <name>benrussell80</name>
-            <email>benrussell80@noreply.github.com</email>
-            <uri>https://github.com/benrussell80</uri>
-        </author>
-        <published>2022-07-02T23:30:51.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
@@ -32,6 +19,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
+        <id>https://github.com/benrussell80/mad-cows-w4</id>
+        <link href="https://github.com/benrussell80/mad-cows-w4"/>
+        <updated>2022-07-02T23:31:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47754537?v=4" width="64" height="64" alt=""/><br/><div>WASM4 Angry Birds-like game</div>]]></content>
+        <author>
+            <name>benrussell80</name>
+            <email>benrussell80@noreply.github.com</email>
+            <uri>https://github.com/benrussell80</uri>
+        </author>
+        <published>2022-07-02T23:30:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
