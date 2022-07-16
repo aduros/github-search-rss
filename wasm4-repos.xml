@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-07-15T00:19:07.121Z</updated>
+    <updated>2022-07-16T00:17:07.316Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-07-14T06:47:24.000Z</updated>
+        <updated>2022-07-15T15:36:03.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -19,6 +19,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasmerio/wasm4-on-wapm: This is a demo repo to showcase how to upload your WASM-4 games to WAPM]]></title>
+        <id>https://github.com/wasmerio/wasm4-on-wapm</id>
+        <link href="https://github.com/wasmerio/wasm4-on-wapm"/>
+        <updated>2022-07-15T21:46:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44205449?v=4" width="64" height="64" alt=""/><br/><div>This is a demo repo to showcase how to upload your WASM-4 games to WAPM</div>]]></content>
+        <author>
+            <name>wasmerio</name>
+            <email>wasmerio@noreply.github.com</email>
+            <uri>https://github.com/wasmerio</uri>
+        </author>
+        <published>2022-07-15T20:51:30.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/ChuuniMage</uri>
         </author>
         <published>2022-05-01T12:07:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[r00ster91/viridian-wasm: Viridian from VVVVVV on the WASM-4 fantasy console!]]></title>
-        <id>https://github.com/r00ster91/viridian-wasm</id>
-        <link href="https://github.com/r00ster91/viridian-wasm"/>
-        <updated>2022-04-27T09:55:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/35064754?v=4" width="64" height="64" alt=""/><br/><div>Viridian from VVVVVV on the WASM-4 fantasy console!</div>]]></content>
-        <author>
-            <name>r00ster91</name>
-            <email>r00ster91@noreply.github.com</email>
-            <uri>https://github.com/r00ster91</uri>
-        </author>
-        <published>2022-04-27T08:26:25.000Z</published>
     </entry>
 </feed>
