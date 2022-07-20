@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-07-19T00:18:49.208Z</updated>
+    <updated>2022-07-20T00:15:38.369Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[jockus/odin_wasm4_example]]></title>
+        <id>https://github.com/jockus/odin_wasm4_example</id>
+        <link href="https://github.com/jockus/odin_wasm4_example"/>
+        <updated>2022-07-19T08:09:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1867196?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>jockus</name>
+            <email>jockus@noreply.github.com</email>
+            <uri>https://github.com/jockus</uri>
+        </author>
+        <published>2022-07-19T07:54:51.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-07-15T15:36:03.000Z</updated>
+        <updated>2022-07-19T20:36:47.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jsyrjala</uri>
         </author>
         <published>2022-05-18T16:35:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
-        <id>https://github.com/Gertkeno/to-the-core</id>
-        <link href="https://github.com/Gertkeno/to-the-core"/>
-        <updated>2022-06-01T21:23:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gem collecting and super digging game</div>]]></content>
-        <author>
-            <name>Gertkeno</name>
-            <email>Gertkeno@noreply.github.com</email>
-            <uri>https://github.com/Gertkeno</uri>
-        </author>
-        <published>2022-01-23T15:50:17.000Z</published>
     </entry>
 </feed>
