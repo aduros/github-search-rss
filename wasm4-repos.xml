@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-01T00:18:26.103Z</updated>
+    <updated>2022-08-02T00:17:12.033Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-07-31T22:05:45.000Z</updated>
+        <updated>2022-08-01T23:29:25.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -195,7 +195,7 @@
         <id>https://github.com/cainrus/wasm4-monorepo-tpl</id>
         <link href="https://github.com/cainrus/wasm4-monorepo-tpl"/>
         <updated>2022-06-24T19:59:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/416847?u=c46ac42dc9ea16ec06ff85fb420ba407afcce0eb&v=4" width="64" height="64" alt=""/><br/><div>wasm4 monorepo template</div>]]></content>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/416847?u=af75d3cb657601c5d63a031ea4ce7520d810576b&v=4" width="64" height="64" alt=""/><br/><div>wasm4 monorepo template</div>]]></content>
         <author>
             <name>cainrus</name>
             <email>cainrus@noreply.github.com</email>
