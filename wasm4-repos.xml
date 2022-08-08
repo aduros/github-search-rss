@@ -2,23 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-07T00:19:23.394Z</updated>
+    <updated>2022-08-08T00:14:50.328Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-zig-wat-example]]></title>
-        <id>https://github.com/JerwuQu/wasm4-zig-wat-example</id>
-        <link href="https://github.com/JerwuQu/wasm4-zig-wat-example"/>
-        <updated>2022-08-06T00:16:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-08-05T06:57:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
         </author>
-        <published>2022-08-06T00:15:49.000Z</published>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YesSeri/RustMusic4Wasm4]]></title>
+        <id>https://github.com/YesSeri/RustMusic4Wasm4</id>
+        <link href="https://github.com/YesSeri/RustMusic4Wasm4"/>
+        <updated>2022-08-07T20:24:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34012616?u=3ffd348aef73b5ccb080920dcab052fe684db48a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>YesSeri</name>
+            <email>YesSeri@noreply.github.com</email>
+            <uri>https://github.com/YesSeri</uri>
+        </author>
+        <published>2022-08-07T20:24:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
+        <id>https://github.com/fishtaco567/w4-pnger</id>
+        <link href="https://github.com/fishtaco567/w4-pnger"/>
+        <updated>2022-08-07T18:14:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1082449?v=4" width="64" height="64" alt=""/><br/><div>PNG to Code utility for WASM-4, with compression</div>]]></content>
+        <author>
+            <name>fishtaco567</name>
+            <email>fishtaco567@noreply.github.com</email>
+            <uri>https://github.com/fishtaco567</uri>
+        </author>
+        <published>2022-08-07T18:13:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jonathanderque/scroll_o_sprites_wasm4: Scroll-o-sprites content converted to code for WASM-4 games]]></title>
+        <id>https://github.com/jonathanderque/scroll_o_sprites_wasm4</id>
+        <link href="https://github.com/jonathanderque/scroll_o_sprites_wasm4"/>
+        <updated>2022-08-07T21:06:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4202568?v=4" width="64" height="64" alt=""/><br/><div>Scroll-o-sprites content converted to code for WASM-4 games</div>]]></content>
+        <author>
+            <name>jonathanderque</name>
+            <email>jonathanderque@noreply.github.com</email>
+            <uri>https://github.com/jonathanderque</uri>
+        </author>
+        <published>2022-08-07T06:29:30.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
@@ -34,17 +73,30 @@
         <published>2022-08-05T15:36:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-05T06:57:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[JerwuQu/wasm4-data-generator: comptime WASM `store` instead of data sections]]></title>
+        <id>https://github.com/JerwuQu/wasm4-data-generator</id>
+        <link href="https://github.com/JerwuQu/wasm4-data-generator"/>
+        <updated>2022-08-07T11:35:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>comptime WASM `store` instead of data sections</div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-08-07T03:11:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-zig-wat-example]]></title>
+        <id>https://github.com/JerwuQu/wasm4-zig-wat-example</id>
+        <link href="https://github.com/JerwuQu/wasm4-zig-wat-example"/>
+        <updated>2022-08-06T00:16:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-08-06T00:15:49.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
@@ -215,57 +267,5 @@
             <uri>https://github.com/benrussell80</uri>
         </author>
         <published>2022-07-02T23:30:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-ioccc98flightsim: Port of IOCCC 98 Banks' Flight Sim to WASM-4]]></title>
-        <id>https://github.com/jzeiber/wasm4-ioccc98flightsim</id>
-        <link href="https://github.com/jzeiber/wasm4-ioccc98flightsim"/>
-        <updated>2022-06-28T04:50:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Port of IOCCC 98 Banks' Flight Sim to WASM-4</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2022-06-26T19:28:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cainrus/wasm4-monorepo-tpl: wasm4 monorepo template]]></title>
-        <id>https://github.com/cainrus/wasm4-monorepo-tpl</id>
-        <link href="https://github.com/cainrus/wasm4-monorepo-tpl"/>
-        <updated>2022-06-24T19:59:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/416847?u=af75d3cb657601c5d63a031ea4ce7520d810576b&v=4" width="64" height="64" alt=""/><br/><div>wasm4 monorepo template</div>]]></content>
-        <author>
-            <name>cainrus</name>
-            <email>cainrus@noreply.github.com</email>
-            <uri>https://github.com/cainrus</uri>
-        </author>
-        <published>2022-06-24T19:58:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lavender-Perry/purple_land: A game for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/Lavender-Perry/purple_land</id>
-        <link href="https://github.com/Lavender-Perry/purple_land"/>
-        <updated>2022-06-20T17:57:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68826722?u=13f58ead7c8d3135f9f8fcc6ebca31c6cfa62d67&v=4" width="64" height="64" alt=""/><br/><div>A game for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>Lavender-Perry</name>
-            <email>Lavender-Perry@noreply.github.com</email>
-            <uri>https://github.com/Lavender-Perry</uri>
-        </author>
-        <published>2022-06-20T17:56:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LunaAmora/4orth: 4orth is a Porth compiler with WASM, WASI and WASM-4 targets]]></title>
-        <id>https://github.com/LunaAmora/4orth</id>
-        <link href="https://github.com/LunaAmora/4orth"/>
-        <updated>2022-06-21T17:50:37.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/19491161?u=ee9f7fab0e3be13960455f8fa74725cb72cae54d&v=4" width="64" height="64" alt=""/><br/><div>4orth is a Porth compiler with WASM, WASI and WASM-4 targets</div>]]></content>
-        <author>
-            <name>LunaAmora</name>
-            <email>LunaAmora@noreply.github.com</email>
-            <uri>https://github.com/LunaAmora</uri>
-        </author>
-        <published>2022-03-17T03:21:42.000Z</published>
     </entry>
 </feed>
