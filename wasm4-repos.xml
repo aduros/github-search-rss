@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-09T00:18:05.026Z</updated>
+    <updated>2022-08-10T00:15:10.258Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
+        <id>https://github.com/skrshe/mung</id>
+        <link href="https://github.com/skrshe/mung"/>
+        <updated>2022-05-13T05:22:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40524589?u=717637d8afe3606da0e2a7f7640a3f185ebe424f&v=4" width="64" height="64" alt=""/><br/><div>Mother's Pong</div>]]></content>
+        <author>
+            <name>skrshe</name>
+            <email>skrshe@noreply.github.com</email>
+            <uri>https://github.com/skrshe</uri>
+        </author>
+        <published>2022-05-12T08:44:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
+        <id>https://github.com/JerwuQu/wasm4-eventscript</id>
+        <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
+        <updated>2022-08-06T00:21:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-08-05T15:36:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
+        <id>https://github.com/JerwuQu/w4on</id>
+        <link href="https://github.com/JerwuQu/w4on"/>
+        <updated>2022-08-03T14:56:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-03-29T20:46:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
@@ -24,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-08T11:37:59.000Z</updated>
+        <updated>2022-08-09T21:28:20.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -73,19 +112,6 @@
         <published>2022-08-07T06:29:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
-        <id>https://github.com/JerwuQu/wasm4-eventscript</id>
-        <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
-        <updated>2022-08-06T00:21:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-08-05T15:36:14.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-data-generator: comptime WASM `store` instead of data sections]]></title>
         <id>https://github.com/JerwuQu/wasm4-data-generator</id>
         <link href="https://github.com/JerwuQu/wasm4-data-generator"/>
@@ -110,19 +136,6 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-08-06T00:15:49.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
-        <id>https://github.com/JerwuQu/w4on</id>
-        <link href="https://github.com/JerwuQu/w4on"/>
-        <updated>2022-08-03T14:56:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-03-29T20:46:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jzeiber/wasm4-rpg: RPG for WASM-4 fantasy game console]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/wasmerio</uri>
         </author>
         <published>2022-07-15T20:51:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benrussell80/mad-cows-w4: WASM4 Angry Birds-like game]]></title>
-        <id>https://github.com/benrussell80/mad-cows-w4</id>
-        <link href="https://github.com/benrussell80/mad-cows-w4"/>
-        <updated>2022-07-02T23:31:14.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47754537?v=4" width="64" height="64" alt=""/><br/><div>WASM4 Angry Birds-like game</div>]]></content>
-        <author>
-            <name>benrussell80</name>
-            <email>benrussell80@noreply.github.com</email>
-            <uri>https://github.com/benrussell80</uri>
-        </author>
-        <published>2022-07-02T23:30:51.000Z</published>
     </entry>
 </feed>
