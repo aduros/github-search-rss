@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-13T00:16:56.439Z</updated>
+    <updated>2022-08-14T00:16:39.271Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -21,32 +21,6 @@
         <published>2022-08-12T22:00:55.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2022-01-19T18:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-12T21:40:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
         <id>https://github.com/JerwuQu/wasm4-eventscript</id>
         <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
@@ -60,17 +34,43 @@
         <published>2022-08-05T15:36:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wasmerio/wasm4-on-wapm: This is a demo repo to showcase how to upload your WASM-4 games to WAPM]]></title>
-        <id>https://github.com/wasmerio/wasm4-on-wapm</id>
-        <link href="https://github.com/wasmerio/wasm4-on-wapm"/>
-        <updated>2022-07-15T21:46:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44205449?v=4" width="64" height="64" alt=""/><br/><div>This is a demo repo to showcase how to upload your WASM-4 games to WAPM</div>]]></content>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-08-13T18:43:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
-            <name>wasmerio</name>
-            <email>wasmerio@noreply.github.com</email>
-            <uri>https://github.com/wasmerio</uri>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
         </author>
-        <published>2022-07-15T20:51:30.000Z</published>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ad-ops/wasm-4-icecream: Created with StackBlitz ⚡️]]></title>
+        <id>https://github.com/ad-ops/wasm-4-icecream</id>
+        <link href="https://github.com/ad-ops/wasm-4-icecream"/>
+        <updated>2022-01-16T16:25:42.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/57237184?v=4" width="64" height="64" alt=""/><br/><div>Created with StackBlitz <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji></div>]]></content>
+        <author>
+            <name>ad-ops</name>
+            <email>ad-ops@noreply.github.com</email>
+            <uri>https://github.com/ad-ops</uri>
+        </author>
+        <published>2022-01-16T16:24:02.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/tinysprite</id>
+        <link href="https://github.com/MrRafael-dev/tinysprite"/>
+        <updated>2022-01-19T18:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2022-01-19T18:47:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
@@ -84,6 +84,32 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-03-29T20:46:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[brainwo/wasm4-test]]></title>
+        <id>https://github.com/brainwo/wasm4-test</id>
+        <link href="https://github.com/brainwo/wasm4-test"/>
+        <updated>2022-08-13T03:00:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45139213?u=6720d34d68f02ac9b51ede7c3913a8715e596898&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>brainwo</name>
+            <email>brainwo@noreply.github.com</email>
+            <uri>https://github.com/brainwo</uri>
+        </author>
+        <published>2022-08-13T03:00:01.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wasmerio/wasm4-on-wapm: This is a demo repo to showcase how to upload your WASM-4 games to WAPM]]></title>
+        <id>https://github.com/wasmerio/wasm4-on-wapm</id>
+        <link href="https://github.com/wasmerio/wasm4-on-wapm"/>
+        <updated>2022-07-15T21:46:59.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44205449?v=4" width="64" height="64" alt=""/><br/><div>This is a demo repo to showcase how to upload your WASM-4 games to WAPM</div>]]></content>
+        <author>
+            <name>wasmerio</name>
+            <email>wasmerio@noreply.github.com</email>
+            <uri>https://github.com/wasmerio</uri>
+        </author>
+        <published>2022-07-15T20:51:30.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/wasm4-tracker: Experimental WASM-4 tracker.]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/jtakakura</uri>
         </author>
         <published>2022-07-27T08:50:04.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XenoverseUp/wasm-snake: A snake game implementation in WASM using AssemblyScript and WASM-4]]></title>
-        <id>https://github.com/XenoverseUp/wasm-snake</id>
-        <link href="https://github.com/XenoverseUp/wasm-snake"/>
-        <updated>2022-07-26T18:36:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/78350273?u=cc39e313d3b30e1d76928317e5214131c265c7f3&v=4" width="64" height="64" alt=""/><br/><div>A snake game implementation in WASM using AssemblyScript and WASM-4</div>]]></content>
-        <author>
-            <name>XenoverseUp</name>
-            <email>XenoverseUp@noreply.github.com</email>
-            <uri>https://github.com/XenoverseUp</uri>
-        </author>
-        <published>2022-07-26T18:36:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-starfighterarena: Multiplayer space battle for WASM-4 fantasy game console]]></title>
-        <id>https://github.com/jzeiber/wasm4-starfighterarena</id>
-        <link href="https://github.com/jzeiber/wasm4-starfighterarena"/>
-        <updated>2022-05-27T19:57:48.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Multiplayer space battle for WASM-4 fantasy game console</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2022-05-27T19:39:36.000Z</published>
     </entry>
 </feed>
