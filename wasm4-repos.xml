@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-14T00:16:39.271Z</updated>
+    <updated>2022-08-15T00:16:31.936Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[cpiod/Into-the-WASM-4]]></title>
-        <id>https://github.com/cpiod/Into-the-WASM-4</id>
-        <link href="https://github.com/cpiod/Into-the-WASM-4"/>
-        <updated>2022-08-12T23:01:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54397397?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
+        <id>https://github.com/desttinghim/wasm4-jam2</id>
+        <link href="https://github.com/desttinghim/wasm4-jam2"/>
+        <updated>2022-08-14T00:18:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>cpiod</name>
-            <email>cpiod@noreply.github.com</email>
-            <uri>https://github.com/cpiod</uri>
+            <name>desttinghim</name>
+            <email>desttinghim@noreply.github.com</email>
+            <uri>https://github.com/desttinghim</uri>
         </author>
-        <published>2022-08-12T22:00:55.000Z</published>
+        <published>2022-08-14T00:18:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
@@ -34,10 +34,49 @@
         <published>2022-08-05T15:36:14.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SLiV9/the-romans-are-coming: My entry for the WASM-4 Game Jam 2022.]]></title>
+        <id>https://github.com/SLiV9/the-romans-are-coming</id>
+        <link href="https://github.com/SLiV9/the-romans-are-coming"/>
+        <updated>2022-08-14T16:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for the WASM-4 Game Jam 2022.</div>]]></content>
+        <author>
+            <name>SLiV9</name>
+            <email>SLiV9@noreply.github.com</email>
+            <uri>https://github.com/SLiV9</uri>
+        </author>
+        <published>2022-08-14T16:43:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-data-generator: comptime WASM `store` instead of data sections]]></title>
+        <id>https://github.com/JerwuQu/wasm4-data-generator</id>
+        <link href="https://github.com/JerwuQu/wasm4-data-generator"/>
+        <updated>2022-08-07T11:35:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>comptime WASM `store` instead of data sections</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-08-07T03:11:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cpiod/Into-the-WASM-4]]></title>
+        <id>https://github.com/cpiod/Into-the-WASM-4</id>
+        <link href="https://github.com/cpiod/Into-the-WASM-4"/>
+        <updated>2022-08-12T23:01:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/54397397?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>cpiod</name>
+            <email>cpiod@noreply.github.com</email>
+            <uri>https://github.com/cpiod</uri>
+        </author>
+        <published>2022-08-12T22:00:55.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-13T18:43:58.000Z</updated>
+        <updated>2022-08-14T11:39:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -89,7 +128,7 @@
         <title type="html"><![CDATA[brainwo/wasm4-test]]></title>
         <id>https://github.com/brainwo/wasm4-test</id>
         <link href="https://github.com/brainwo/wasm4-test"/>
-        <updated>2022-08-13T03:00:48.000Z</updated>
+        <updated>2022-08-14T02:49:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45139213?u=6720d34d68f02ac9b51ede7c3913a8715e596898&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>brainwo</name>
@@ -115,7 +154,7 @@
         <title type="html"><![CDATA[MrRafael-dev/wasm4-tracker: Experimental WASM-4 tracker.]]></title>
         <id>https://github.com/MrRafael-dev/wasm4-tracker</id>
         <link href="https://github.com/MrRafael-dev/wasm4-tracker"/>
-        <updated>2022-08-12T00:53:51.000Z</updated>
+        <updated>2022-08-14T23:20:51.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>Experimental WASM-4 tracker.</div>]]></content>
         <author>
             <name>MrRafael-dev</name>
@@ -190,19 +229,6 @@
         <published>2022-08-07T06:29:30.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-data-generator: comptime WASM `store` instead of data sections]]></title>
-        <id>https://github.com/JerwuQu/wasm4-data-generator</id>
-        <link href="https://github.com/JerwuQu/wasm4-data-generator"/>
-        <updated>2022-08-07T11:35:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>comptime WASM `store` instead of data sections</div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-08-07T03:11:12.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-zig-wat-example]]></title>
         <id>https://github.com/JerwuQu/wasm4-zig-wat-example</id>
         <link href="https://github.com/JerwuQu/wasm4-zig-wat-example"/>
@@ -240,31 +266,5 @@
             <uri>https://github.com/CRBroughton</uri>
         </author>
         <published>2022-07-27T14:34:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[willGuimont/rolly-dango: Play it here: https://willguimont.github.io/rolly-dango/]]></title>
-        <id>https://github.com/willGuimont/rolly-dango</id>
-        <link href="https://github.com/willGuimont/rolly-dango"/>
-        <updated>2022-04-18T19:41:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10492253?u=b7c99e8677fb95ad9bb984f85c953038a2cb76f3&v=4" width="64" height="64" alt=""/><br/><div>Play it here: <a href="https://willguimont.github.io/rolly-dango/" rel="nofollow">https://willguimont.github.io/rolly-dango/</a></div>]]></content>
-        <author>
-            <name>willGuimont</name>
-            <email>willGuimont@noreply.github.com</email>
-            <uri>https://github.com/willGuimont</uri>
-        </author>
-        <published>2021-12-21T14:17:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jtakakura/asdf-wasm4: WASM-4 plugin for the asdf version manager github.com/asdf-vm/asdf ]]></title>
-        <id>https://github.com/jtakakura/asdf-wasm4</id>
-        <link href="https://github.com/jtakakura/asdf-wasm4"/>
-        <updated>2022-07-28T10:41:31.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/640587?v=4" width="64" height="64" alt=""/><br/><div>WASM-4 plugin for the asdf version manager github.com/asdf-vm/asdf </div>]]></content>
-        <author>
-            <name>jtakakura</name>
-            <email>jtakakura@noreply.github.com</email>
-            <uri>https://github.com/jtakakura</uri>
-        </author>
-        <published>2022-07-27T08:50:04.000Z</published>
     </entry>
 </feed>
