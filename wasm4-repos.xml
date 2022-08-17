@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-16T00:18:55.193Z</updated>
+    <updated>2022-08-17T00:17:38.377Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
+        <id>https://github.com/desttinghim/wasm4-jam2</id>
+        <link href="https://github.com/desttinghim/wasm4-jam2"/>
+        <updated>2022-08-14T00:18:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>desttinghim</name>
+            <email>desttinghim@noreply.github.com</email>
+            <uri>https://github.com/desttinghim</uri>
+        </author>
+        <published>2022-08-14T00:18:03.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-data-generator: comptime WASM `store` instead of data sections]]></title>
+        <id>https://github.com/JerwuQu/wasm4-data-generator</id>
+        <link href="https://github.com/JerwuQu/wasm4-data-generator"/>
+        <updated>2022-08-07T11:35:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>comptime WASM `store` instead of data sections</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-08-07T03:11:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hazeycode/wasm4jam]]></title>
+        <id>https://github.com/hazeycode/wasm4jam</id>
+        <link href="https://github.com/hazeycode/wasm4jam"/>
+        <updated>2022-08-16T13:48:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>hazeycode</name>
+            <email>hazeycode@noreply.github.com</email>
+            <uri>https://github.com/hazeycode</uri>
+        </author>
+        <published>2022-08-16T13:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/tinysprite</id>
+        <link href="https://github.com/MrRafael-dev/tinysprite"/>
+        <updated>2022-01-19T18:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SLiV9/the-romans-are-coming: My entry for the WASM-4 Game Jam 2022.]]></title>
         <id>https://github.com/SLiV9/the-romans-are-coming</id>
@@ -24,7 +76,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-15T22:52:12.000Z</updated>
+        <updated>2022-08-16T15:08:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -32,19 +84,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
-        <id>https://github.com/desttinghim/wasm4-jam2</id>
-        <link href="https://github.com/desttinghim/wasm4-jam2"/>
-        <updated>2022-08-14T00:18:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>desttinghim</name>
-            <email>desttinghim@noreply.github.com</email>
-            <uri>https://github.com/desttinghim</uri>
-        </author>
-        <published>2022-08-14T00:18:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
@@ -58,19 +97,6 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-08-05T15:36:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-data-generator: comptime WASM `store` instead of data sections]]></title>
-        <id>https://github.com/JerwuQu/wasm4-data-generator</id>
-        <link href="https://github.com/JerwuQu/wasm4-data-generator"/>
-        <updated>2022-08-07T11:35:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>comptime WASM `store` instead of data sections</div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-08-07T03:11:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[cpiod/Into-the-WASM-4]]></title>
@@ -97,19 +123,6 @@
             <uri>https://github.com/ad-ops</uri>
         </author>
         <published>2022-01-16T16:24:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2022-01-19T18:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jzeiber</uri>
         </author>
         <published>2021-11-27T22:52:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRBroughton/wasm4-snake-rust]]></title>
-        <id>https://github.com/CRBroughton/wasm4-snake-rust</id>
-        <link href="https://github.com/CRBroughton/wasm4-snake-rust"/>
-        <updated>2022-07-27T14:40:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/71838537?u=c83d61d33e56ad3e1c8d03b12f02d24da32511f5&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>CRBroughton</name>
-            <email>CRBroughton@noreply.github.com</email>
-            <uri>https://github.com/CRBroughton</uri>
-        </author>
-        <published>2022-07-27T14:34:59.000Z</published>
     </entry>
 </feed>
