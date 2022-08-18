@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-17T00:17:38.377Z</updated>
+    <updated>2022-08-18T00:16:19.469Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[SLiV9/the-romans-are-coming: My entry for the WASM-4 Game Jam 2022.]]></title>
+        <id>https://github.com/SLiV9/the-romans-are-coming</id>
+        <link href="https://github.com/SLiV9/the-romans-are-coming"/>
+        <updated>2022-08-14T16:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for the WASM-4 Game Jam 2022.</div>]]></content>
+        <author>
+            <name>SLiV9</name>
+            <email>SLiV9@noreply.github.com</email>
+            <uri>https://github.com/SLiV9</uri>
+        </author>
+        <published>2022-08-14T16:43:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dosisod/matcha9000: Code for the 2nd WASM-4 Game Jam]]></title>
+        <id>https://github.com/dosisod/matcha9000</id>
+        <link href="https://github.com/dosisod/matcha9000"/>
+        <updated>2022-08-17T15:06:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39638017?u=3f8115366eb191fb785eb9e8a7fee7a0393603e5&v=4" width="64" height="64" alt=""/><br/><div>Code for the 2nd WASM-4 Game Jam</div>]]></content>
+        <author>
+            <name>dosisod</name>
+            <email>dosisod@noreply.github.com</email>
+            <uri>https://github.com/dosisod</uri>
+        </author>
+        <published>2022-08-17T15:06:08.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
         <id>https://github.com/desttinghim/wasm4-jam2</id>
@@ -34,19 +60,6 @@
         <published>2022-08-07T03:11:12.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hazeycode/wasm4jam]]></title>
-        <id>https://github.com/hazeycode/wasm4jam</id>
-        <link href="https://github.com/hazeycode/wasm4jam"/>
-        <updated>2022-08-16T13:48:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>hazeycode</name>
-            <email>hazeycode@noreply.github.com</email>
-            <uri>https://github.com/hazeycode</uri>
-        </author>
-        <published>2022-08-16T13:44:47.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
         <link href="https://github.com/MrRafael-dev/tinysprite"/>
@@ -58,19 +71,6 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLiV9/the-romans-are-coming: My entry for the WASM-4 Game Jam 2022.]]></title>
-        <id>https://github.com/SLiV9/the-romans-are-coming</id>
-        <link href="https://github.com/SLiV9/the-romans-are-coming"/>
-        <updated>2022-08-14T16:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for the WASM-4 Game Jam 2022.</div>]]></content>
-        <author>
-            <name>SLiV9</name>
-            <email>SLiV9@noreply.github.com</email>
-            <uri>https://github.com/SLiV9</uri>
-        </author>
-        <published>2022-08-14T16:43:46.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
