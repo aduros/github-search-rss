@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-21T00:16:48.928Z</updated>
+    <updated>2022-08-22T00:17:52.214Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG game written in Zig for WASM-4 Jam #2.]]></title>
+        <id>https://github.com/hazeycode/escape-guldur</id>
+        <link href="https://github.com/hazeycode/escape-guldur"/>
+        <updated>2022-08-22T00:15:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG game written in Zig for WASM-4 Jam #2.</div>]]></content>
+        <author>
+            <name>hazeycode</name>
+            <email>hazeycode@noreply.github.com</email>
+            <uri>https://github.com/hazeycode</uri>
+        </author>
+        <published>2022-08-16T13:44:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PrinceTumby/blaster: 3D multiplayer shooter for the WASM-4 Game Jam #2.]]></title>
+        <id>https://github.com/PrinceTumby/blaster</id>
+        <link href="https://github.com/PrinceTumby/blaster"/>
+        <updated>2022-08-21T22:33:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8282377?u=375f205a8dc8290fef99cad0c041df8428a33a6e&v=4" width="64" height="64" alt=""/><br/><div>3D multiplayer shooter for the WASM-4 Game Jam #2.</div>]]></content>
+        <author>
+            <name>PrinceTumby</name>
+            <email>PrinceTumby@noreply.github.com</email>
+            <uri>https://github.com/PrinceTumby</uri>
+        </author>
+        <published>2022-08-21T22:29:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
         <id>https://github.com/desttinghim/wasm4-jam2</id>
@@ -21,30 +47,30 @@
         <published>2022-08-14T00:18:03.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-20T07:57:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[luehmann/wasm-cities: A Tile Cities clone for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/luehmann/wasm-cities</id>
+        <link href="https://github.com/luehmann/wasm-cities"/>
+        <updated>2022-08-21T21:54:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47984692?v=4" width="64" height="64" alt=""/><br/><div>A Tile Cities clone for the WASM-4 fantasy console</div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>luehmann</name>
+            <email>luehmann@noreply.github.com</email>
+            <uri>https://github.com/luehmann</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-08-21T21:51:50.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
-        <id>https://github.com/JerwuQu/w4on</id>
-        <link href="https://github.com/JerwuQu/w4on"/>
-        <updated>2022-08-20T15:28:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
+        <title type="html"><![CDATA[iszn11/wasm4-jam2: A game made for WASM-4 Jam #2]]></title>
+        <id>https://github.com/iszn11/wasm4-jam2</id>
+        <link href="https://github.com/iszn11/wasm4-jam2"/>
+        <updated>2022-08-21T21:04:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7891270?v=4" width="64" height="64" alt=""/><br/><div>A game made for WASM-4 Jam #2</div>]]></content>
         <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
+            <name>iszn11</name>
+            <email>iszn11@noreply.github.com</email>
+            <uri>https://github.com/iszn11</uri>
         </author>
-        <published>2022-03-29T20:46:14.000Z</published>
+        <published>2022-08-15T12:40:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[dosisod/matcha9000: Code for the 2nd WASM-4 Game Jam]]></title>
@@ -71,6 +97,84 @@
             <uri>https://github.com/SLiV9</uri>
         </author>
         <published>2022-08-14T16:43:46.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ibillingsley/wasm4-gamejam: One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/ibillingsley/wasm4-gamejam</id>
+        <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
+        <updated>2022-08-21T21:33:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=972b47f2acff00b51cf6f36a7451720bdafc70ab&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>ibillingsley</name>
+            <email>ibillingsley@noreply.github.com</email>
+            <uri>https://github.com/ibillingsley</uri>
+        </author>
+        <published>2022-08-21T21:25:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-08-21T18:31:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ericvilcu/wasm4jam2022]]></title>
+        <id>https://github.com/ericvilcu/wasm4jam2022</id>
+        <link href="https://github.com/ericvilcu/wasm4jam2022"/>
+        <updated>2022-08-21T19:55:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96077415?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>ericvilcu</name>
+            <email>ericvilcu@noreply.github.com</email>
+            <uri>https://github.com/ericvilcu</uri>
+        </author>
+        <published>2022-08-21T19:50:52.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XenoverseUp/crazy-factory-wasm4]]></title>
+        <id>https://github.com/XenoverseUp/crazy-factory-wasm4</id>
+        <link href="https://github.com/XenoverseUp/crazy-factory-wasm4"/>
+        <updated>2022-08-21T20:25:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/78350273?u=cc39e313d3b30e1d76928317e5214131c265c7f3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>XenoverseUp</name>
+            <email>XenoverseUp@noreply.github.com</email>
+            <uri>https://github.com/XenoverseUp</uri>
+        </author>
+        <published>2022-08-21T20:25:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[willGuimont/rolly-dango: Play it here: https://willguimont.github.io/rolly-dango/]]></title>
+        <id>https://github.com/willGuimont/rolly-dango</id>
+        <link href="https://github.com/willGuimont/rolly-dango"/>
+        <updated>2022-04-18T19:41:44.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10492253?u=b7c99e8677fb95ad9bb984f85c953038a2cb76f3&v=4" width="64" height="64" alt=""/><br/><div>Play it here: <a href="https://willguimont.github.io/rolly-dango/" rel="nofollow">https://willguimont.github.io/rolly-dango/</a></div>]]></content>
+        <author>
+            <name>willGuimont</name>
+            <email>willGuimont@noreply.github.com</email>
+            <uri>https://github.com/willGuimont</uri>
+        </author>
+        <published>2021-12-21T14:17:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
+        <id>https://github.com/JerwuQu/w4on</id>
+        <link href="https://github.com/JerwuQu/w4on"/>
+        <updated>2022-08-20T15:28:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-03-29T20:46:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[apg/skydiver: wasm4 skydiver game]]></title>
@@ -162,109 +266,5 @@
             <uri>https://github.com/ad-ops</uri>
         </author>
         <published>2022-01-16T16:24:02.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[brainwo/wasm4-test]]></title>
-        <id>https://github.com/brainwo/wasm4-test</id>
-        <link href="https://github.com/brainwo/wasm4-test"/>
-        <updated>2022-08-14T02:49:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45139213?u=6720d34d68f02ac9b51ede7c3913a8715e596898&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>brainwo</name>
-            <email>brainwo@noreply.github.com</email>
-            <uri>https://github.com/brainwo</uri>
-        </author>
-        <published>2022-08-13T03:00:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wasmerio/wasm4-on-wapm: This is a demo repo to showcase how to upload your WASM-4 games to WAPM]]></title>
-        <id>https://github.com/wasmerio/wasm4-on-wapm</id>
-        <link href="https://github.com/wasmerio/wasm4-on-wapm"/>
-        <updated>2022-07-15T21:46:59.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44205449?v=4" width="64" height="64" alt=""/><br/><div>This is a demo repo to showcase how to upload your WASM-4 games to WAPM</div>]]></content>
-        <author>
-            <name>wasmerio</name>
-            <email>wasmerio@noreply.github.com</email>
-            <uri>https://github.com/wasmerio</uri>
-        </author>
-        <published>2022-07-15T20:51:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiyoshi364/wasm-wars: A Advance Wars Clone made for the wasm4 Fantasy Console]]></title>
-        <id>https://github.com/Kiyoshi364/wasm-wars</id>
-        <link href="https://github.com/Kiyoshi364/wasm-wars"/>
-        <updated>2022-01-23T19:02:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/49736221?v=4" width="64" height="64" alt=""/><br/><div>A Advance Wars Clone made for the wasm4 Fantasy Console</div>]]></content>
-        <author>
-            <name>Kiyoshi364</name>
-            <email>Kiyoshi364@noreply.github.com</email>
-            <uri>https://github.com/Kiyoshi364</uri>
-        </author>
-        <published>2022-01-23T18:42:39.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[skrshe/mung: Mother's Pong]]></title>
-        <id>https://github.com/skrshe/mung</id>
-        <link href="https://github.com/skrshe/mung"/>
-        <updated>2022-05-13T05:22:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/40524589?u=717637d8afe3606da0e2a7f7640a3f185ebe424f&v=4" width="64" height="64" alt=""/><br/><div>Mother's Pong</div>]]></content>
-        <author>
-            <name>skrshe</name>
-            <email>skrshe@noreply.github.com</email>
-            <uri>https://github.com/skrshe</uri>
-        </author>
-        <published>2022-05-12T08:44:22.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YesSeri/RustMusic4Wasm4]]></title>
-        <id>https://github.com/YesSeri/RustMusic4Wasm4</id>
-        <link href="https://github.com/YesSeri/RustMusic4Wasm4"/>
-        <updated>2022-08-07T20:24:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34012616?u=3ffd348aef73b5ccb080920dcab052fe684db48a&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>YesSeri</name>
-            <email>YesSeri@noreply.github.com</email>
-            <uri>https://github.com/YesSeri</uri>
-        </author>
-        <published>2022-08-07T20:24:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
-        <id>https://github.com/fishtaco567/w4-pnger</id>
-        <link href="https://github.com/fishtaco567/w4-pnger"/>
-        <updated>2022-08-07T18:14:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1082449?v=4" width="64" height="64" alt=""/><br/><div>PNG to Code utility for WASM-4, with compression</div>]]></content>
-        <author>
-            <name>fishtaco567</name>
-            <email>fishtaco567@noreply.github.com</email>
-            <uri>https://github.com/fishtaco567</uri>
-        </author>
-        <published>2022-08-07T18:13:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jonathanderque/scroll_o_sprites_wasm4: Scroll-o-sprites content converted to code for WASM-4 games]]></title>
-        <id>https://github.com/jonathanderque/scroll_o_sprites_wasm4</id>
-        <link href="https://github.com/jonathanderque/scroll_o_sprites_wasm4"/>
-        <updated>2022-08-08T09:42:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4202568?v=4" width="64" height="64" alt=""/><br/><div>Scroll-o-sprites content converted to code for WASM-4 games</div>]]></content>
-        <author>
-            <name>jonathanderque</name>
-            <email>jonathanderque@noreply.github.com</email>
-            <uri>https://github.com/jonathanderque</uri>
-        </author>
-        <published>2022-08-07T06:29:30.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-zig-wat-example]]></title>
-        <id>https://github.com/JerwuQu/wasm4-zig-wat-example</id>
-        <link href="https://github.com/JerwuQu/wasm4-zig-wat-example"/>
-        <updated>2022-08-06T00:16:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-08-06T00:15:49.000Z</published>
     </entry>
 </feed>
