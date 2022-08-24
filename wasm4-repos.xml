@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-23T00:20:22.641Z</updated>
+    <updated>2022-08-24T00:17:30.059Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -21,10 +21,23 @@
         <published>2022-08-16T13:44:47.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ibillingsley/wasm4-gamejam: One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/ibillingsley/wasm4-gamejam</id>
+        <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
+        <updated>2022-08-21T21:33:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=278f8b63636adc13268deace79cfe29bd8a1cce8&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>ibillingsley</name>
+            <email>ibillingsley@noreply.github.com</email>
+            <uri>https://github.com/ibillingsley</uri>
+        </author>
+        <published>2022-08-21T21:25:54.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-21T18:31:36.000Z</updated>
+        <updated>2022-08-23T22:38:53.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -32,6 +45,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
+        <id>https://github.com/desttinghim/wasm4-jam2</id>
+        <link href="https://github.com/desttinghim/wasm4-jam2"/>
+        <updated>2022-08-22T15:04:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>desttinghim</name>
+            <email>desttinghim@noreply.github.com</email>
+            <uri>https://github.com/desttinghim</uri>
+        </author>
+        <published>2022-08-14T00:18:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[XenoverseUp/crazy-factory-wasm4]]></title>
@@ -45,19 +71,6 @@
             <uri>https://github.com/XenoverseUp</uri>
         </author>
         <published>2022-08-21T20:25:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ibillingsley/wasm4-gamejam: One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/ibillingsley/wasm4-gamejam</id>
-        <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
-        <updated>2022-08-21T21:33:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=972b47f2acff00b51cf6f36a7451720bdafc70ab&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>ibillingsley</name>
-            <email>ibillingsley@noreply.github.com</email>
-            <uri>https://github.com/ibillingsley</uri>
-        </author>
-        <published>2022-08-21T21:25:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Andre-LA/the-sentinels: This is a mirror, in case of PR, submit at the upstream: https://codeberg.org/Andre-LA/w4jam2-game]]></title>
@@ -84,19 +97,6 @@
             <uri>https://github.com/PrinceTumby</uri>
         </author>
         <published>2022-08-21T22:29:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
-        <id>https://github.com/desttinghim/wasm4-jam2</id>
-        <link href="https://github.com/desttinghim/wasm4-jam2"/>
-        <updated>2022-08-22T15:04:49.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>desttinghim</name>
-            <email>desttinghim@noreply.github.com</email>
-            <uri>https://github.com/desttinghim</uri>
-        </author>
-        <published>2022-08-14T00:18:03.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[luehmann/wasm-cities: A Tile Cities clone for the WASM-4 fantasy console]]></title>
