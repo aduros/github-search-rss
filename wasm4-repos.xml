@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-08-27T00:16:44.451Z</updated>
+    <updated>2022-08-28T00:21:26.197Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -63,7 +63,7 @@
         <title type="html"><![CDATA[desttinghim/wasm4-jam2]]></title>
         <id>https://github.com/desttinghim/wasm4-jam2</id>
         <link href="https://github.com/desttinghim/wasm4-jam2"/>
-        <updated>2022-08-22T15:04:49.000Z</updated>
+        <updated>2022-08-27T18:24:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>desttinghim</name>
