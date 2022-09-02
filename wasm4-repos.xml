@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-01T00:17:22.245Z</updated>
+    <updated>2022-09-02T00:16:50.948Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-08-31T07:43:00.000Z</updated>
+        <updated>2022-09-01T10:57:52.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -125,11 +125,11 @@
         <published>2022-08-21T20:25:14.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andre-LA/the-sentinels: This is a mirror, in case of PR, submit at the upstream: https://codeberg.org/Andre-LA/w4jam2-game]]></title>
+        <title type="html"><![CDATA[Andre-LA/the-sentinels: My game entry for WASM-4 Jam #2 (mirror, development is done at: https://codeberg.org/Andre-LA/w4jam2-game)]]></title>
         <id>https://github.com/Andre-LA/the-sentinels</id>
         <link href="https://github.com/Andre-LA/the-sentinels"/>
-        <updated>2022-08-22T03:32:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>This is a mirror, in case of PR, submit at the upstream: <a href="https://codeberg.org/Andre-LA/w4jam2-game" rel="nofollow">https://codeberg.org/Andre-LA/w4jam2-game</a></div>]]></content>
+        <updated>2022-09-01T01:45:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8538122?u=03e70727d96c43eaf68a71cf4546a2386fcbe070&v=4" width="64" height="64" alt=""/><br/><div>My game entry for WASM-4 Jam #2 (mirror, development is done at: <a href="https://codeberg.org/Andre-LA/w4jam2-game" rel="nofollow">https://codeberg.org/Andre-LA/w4jam2-game</a>)</div>]]></content>
         <author>
             <name>Andre-LA</name>
             <email>Andre-LA@noreply.github.com</email>
