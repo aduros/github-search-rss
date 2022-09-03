@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-02T00:16:50.948Z</updated>
+    <updated>2022-09-03T00:16:10.593Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -37,7 +37,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-01T10:57:52.000Z</updated>
+        <updated>2022-09-02T23:15:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -45,6 +45,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1j01/polywogg: 🐸⚔𐃉𑙪🗡𑙬🤺]]></title>
+        <id>https://github.com/1j01/polywogg</id>
+        <link href="https://github.com/1j01/polywogg"/>
+        <updated>2022-09-02T23:30:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3630663?u=770f7210ce03df5f9d7c22384c739a0407c815f0&v=4" width="64" height="64" alt=""/><br/><div><g-emoji class="g-emoji" alias="frog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f438.png">🐸</g-emoji><g-emoji class="g-emoji" alias="crossed_swords" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2694.png">⚔</g-emoji>𐃉𑙪<g-emoji class="g-emoji" alias="dagger" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5e1.png">🗡</g-emoji>𑙬<g-emoji class="g-emoji" alias="person_fencing" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f93a.png">🤺</g-emoji></div>]]></content>
+        <author>
+            <name>1j01</name>
+            <email>1j01@noreply.github.com</email>
+            <uri>https://github.com/1j01</uri>
+        </author>
+        <published>2022-08-22T02:29:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[desttinghim/wasm4-lv2]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
-        <id>https://github.com/JerwuQu/wasm4-eventscript</id>
-        <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
-        <updated>2022-08-06T00:21:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-08-05T15:36:14.000Z</published>
     </entry>
 </feed>
