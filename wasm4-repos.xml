@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-04T00:18:13.770Z</updated>
+    <updated>2022-09-05T00:21:06.561Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG game written in Zig for WASM-4 Jam #2.]]></title>
+        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
         <id>https://github.com/hazeycode/escape-guldur</id>
         <link href="https://github.com/hazeycode/escape-guldur"/>
-        <updated>2022-08-25T14:59:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG game written in Zig for WASM-4 Jam #2.</div>]]></content>
+        <updated>2022-09-04T18:00:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG handmade in Zig for the WASM-4 fantasy console</div>]]></content>
         <author>
             <name>hazeycode</name>
             <email>hazeycode@noreply.github.com</email>
@@ -151,19 +151,6 @@
         <published>2022-08-22T01:12:38.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PrinceTumby/blaster: 3D multiplayer shooter for the WASM-4 Game Jam #2.]]></title>
-        <id>https://github.com/PrinceTumby/blaster</id>
-        <link href="https://github.com/PrinceTumby/blaster"/>
-        <updated>2022-08-21T22:33:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/8282377?u=375f205a8dc8290fef99cad0c041df8428a33a6e&v=4" width="64" height="64" alt=""/><br/><div>3D multiplayer shooter for the WASM-4 Game Jam #2.</div>]]></content>
-        <author>
-            <name>PrinceTumby</name>
-            <email>PrinceTumby@noreply.github.com</email>
-            <uri>https://github.com/PrinceTumby</uri>
-        </author>
-        <published>2022-08-21T22:29:14.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[luehmann/wasm-cities: A Tile Cities clone for the WASM-4 fantasy console]]></title>
         <id>https://github.com/luehmann/wasm-cities</id>
         <link href="https://github.com/luehmann/wasm-cities"/>
@@ -266,5 +253,18 @@
             <uri>https://github.com/MrRafael-dev</uri>
         </author>
         <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
+        <id>https://github.com/JerwuQu/wasm4-eventscript</id>
+        <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
+        <updated>2022-08-06T00:21:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-08-05T15:36:14.000Z</published>
     </entry>
 </feed>
