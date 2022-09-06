@@ -2,23 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-05T00:21:06.561Z</updated>
+    <updated>2022-09-06T00:17:43.177Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/hazeycode/escape-guldur</id>
-        <link href="https://github.com/hazeycode/escape-guldur"/>
-        <updated>2022-09-04T18:00:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG handmade in Zig for the WASM-4 fantasy console</div>]]></content>
+        <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
+        <id>https://github.com/Gertkeno/to-the-core</id>
+        <link href="https://github.com/Gertkeno/to-the-core"/>
+        <updated>2022-06-01T21:23:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gem collecting and super digging game</div>]]></content>
         <author>
-            <name>hazeycode</name>
-            <email>hazeycode@noreply.github.com</email>
-            <uri>https://github.com/hazeycode</uri>
+            <name>Gertkeno</name>
+            <email>Gertkeno@noreply.github.com</email>
+            <uri>https://github.com/Gertkeno</uri>
         </author>
-        <published>2022-08-16T13:44:47.000Z</published>
+        <published>2022-01-23T15:50:17.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
+        <id>https://github.com/fishtaco567/w4-pnger</id>
+        <link href="https://github.com/fishtaco567/w4-pnger"/>
+        <updated>2022-08-07T18:14:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1082449?v=4" width="64" height="64" alt=""/><br/><div>PNG to Code utility for WASM-4, with compression</div>]]></content>
+        <author>
+            <name>fishtaco567</name>
+            <email>fishtaco567@noreply.github.com</email>
+            <uri>https://github.com/fishtaco567</uri>
+        </author>
+        <published>2022-08-07T18:13:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jzeiber/wasm4-starfightercreator: Ship creator for Starfighter Arena]]></title>
+        <id>https://github.com/jzeiber/wasm4-starfightercreator</id>
+        <link href="https://github.com/jzeiber/wasm4-starfightercreator"/>
+        <updated>2022-05-27T19:20:34.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Ship creator for Starfighter Arena</div>]]></content>
+        <author>
+            <name>jzeiber</name>
+            <email>jzeiber@noreply.github.com</email>
+            <uri>https://github.com/jzeiber</uri>
+        </author>
+        <published>2022-05-27T19:11:50.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
@@ -32,6 +58,19 @@
             <uri>https://github.com/VyrCossont</uri>
         </author>
         <published>2022-08-30T22:48:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/hazeycode/escape-guldur</id>
+        <link href="https://github.com/hazeycode/escape-guldur"/>
+        <updated>2022-09-04T18:00:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG handmade in Zig for the WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>hazeycode</name>
+            <email>hazeycode@noreply.github.com</email>
+            <uri>https://github.com/hazeycode</uri>
+        </author>
+        <published>2022-08-16T13:44:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
@@ -190,6 +229,19 @@
         <published>2022-08-17T15:06:08.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
+        <id>https://github.com/VyrCossont/Pinput</id>
+        <link href="https://github.com/VyrCossont/Pinput"/>
+        <updated>2022-09-05T19:18:18.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2021-10-01T23:45:05.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[willGuimont/rolly-dango: Play it here: https://willguimont.github.io/rolly-dango/]]></title>
         <id>https://github.com/willGuimont/rolly-dango</id>
         <link href="https://github.com/willGuimont/rolly-dango"/>
@@ -214,57 +266,5 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-03-29T20:46:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[apg/skydiver: wasm4 skydiver game]]></title>
-        <id>https://github.com/apg/skydiver</id>
-        <link href="https://github.com/apg/skydiver"/>
-        <updated>2022-08-19T09:45:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/44547?u=bf9d53ee901dc55070459c8a1bb3b0a0106f983a&v=4" width="64" height="64" alt=""/><br/><div>wasm4 skydiver game</div>]]></content>
-        <author>
-            <name>apg</name>
-            <email>apg@noreply.github.com</email>
-            <uri>https://github.com/apg</uri>
-        </author>
-        <published>2022-08-19T09:45:10.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/wasm4-tracker: Experimental WASM-4 tracker.]]></title>
-        <id>https://github.com/MrRafael-dev/wasm4-tracker</id>
-        <link href="https://github.com/MrRafael-dev/wasm4-tracker"/>
-        <updated>2022-08-18T19:20:27.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>Experimental WASM-4 tracker.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-08-11T23:39:06.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2022-01-19T18:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
-        <id>https://github.com/JerwuQu/wasm4-eventscript</id>
-        <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
-        <updated>2022-08-06T00:21:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-08-05T15:36:14.000Z</published>
     </entry>
 </feed>
