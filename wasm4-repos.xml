@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-09T00:20:02.247Z</updated>
+    <updated>2022-09-10T00:19:35.965Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-09-09T23:41:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-gfx-test-cart]]></title>
         <id>https://github.com/JerwuQu/wasm4-gfx-test-cart</id>
@@ -58,19 +71,6 @@
             <uri>https://github.com/desttinghim</uri>
         </author>
         <published>2022-08-26T20:52:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-08T20:27:42.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MiliyanaS/Game-Wasm-4: figuring out how to make a game in wasm-4]]></title>
@@ -245,7 +245,7 @@
         <title type="html"><![CDATA[dosisod/matcha9000: Code for the 2nd WASM-4 Game Jam]]></title>
         <id>https://github.com/dosisod/matcha9000</id>
         <link href="https://github.com/dosisod/matcha9000"/>
-        <updated>2022-08-19T23:26:57.000Z</updated>
+        <updated>2022-09-09T15:37:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/39638017?u=3f8115366eb191fb785eb9e8a7fee7a0393603e5&v=4" width="64" height="64" alt=""/><br/><div>Code for the 2nd WASM-4 Game Jam</div>]]></content>
         <author>
             <name>dosisod</name>
