@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-10T00:19:35.965Z</updated>
+    <updated>2022-09-11T00:17:53.150Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[davidroman0O/wasm4-game-of-life: Zig implementation of the famous Conway's Game of Life]]></title>
+        <id>https://github.com/davidroman0O/wasm4-game-of-life</id>
+        <link href="https://github.com/davidroman0O/wasm4-game-of-life"/>
+        <updated>2022-09-11T00:07:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2845356?u=ef82d53dbc66e6fd8589cb2ef25f4693c654f8e6&v=4" width="64" height="64" alt=""/><br/><div>Zig implementation of the famous Conway's Game of Life</div>]]></content>
+        <author>
+            <name>davidroman0O</name>
+            <email>davidroman0O@noreply.github.com</email>
+            <uri>https://github.com/davidroman0O</uri>
+        </author>
+        <published>2022-09-11T00:07:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/VyrCossont/AtelierEsri</id>
+        <link href="https://github.com/VyrCossont/AtelierEsri"/>
+        <updated>2022-08-30T23:02:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>An Atelier-inspired game written in Rust for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2022-08-30T22:48:24.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-09T23:41:39.000Z</updated>
+        <updated>2022-09-10T23:46:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -45,19 +71,6 @@
             <uri>https://github.com/hazeycode</uri>
         </author>
         <published>2022-08-16T13:44:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/VyrCossont/AtelierEsri</id>
-        <link href="https://github.com/VyrCossont/AtelierEsri"/>
-        <updated>2022-08-30T23:02:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>An Atelier-inspired game written in Rust for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>VyrCossont</name>
-            <email>VyrCossont@noreply.github.com</email>
-            <uri>https://github.com/VyrCossont</uri>
-        </author>
-        <published>2022-08-30T22:48:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[desttinghim/wasm4-lv2]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/dosisod</uri>
         </author>
         <published>2022-08-17T15:06:08.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[willGuimont/rolly-dango: Play it here: https://willguimont.github.io/rolly-dango/]]></title>
-        <id>https://github.com/willGuimont/rolly-dango</id>
-        <link href="https://github.com/willGuimont/rolly-dango"/>
-        <updated>2022-09-06T22:23:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10492253?u=b7c99e8677fb95ad9bb984f85c953038a2cb76f3&v=4" width="64" height="64" alt=""/><br/><div>Play it here: <a href="https://willguimont.github.io/rolly-dango/" rel="nofollow">https://willguimont.github.io/rolly-dango/</a></div>]]></content>
-        <author>
-            <name>willGuimont</name>
-            <email>willGuimont@noreply.github.com</email>
-            <uri>https://github.com/willGuimont</uri>
-        </author>
-        <published>2021-12-21T14:17:12.000Z</published>
     </entry>
 </feed>
