@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-13T00:20:53.680Z</updated>
+    <updated>2022-09-14T00:20:09.568Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-12T19:44:39.000Z</updated>
+        <updated>2022-09-13T20:29:10.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -19,6 +19,32 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
+        <id>https://github.com/fishtaco567/w4-pnger</id>
+        <link href="https://github.com/fishtaco567/w4-pnger"/>
+        <updated>2022-08-07T18:14:02.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1082449?v=4" width="64" height="64" alt=""/><br/><div>PNG to Code utility for WASM-4, with compression</div>]]></content>
+        <author>
+            <name>fishtaco567</name>
+            <email>fishtaco567@noreply.github.com</email>
+            <uri>https://github.com/fishtaco567</uri>
+        </author>
+        <published>2022-08-07T18:13:21.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[guineu1/thumbs-wasm4]]></title>
+        <id>https://github.com/guineu1/thumbs-wasm4</id>
+        <link href="https://github.com/guineu1/thumbs-wasm4"/>
+        <updated>2022-09-13T10:11:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58072326?u=d57e6ae3ad5a9afc8891bf8d54c5fbc560a853a3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>guineu1</name>
+            <email>guineu1@noreply.github.com</email>
+            <uri>https://github.com/guineu1</uri>
+        </author>
+        <published>2022-09-13T10:11:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[leighmcculloch/wasm4-fun: Fun playing around with wasm4.]]></title>
@@ -115,7 +141,7 @@
         <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
         <id>https://github.com/VyrCossont/Pinput</id>
         <link href="https://github.com/VyrCossont/Pinput"/>
-        <updated>2022-09-08T05:59:46.000Z</updated>
+        <updated>2022-09-13T16:39:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
         <author>
             <name>VyrCossont</name>
@@ -136,19 +162,6 @@
             <uri>https://github.com/Gertkeno</uri>
         </author>
         <published>2022-01-23T15:50:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
-        <id>https://github.com/fishtaco567/w4-pnger</id>
-        <link href="https://github.com/fishtaco567/w4-pnger"/>
-        <updated>2022-08-07T18:14:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1082449?v=4" width="64" height="64" alt=""/><br/><div>PNG to Code utility for WASM-4, with compression</div>]]></content>
-        <author>
-            <name>fishtaco567</name>
-            <email>fishtaco567@noreply.github.com</email>
-            <uri>https://github.com/fishtaco567</uri>
-        </author>
-        <published>2022-08-07T18:13:21.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[jzeiber/wasm4-starfightercreator: Ship creator for Starfighter Arena]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/luehmann</uri>
         </author>
         <published>2022-08-21T21:51:50.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iszn11/wasm4-jam2: A game made for WASM-4 Jam #2]]></title>
-        <id>https://github.com/iszn11/wasm4-jam2</id>
-        <link href="https://github.com/iszn11/wasm4-jam2"/>
-        <updated>2022-09-08T23:25:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7891270?v=4" width="64" height="64" alt=""/><br/><div>A game made for WASM-4 Jam #2</div>]]></content>
-        <author>
-            <name>iszn11</name>
-            <email>iszn11@noreply.github.com</email>
-            <uri>https://github.com/iszn11</uri>
-        </author>
-        <published>2022-08-15T12:40:36.000Z</published>
     </entry>
 </feed>
