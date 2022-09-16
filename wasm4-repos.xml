@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-15T00:19:16.419Z</updated>
+    <updated>2022-09-16T00:21:27.655Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-14T14:05:24.000Z</updated>
+        <updated>2022-09-15T15:11:00.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -219,7 +219,7 @@
         <title type="html"><![CDATA[SLiV9/the-romans-are-coming: My entry for the WASM-4 Game Jam 2022.]]></title>
         <id>https://github.com/SLiV9/the-romans-are-coming</id>
         <link href="https://github.com/SLiV9/the-romans-are-coming"/>
-        <updated>2022-08-14T16:52:13.000Z</updated>
+        <updated>2022-09-15T14:47:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for the WASM-4 Game Jam 2022.</div>]]></content>
         <author>
             <name>SLiV9</name>
