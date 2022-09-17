@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-16T00:21:27.655Z</updated>
+    <updated>2022-09-17T00:18:32.796Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -21,17 +21,30 @@
         <published>2022-08-30T22:48:24.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-15T15:11:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[szamuboy/wasm4-nix: Nix flake for wasm-4]]></title>
+        <id>https://github.com/szamuboy/wasm4-nix</id>
+        <link href="https://github.com/szamuboy/wasm4-nix"/>
+        <updated>2022-09-16T15:23:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/967301?u=d07d62e160dbe216ae81e4190992fb466184869d&v=4" width="64" height="64" alt=""/><br/><div>Nix flake for wasm-4</div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>szamuboy</name>
+            <email>szamuboy@noreply.github.com</email>
+            <uri>https://github.com/szamuboy</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-09-16T15:22:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[guineu1/boxart-wasm4]]></title>
+        <id>https://github.com/guineu1/boxart-wasm4</id>
+        <link href="https://github.com/guineu1/boxart-wasm4"/>
+        <updated>2022-09-16T12:12:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58072326?u=d57e6ae3ad5a9afc8891bf8d54c5fbc560a853a3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>guineu1</name>
+            <email>guineu1@noreply.github.com</email>
+            <uri>https://github.com/guineu1</uri>
+        </author>
+        <published>2022-09-13T10:11:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
@@ -47,17 +60,17 @@
         <published>2022-08-07T18:13:21.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[guineu1/thumbs-wasm4]]></title>
-        <id>https://github.com/guineu1/thumbs-wasm4</id>
-        <link href="https://github.com/guineu1/thumbs-wasm4"/>
-        <updated>2022-09-13T10:11:05.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58072326?u=d57e6ae3ad5a9afc8891bf8d54c5fbc560a853a3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-09-16T08:34:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
-            <name>guineu1</name>
-            <email>guineu1@noreply.github.com</email>
-            <uri>https://github.com/guineu1</uri>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
         </author>
-        <published>2022-09-13T10:11:05.000Z</published>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[leighmcculloch/wasm4-fun: Fun playing around with wasm4.]]></title>
@@ -76,7 +89,7 @@
         <title type="html"><![CDATA[davidroman0O/wasm4-game-of-life: Zig implementation of the famous Conway's Game of Life]]></title>
         <id>https://github.com/davidroman0O/wasm4-game-of-life</id>
         <link href="https://github.com/davidroman0O/wasm4-game-of-life"/>
-        <updated>2022-09-11T00:07:47.000Z</updated>
+        <updated>2022-09-16T17:32:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2845356?u=ef82d53dbc66e6fd8589cb2ef25f4693c654f8e6&v=4" width="64" height="64" alt=""/><br/><div>Zig implementation of the famous Conway's Game of Life</div>]]></content>
         <author>
             <name>davidroman0O</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Andre-LA</uri>
         </author>
         <published>2022-08-22T01:12:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[luehmann/wasm-cities: A Tile Cities clone for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/luehmann/wasm-cities</id>
-        <link href="https://github.com/luehmann/wasm-cities"/>
-        <updated>2022-08-22T13:11:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47984692?v=4" width="64" height="64" alt=""/><br/><div>A Tile Cities clone for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>luehmann</name>
-            <email>luehmann@noreply.github.com</email>
-            <uri>https://github.com/luehmann</uri>
-        </author>
-        <published>2022-08-21T21:51:50.000Z</published>
     </entry>
 </feed>
