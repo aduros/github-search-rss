@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-17T00:18:32.796Z</updated>
+    <updated>2022-09-18T00:19:23.823Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[szamuboy/wasm4-nix: Nix flake for wasm-4]]></title>
         <id>https://github.com/szamuboy/wasm4-nix</id>
         <link href="https://github.com/szamuboy/wasm4-nix"/>
-        <updated>2022-09-16T15:23:48.000Z</updated>
+        <updated>2022-09-17T09:46:38.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/967301?u=d07d62e160dbe216ae81e4190992fb466184869d&v=4" width="64" height="64" alt=""/><br/><div>Nix flake for wasm-4</div>]]></content>
         <author>
             <name>szamuboy</name>
@@ -63,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-16T08:34:00.000Z</updated>
+        <updated>2022-09-17T20:29:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -115,7 +115,7 @@
         <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
         <id>https://github.com/hazeycode/escape-guldur</id>
         <link href="https://github.com/hazeycode/escape-guldur"/>
-        <updated>2022-09-07T05:43:59.000Z</updated>
+        <updated>2022-09-17T18:41:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG handmade in Zig for the WASM-4 fantasy console</div>]]></content>
         <author>
             <name>hazeycode</name>
