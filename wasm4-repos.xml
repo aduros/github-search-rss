@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-21T00:21:26.707Z</updated>
+    <updated>2022-09-22T00:19:02.291Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[lasernoises/age-of-wasm: An Age of War clone for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/lasernoises/age-of-wasm</id>
+        <link href="https://github.com/lasernoises/age-of-wasm"/>
+        <updated>2022-09-21T15:28:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64537872?v=4" width="64" height="64" alt=""/><br/><div>An Age of War clone for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>lasernoises</name>
+            <email>lasernoises@noreply.github.com</email>
+            <uri>https://github.com/lasernoises</uri>
+        </author>
+        <published>2022-09-21T15:23:47.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
         <id>https://github.com/VyrCossont/AtelierEsri</id>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-19T05:07:19.000Z</updated>
+        <updated>2022-09-21T14:47:10.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -45,6 +58,19 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[michaelenger/poteto: An implementation of the single-page RPG Potato by Oliver Darkshire for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/michaelenger/poteto</id>
+        <link href="https://github.com/michaelenger/poteto"/>
+        <updated>2022-09-21T11:46:33.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/626587?u=86fed8a13aed4b31753e817e3f2d1c9cf83a30b8&v=4" width="64" height="64" alt=""/><br/><div>An implementation of the single-page RPG Potato by Oliver Darkshire for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>michaelenger</name>
+            <email>michaelenger@noreply.github.com</email>
+            <uri>https://github.com/michaelenger</uri>
+        </author>
+        <published>2022-09-12T00:22:16.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/desttinghim</uri>
         </author>
         <published>2022-08-14T00:18:03.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLiV9/the-romans-are-coming: My entry for the WASM-4 Game Jam 2022.]]></title>
-        <id>https://github.com/SLiV9/the-romans-are-coming</id>
-        <link href="https://github.com/SLiV9/the-romans-are-coming"/>
-        <updated>2022-09-15T14:47:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for the WASM-4 Game Jam 2022.</div>]]></content>
-        <author>
-            <name>SLiV9</name>
-            <email>SLiV9@noreply.github.com</email>
-            <uri>https://github.com/SLiV9</uri>
-        </author>
-        <published>2022-08-14T16:43:46.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ibillingsley/wasm4-gamejam: One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/ibillingsley/wasm4-gamejam</id>
-        <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
-        <updated>2022-09-12T12:51:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=278f8b63636adc13268deace79cfe29bd8a1cce8&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>ibillingsley</name>
-            <email>ibillingsley@noreply.github.com</email>
-            <uri>https://github.com/ibillingsley</uri>
-        </author>
-        <published>2022-08-21T21:25:54.000Z</published>
     </entry>
 </feed>
