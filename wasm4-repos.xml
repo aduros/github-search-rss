@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-24T00:21:23.269Z</updated>
+    <updated>2022-09-25T00:19:38.227Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[glassyeyedfish/warehouse-keeper: A Sokoban clone for the WASM-4 fantasy console written in Zig.]]></title>
-        <id>https://github.com/glassyeyedfish/warehouse-keeper</id>
-        <link href="https://github.com/glassyeyedfish/warehouse-keeper"/>
-        <updated>2022-09-23T14:13:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95254357?u=c7559c6978093dbddaed983b7607861b0e2c13f1&v=4" width="64" height="64" alt=""/><br/><div>A Sokoban clone for the WASM-4 fantasy console written in Zig.</div>]]></content>
-        <author>
-            <name>glassyeyedfish</name>
-            <email>glassyeyedfish@noreply.github.com</email>
-            <uri>https://github.com/glassyeyedfish</uri>
-        </author>
-        <published>2022-09-23T13:46:32.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
         <id>https://github.com/VyrCossont/AtelierEsri</id>
@@ -34,10 +21,36 @@
         <published>2022-08-30T22:48:24.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
+        <id>https://github.com/Gertkeno/ZoopZoopAdventuresSeven</id>
+        <link href="https://github.com/Gertkeno/ZoopZoopAdventuresSeven"/>
+        <updated>2022-09-24T16:39:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7</div>]]></content>
+        <author>
+            <name>Gertkeno</name>
+            <email>Gertkeno@noreply.github.com</email>
+            <uri>https://github.com/Gertkeno</uri>
+        </author>
+        <published>2022-09-22T01:52:29.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[glassyeyedfish/warehouse-keeper: A Sokoban clone for the WASM-4 fantasy console written in Zig.]]></title>
+        <id>https://github.com/glassyeyedfish/warehouse-keeper</id>
+        <link href="https://github.com/glassyeyedfish/warehouse-keeper"/>
+        <updated>2022-09-23T14:13:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95254357?u=c7559c6978093dbddaed983b7607861b0e2c13f1&v=4" width="64" height="64" alt=""/><br/><div>A Sokoban clone for the WASM-4 fantasy console written in Zig.</div>]]></content>
+        <author>
+            <name>glassyeyedfish</name>
+            <email>glassyeyedfish@noreply.github.com</email>
+            <uri>https://github.com/glassyeyedfish</uri>
+        </author>
+        <published>2022-09-23T13:46:32.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-23T12:50:20.000Z</updated>
+        <updated>2022-09-24T17:03:17.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/1j01</uri>
         </author>
         <published>2022-08-22T02:29:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ericvilcu/wasm4jam2022]]></title>
-        <id>https://github.com/ericvilcu/wasm4jam2022</id>
-        <link href="https://github.com/ericvilcu/wasm4jam2022"/>
-        <updated>2022-08-21T19:55:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96077415?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>ericvilcu</name>
-            <email>ericvilcu@noreply.github.com</email>
-            <uri>https://github.com/ericvilcu</uri>
-        </author>
-        <published>2022-08-21T19:50:52.000Z</published>
     </entry>
 </feed>
