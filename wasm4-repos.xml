@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-26T00:21:34.743Z</updated>
+    <updated>2022-09-27T00:23:48.669Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/VyrCossont/AtelierEsri</id>
+        <link href="https://github.com/VyrCossont/AtelierEsri"/>
+        <updated>2022-08-30T23:02:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>An Atelier-inspired game written in Rust for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2022-08-30T22:48:24.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[glassyeyedfish/warehouse-keeper: A Sokoban clone for the WASM-4 fantasy console written in C.]]></title>
         <id>https://github.com/glassyeyedfish/warehouse-keeper</id>
@@ -32,19 +45,6 @@
             <uri>https://github.com/hazeycode</uri>
         </author>
         <published>2022-08-16T13:44:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/VyrCossont/AtelierEsri</id>
-        <link href="https://github.com/VyrCossont/AtelierEsri"/>
-        <updated>2022-08-30T23:02:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>An Atelier-inspired game written in Rust for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>VyrCossont</name>
-            <email>VyrCossont@noreply.github.com</email>
-            <uri>https://github.com/VyrCossont</uri>
-        </author>
-        <published>2022-08-30T22:48:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
