@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-09-29T00:26:17.196Z</updated>
+    <updated>2022-09-30T00:29:49.216Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/VyrCossont/AtelierEsri</id>
+        <link href="https://github.com/VyrCossont/AtelierEsri"/>
+        <updated>2022-08-30T23:02:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>An Atelier-inspired game written in Rust for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2022-08-30T22:48:24.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-28T22:35:12.000Z</updated>
+        <updated>2022-09-29T15:02:23.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -32,19 +45,6 @@
             <uri>https://github.com/hazeycode</uri>
         </author>
         <published>2022-08-16T13:44:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/VyrCossont/AtelierEsri</id>
-        <link href="https://github.com/VyrCossont/AtelierEsri"/>
-        <updated>2022-08-30T23:02:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>An Atelier-inspired game written in Rust for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>VyrCossont</name>
-            <email>VyrCossont@noreply.github.com</email>
-            <uri>https://github.com/VyrCossont</uri>
-        </author>
-        <published>2022-08-30T22:48:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[glassyeyedfish/warehouse-keeper: A Sokoban clone for the WASM-4 fantasy console written in C.]]></title>
@@ -97,6 +97,19 @@
             <uri>https://github.com/lasernoises</uri>
         </author>
         <published>2022-09-21T15:23:47.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[markwu010/WASM4NN]]></title>
+        <id>https://github.com/markwu010/WASM4NN</id>
+        <link href="https://github.com/markwu010/WASM4NN"/>
+        <updated>2022-09-29T02:05:14.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87466538?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>markwu010</name>
+            <email>markwu010@noreply.github.com</email>
+            <uri>https://github.com/markwu010</uri>
+        </author>
+        <published>2022-09-13T08:54:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[szamuboy/wasm4-nix: Nix flake for wasm-4]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Gertkeno</uri>
         </author>
         <published>2022-01-23T15:50:17.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-starfightercreator: Ship creator for Starfighter Arena]]></title>
-        <id>https://github.com/jzeiber/wasm4-starfightercreator</id>
-        <link href="https://github.com/jzeiber/wasm4-starfightercreator"/>
-        <updated>2022-05-27T19:20:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Ship creator for Starfighter Arena</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2022-05-27T19:11:50.000Z</published>
     </entry>
 </feed>
