@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-01T00:26:56.267Z</updated>
+    <updated>2022-10-02T00:24:51.847Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/hazeycode/escape-guldur</id>
-        <link href="https://github.com/hazeycode/escape-guldur"/>
-        <updated>2022-09-18T12:52:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG handmade in Zig for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>hazeycode</name>
-            <email>hazeycode@noreply.github.com</email>
-            <uri>https://github.com/hazeycode</uri>
-        </author>
-        <published>2022-08-16T13:44:47.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
         <id>https://github.com/VyrCossont/AtelierEsri</id>
@@ -32,6 +19,45 @@
             <uri>https://github.com/VyrCossont</uri>
         </author>
         <published>2022-08-30T22:48:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[leroycep/wasm4-zig-runtime]]></title>
+        <id>https://github.com/leroycep/wasm4-zig-runtime</id>
+        <link href="https://github.com/leroycep/wasm4-zig-runtime"/>
+        <updated>2022-10-01T12:11:05.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2229184?u=aaa46807b50304d4deab4323fea8ecedeae3d5f8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>leroycep</name>
+            <email>leroycep@noreply.github.com</email>
+            <uri>https://github.com/leroycep</uri>
+        </author>
+        <published>2022-10-01T04:03:34.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gounbeee/WASM_4_RAMAMA]]></title>
+        <id>https://github.com/gounbeee/WASM_4_RAMAMA</id>
+        <link href="https://github.com/gounbeee/WASM_4_RAMAMA"/>
+        <updated>2022-10-01T06:55:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14824067?u=4246f4c073632730eaa5969e45ed66bf52ee6fa4&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>gounbeee</name>
+            <email>gounbeee@noreply.github.com</email>
+            <uri>https://github.com/gounbeee</uri>
+        </author>
+        <published>2022-10-01T06:55:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hazeycode/escape-guldur: A retro action-RPG handmade in Zig for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/hazeycode/escape-guldur</id>
+        <link href="https://github.com/hazeycode/escape-guldur"/>
+        <updated>2022-09-18T12:52:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?v=4" width="64" height="64" alt=""/><br/><div>A retro action-RPG handmade in Zig for the WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>hazeycode</name>
+            <email>hazeycode@noreply.github.com</email>
+            <uri>https://github.com/hazeycode</uri>
+        </author>
+        <published>2022-08-16T13:44:47.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/MiliyanaS</uri>
         </author>
         <published>2022-09-07T03:19:24.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
-        <id>https://github.com/VyrCossont/Pinput</id>
-        <link href="https://github.com/VyrCossont/Pinput"/>
-        <updated>2022-09-13T16:39:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
-        <author>
-            <name>VyrCossont</name>
-            <email>VyrCossont@noreply.github.com</email>
-            <uri>https://github.com/VyrCossont</uri>
-        </author>
-        <published>2021-10-01T23:45:05.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gertkeno/to-the-core: wasm4 gem collecting and super digging game]]></title>
-        <id>https://github.com/Gertkeno/to-the-core</id>
-        <link href="https://github.com/Gertkeno/to-the-core"/>
-        <updated>2022-06-01T21:23:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>wasm4 gem collecting and super digging game</div>]]></content>
-        <author>
-            <name>Gertkeno</name>
-            <email>Gertkeno@noreply.github.com</email>
-            <uri>https://github.com/Gertkeno</uri>
-        </author>
-        <published>2022-01-23T15:50:17.000Z</published>
     </entry>
 </feed>
