@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-02T00:24:51.847Z</updated>
+    <updated>2022-10-03T00:22:19.811Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
+        <id>https://github.com/VyrCossont/Pinput</id>
+        <link href="https://github.com/VyrCossont/Pinput"/>
+        <updated>2022-09-13T16:39:30.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2021-10-01T23:45:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[raytracer/four-it-is: A implementation of the classic connect four in assembly script for wasm4.]]></title>
+        <id>https://github.com/raytracer/four-it-is</id>
+        <link href="https://github.com/raytracer/four-it-is"/>
+        <updated>2022-10-02T15:31:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1621631?u=d2a5e0ace514c00e425624e24a6965085e9f1fc1&v=4" width="64" height="64" alt=""/><br/><div>A implementation of the classic connect four in assembly script for wasm4.</div>]]></content>
+        <author>
+            <name>raytracer</name>
+            <email>raytracer@noreply.github.com</email>
+            <uri>https://github.com/raytracer</uri>
+        </author>
+        <published>2022-10-02T15:28:36.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/AtelierEsri: An Atelier-inspired game written in Rust for the WASM-4 fantasy console.]]></title>
         <id>https://github.com/VyrCossont/AtelierEsri</id>
@@ -24,7 +50,7 @@
         <title type="html"><![CDATA[leroycep/wasm4-zig-runtime]]></title>
         <id>https://github.com/leroycep/wasm4-zig-runtime</id>
         <link href="https://github.com/leroycep/wasm4-zig-runtime"/>
-        <updated>2022-10-01T12:11:05.000Z</updated>
+        <updated>2022-10-02T18:09:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2229184?u=aaa46807b50304d4deab4323fea8ecedeae3d5f8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>leroycep</name>
@@ -63,7 +89,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-09-30T15:53:24.000Z</updated>
+        <updated>2022-10-02T12:10:04.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-06-08T20:55:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[desttinghim/wasm4-lv2]]></title>
-        <id>https://github.com/desttinghim/wasm4-lv2</id>
-        <link href="https://github.com/desttinghim/wasm4-lv2"/>
-        <updated>2022-08-26T20:53:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/10042482?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>desttinghim</name>
-            <email>desttinghim@noreply.github.com</email>
-            <uri>https://github.com/desttinghim</uri>
-        </author>
-        <published>2022-08-26T20:52:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MiliyanaS/Game-Wasm-4: figuring out how to make a game in wasm-4]]></title>
-        <id>https://github.com/MiliyanaS/Game-Wasm-4</id>
-        <link href="https://github.com/MiliyanaS/Game-Wasm-4"/>
-        <updated>2022-09-07T03:19:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/96912919?v=4" width="64" height="64" alt=""/><br/><div>figuring out how to make a game in wasm-4</div>]]></content>
-        <author>
-            <name>MiliyanaS</name>
-            <email>MiliyanaS@noreply.github.com</email>
-            <uri>https://github.com/MiliyanaS</uri>
-        </author>
-        <published>2022-09-07T03:19:24.000Z</published>
     </entry>
 </feed>
