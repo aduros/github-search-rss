@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-10T00:22:53.714Z</updated>
+    <updated>2022-10-11T00:23:26.740Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[Odilf/drunk: A wasm-4 game about gaining speed]]></title>
+        <id>https://github.com/Odilf/drunk</id>
+        <link href="https://github.com/Odilf/drunk"/>
+        <updated>2022-10-10T17:26:25.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/53334434?u=03d483d880c5fedf73df658756eac77aff3adf1a&v=4" width="64" height="64" alt=""/><br/><div>A wasm-4 game about gaining speed</div>]]></content>
+        <author>
+            <name>Odilf</name>
+            <email>Odilf@noreply.github.com</email>
+            <uri>https://github.com/Odilf</uri>
+        </author>
+        <published>2022-10-10T17:20:00.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-10-08T23:33:58.000Z</updated>
+        <updated>2022-10-10T14:02:56.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/davidroman0O</uri>
         </author>
         <published>2022-09-11T00:07:20.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-gfx-test-cart]]></title>
-        <id>https://github.com/JerwuQu/wasm4-gfx-test-cart</id>
-        <link href="https://github.com/JerwuQu/wasm4-gfx-test-cart"/>
-        <updated>2022-09-09T00:07:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-06-08T20:55:13.000Z</published>
     </entry>
 </feed>
