@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-13T00:23:23.076Z</updated>
+    <updated>2022-10-14T00:25:21.356Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[markwu010/WASM4NN]]></title>
+        <id>https://github.com/markwu010/WASM4NN</id>
+        <link href="https://github.com/markwu010/WASM4NN"/>
+        <updated>2022-10-05T10:39:57.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87466538?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>markwu010</name>
+            <email>markwu010@noreply.github.com</email>
+            <uri>https://github.com/markwu010</uri>
+        </author>
+        <published>2022-09-13T08:54:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLiV9/corn: My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/SLiV9/corn</id>
+        <link href="https://github.com/SLiV9/corn"/>
+        <updated>2022-09-28T14:58:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>SLiV9</name>
+            <email>SLiV9@noreply.github.com</email>
+            <uri>https://github.com/SLiV9</uri>
+        </author>
+        <published>2022-09-24T18:14:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ScottFromDerby/TexasChainsawDodge: Wasm4 TexasChainsawDodge game]]></title>
         <id>https://github.com/ScottFromDerby/TexasChainsawDodge</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/Odilf</uri>
         </author>
         <published>2022-10-10T17:20:00.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[markwu010/WASM4NN]]></title>
-        <id>https://github.com/markwu010/WASM4NN</id>
-        <link href="https://github.com/markwu010/WASM4NN"/>
-        <updated>2022-10-05T10:39:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87466538?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>markwu010</name>
-            <email>markwu010@noreply.github.com</email>
-            <uri>https://github.com/markwu010</uri>
-        </author>
-        <published>2022-09-13T08:54:54.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/wasm4-demos: Demos for the WASM-4 fantasy console.]]></title>
@@ -149,19 +162,6 @@
             <uri>https://github.com/hazeycode</uri>
         </author>
         <published>2022-08-16T13:44:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLiV9/corn: My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/SLiV9/corn</id>
-        <link href="https://github.com/SLiV9/corn"/>
-        <updated>2022-09-28T14:58:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>SLiV9</name>
-            <email>SLiV9@noreply.github.com</email>
-            <uri>https://github.com/SLiV9</uri>
-        </author>
-        <published>2022-09-24T18:14:51.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
