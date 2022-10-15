@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-14T00:25:21.356Z</updated>
+    <updated>2022-10-15T00:23:27.543Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-10-12T05:20:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[markwu010/WASM4NN]]></title>
         <id>https://github.com/markwu010/WASM4NN</id>
@@ -32,32 +45,6 @@
             <uri>https://github.com/SLiV9</uri>
         </author>
         <published>2022-09-24T18:14:51.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScottFromDerby/TexasChainsawDodge: Wasm4 TexasChainsawDodge game]]></title>
-        <id>https://github.com/ScottFromDerby/TexasChainsawDodge</id>
-        <link href="https://github.com/ScottFromDerby/TexasChainsawDodge"/>
-        <updated>2022-10-12T16:04:08.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36479414?u=e3b746fa1244a2b7e53a5bc82638bb524a551e22&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 TexasChainsawDodge game</div>]]></content>
-        <author>
-            <name>ScottFromDerby</name>
-            <email>ScottFromDerby@noreply.github.com</email>
-            <uri>https://github.com/ScottFromDerby</uri>
-        </author>
-        <published>2022-10-12T16:02:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-10-12T05:20:07.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Odilf/drunk: A wasm-4 game about gaining speed]]></title>
@@ -266,5 +253,18 @@
             <uri>https://github.com/leighmcculloch</uri>
         </author>
         <published>2022-09-11T07:33:58.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[davidroman0O/wasm4-game-of-life: Zig implementation of the famous Conway's Game of Life]]></title>
+        <id>https://github.com/davidroman0O/wasm4-game-of-life</id>
+        <link href="https://github.com/davidroman0O/wasm4-game-of-life"/>
+        <updated>2022-09-16T17:32:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2845356?u=ef82d53dbc66e6fd8589cb2ef25f4693c654f8e6&v=4" width="64" height="64" alt=""/><br/><div>Zig implementation of the famous Conway's Game of Life</div>]]></content>
+        <author>
+            <name>davidroman0O</name>
+            <email>davidroman0O@noreply.github.com</email>
+            <uri>https://github.com/davidroman0O</uri>
+        </author>
+        <published>2022-09-11T00:07:20.000Z</published>
     </entry>
 </feed>
