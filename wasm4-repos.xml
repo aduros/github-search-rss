@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-20T00:23:50.930Z</updated>
+    <updated>2022-10-21T00:22:08.367Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
-        <id>https://github.com/Gertkeno/ZoopZoopAdventuresSeven</id>
-        <link href="https://github.com/Gertkeno/ZoopZoopAdventuresSeven"/>
-        <updated>2022-09-24T16:39:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7</div>]]></content>
-        <author>
-            <name>Gertkeno</name>
-            <email>Gertkeno@noreply.github.com</email>
-            <uri>https://github.com/Gertkeno</uri>
-        </author>
-        <published>2022-09-22T01:52:29.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[asiekierka/wasm4-aot: Ahead-of-time compiled WASM-4 runtime]]></title>
         <id>https://github.com/asiekierka/wasm4-aot</id>
@@ -34,10 +21,23 @@
         <published>2022-10-15T00:48:44.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
+        <id>https://github.com/Gertkeno/ZoopZoopAdventuresSeven</id>
+        <link href="https://github.com/Gertkeno/ZoopZoopAdventuresSeven"/>
+        <updated>2022-09-24T16:39:28.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7</div>]]></content>
+        <author>
+            <name>Gertkeno</name>
+            <email>Gertkeno@noreply.github.com</email>
+            <uri>https://github.com/Gertkeno</uri>
+        </author>
+        <published>2022-09-22T01:52:29.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-10-19T17:24:44.000Z</updated>
+        <updated>2022-10-20T22:26:55.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
