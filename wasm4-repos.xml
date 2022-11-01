@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-10-31T00:21:11.372Z</updated>
+    <updated>2022-11-01T00:22:08.733Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-eventscript]]></title>
+        <id>https://github.com/JerwuQu/wasm4-eventscript</id>
+        <link href="https://github.com/JerwuQu/wasm4-eventscript"/>
+        <updated>2022-08-06T00:21:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-08-05T15:36:14.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
+        <id>https://github.com/JerwuQu/w4on</id>
+        <link href="https://github.com/JerwuQu/w4on"/>
+        <updated>2022-10-21T00:45:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-03-29T20:46:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
         <id>https://github.com/EdSwordsmith/wasm4_snake</id>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Warkanlock</uri>
         </author>
         <published>2022-09-18T15:19:16.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fishtaco567/w4-pnger: PNG to Code utility for WASM-4, with compression]]></title>
-        <id>https://github.com/fishtaco567/w4-pnger</id>
-        <link href="https://github.com/fishtaco567/w4-pnger"/>
-        <updated>2022-08-07T18:14:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1082449?v=4" width="64" height="64" alt=""/><br/><div>PNG to Code utility for WASM-4, with compression</div>]]></content>
-        <author>
-            <name>fishtaco567</name>
-            <email>fishtaco567@noreply.github.com</email>
-            <uri>https://github.com/fishtaco567</uri>
-        </author>
-        <published>2022-08-07T18:13:21.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guineu1/boxart-wasm4]]></title>
-        <id>https://github.com/guineu1/boxart-wasm4</id>
-        <link href="https://github.com/guineu1/boxart-wasm4"/>
-        <updated>2022-09-16T12:12:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58072326?u=d57e6ae3ad5a9afc8891bf8d54c5fbc560a853a3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>guineu1</name>
-            <email>guineu1@noreply.github.com</email>
-            <uri>https://github.com/guineu1</uri>
-        </author>
-        <published>2022-09-13T10:11:05.000Z</published>
     </entry>
 </feed>
