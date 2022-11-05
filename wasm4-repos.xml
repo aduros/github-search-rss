@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-04T00:19:40.978Z</updated>
+    <updated>2022-11-05T00:18:33.605Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -21,10 +21,23 @@
         <published>2022-10-22T18:30:35.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
+        <id>https://github.com/VyrCossont/Pinput</id>
+        <link href="https://github.com/VyrCossont/Pinput"/>
+        <updated>2022-11-04T18:39:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2021-10-01T23:45:05.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[leroycep/wasm4-zig-runtime]]></title>
         <id>https://github.com/leroycep/wasm4-zig-runtime</id>
         <link href="https://github.com/leroycep/wasm4-zig-runtime"/>
-        <updated>2022-10-08T12:22:49.000Z</updated>
+        <updated>2022-11-04T00:27:27.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2229184?u=aaa46807b50304d4deab4323fea8ecedeae3d5f8&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>leroycep</name>
@@ -37,7 +50,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-02T15:36:49.000Z</updated>
+        <updated>2022-11-04T10:44:46.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -162,19 +175,6 @@
             <uri>https://github.com/VyrCossont</uri>
         </author>
         <published>2022-10-03T19:12:53.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
-        <id>https://github.com/VyrCossont/Pinput</id>
-        <link href="https://github.com/VyrCossont/Pinput"/>
-        <updated>2022-09-13T16:39:30.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
-        <author>
-            <name>VyrCossont</name>
-            <email>VyrCossont@noreply.github.com</email>
-            <uri>https://github.com/VyrCossont</uri>
-        </author>
-        <published>2021-10-01T23:45:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[raytracer/four-it-is: A implementation of the classic connect four in assembly script for wasm4.]]></title>
