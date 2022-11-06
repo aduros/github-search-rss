@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-05T00:18:33.605Z</updated>
+    <updated>2022-11-06T00:19:06.903Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[guineu1/boxart-wasm4]]></title>
+        <id>https://github.com/guineu1/boxart-wasm4</id>
+        <link href="https://github.com/guineu1/boxart-wasm4"/>
+        <updated>2022-09-16T12:12:04.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/58072326?u=d57e6ae3ad5a9afc8891bf8d54c5fbc560a853a3&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>guineu1</name>
+            <email>guineu1@noreply.github.com</email>
+            <uri>https://github.com/guineu1</uri>
+        </author>
+        <published>2022-09-13T10:11:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[benc-uk/w4-snake: Simple game in WASM and Go using WASM-4]]></title>
+        <id>https://github.com/benc-uk/w4-snake</id>
+        <link href="https://github.com/benc-uk/w4-snake"/>
+        <updated>2022-11-05T15:25:58.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14982936?u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="64" height="64" alt=""/><br/><div>Simple game in WASM and Go using WASM-4</div>]]></content>
+        <author>
+            <name>benc-uk</name>
+            <email>benc-uk@noreply.github.com</email>
+            <uri>https://github.com/benc-uk</uri>
+        </author>
+        <published>2022-11-05T15:17:48.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
+        <id>https://github.com/JerwuQu/w4on</id>
+        <link href="https://github.com/JerwuQu/w4on"/>
+        <updated>2022-10-21T00:45:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-03-29T20:46:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
         <id>https://github.com/pashutk/w4tracker</id>
@@ -50,7 +89,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-04T10:44:46.000Z</updated>
+        <updated>2022-11-05T06:59:28.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -71,19 +110,6 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-08-05T15:36:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/w4on: WASM-4 Music Sequencer with additional oh noes 和音]]></title>
-        <id>https://github.com/JerwuQu/w4on</id>
-        <link href="https://github.com/JerwuQu/w4on"/>
-        <updated>2022-10-21T00:45:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 Music Sequencer with additional oh noes 和音</div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-03-29T20:46:14.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[EdSwordsmith/wasm4_snake]]></title>
@@ -115,7 +141,7 @@
         <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
         <id>https://github.com/Gertkeno/ZoopZoopAdventuresSeven</id>
         <link href="https://github.com/Gertkeno/ZoopZoopAdventuresSeven"/>
-        <updated>2022-09-24T16:39:28.000Z</updated>
+        <updated>2022-11-05T01:28:36.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7</div>]]></content>
         <author>
             <name>Gertkeno</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/lasernoises</uri>
         </author>
         <published>2022-09-21T15:23:47.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[szamuboy/wasm4-nix: Nix flake for wasm-4]]></title>
-        <id>https://github.com/szamuboy/wasm4-nix</id>
-        <link href="https://github.com/szamuboy/wasm4-nix"/>
-        <updated>2022-09-19T08:12:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/967301?u=d07d62e160dbe216ae81e4190992fb466184869d&v=4" width="64" height="64" alt=""/><br/><div>Nix flake for wasm-4</div>]]></content>
-        <author>
-            <name>szamuboy</name>
-            <email>szamuboy@noreply.github.com</email>
-            <uri>https://github.com/szamuboy</uri>
-        </author>
-        <published>2022-09-16T15:22:11.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[michaelenger/poteto: An implementation of the single-page RPG Potato by Oliver Darkshire for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/michaelenger/poteto</id>
-        <link href="https://github.com/michaelenger/poteto"/>
-        <updated>2022-09-21T11:46:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/626587?u=86fed8a13aed4b31753e817e3f2d1c9cf83a30b8&v=4" width="64" height="64" alt=""/><br/><div>An implementation of the single-page RPG Potato by Oliver Darkshire for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>michaelenger</name>
-            <email>michaelenger@noreply.github.com</email>
-            <uri>https://github.com/michaelenger</uri>
-        </author>
-        <published>2022-09-12T00:22:16.000Z</published>
     </entry>
 </feed>
