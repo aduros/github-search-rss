@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-13T00:16:53.485Z</updated>
+    <updated>2022-11-14T00:16:58.907Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-12T04:09:50.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
+        <id>https://github.com/pashutk/w4tracker</id>
+        <link href="https://github.com/pashutk/w4tracker"/>
+        <updated>2022-11-01T22:49:23.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4306737?v=4" width="64" height="64" alt=""/><br/><div>Tiny music sequencer built with rust and webassembly</div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>pashutk</name>
+            <email>pashutk@noreply.github.com</email>
+            <uri>https://github.com/pashutk</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-10-22T18:30:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Taqmuraz/RomeWasm4]]></title>
@@ -47,6 +47,19 @@
         <published>2022-11-12T11:44:11.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-11-13T16:24:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taqmuraz/Wasm4Guide]]></title>
         <id>https://github.com/Taqmuraz/Wasm4Guide</id>
         <link href="https://github.com/Taqmuraz/Wasm4Guide"/>
@@ -71,19 +84,6 @@
             <uri>https://github.com/Socrates1232</uri>
         </author>
         <published>2021-07-07T03:36:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
-        <id>https://github.com/pashutk/w4tracker</id>
-        <link href="https://github.com/pashutk/w4tracker"/>
-        <updated>2022-11-01T22:49:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4306737?v=4" width="64" height="64" alt=""/><br/><div>Tiny music sequencer built with rust and webassembly</div>]]></content>
-        <author>
-            <name>pashutk</name>
-            <email>pashutk@noreply.github.com</email>
-            <uri>https://github.com/pashutk</uri>
-        </author>
-        <published>2022-10-22T18:30:35.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[benc-uk/w4-snake: Simple game in WASM and Go using WASM-4]]></title>
