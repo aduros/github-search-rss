@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-15T00:18:10.922Z</updated>
+    <updated>2022-11-16T00:17:57.066Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[nekodjin/nkd-w4: A Safe and Convenient API for WASM-4.]]></title>
+        <id>https://github.com/nekodjin/nkd-w4</id>
+        <link href="https://github.com/nekodjin/nkd-w4"/>
+        <updated>2022-11-15T23:46:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59782103?u=a54f31b115e74d740fabc78c90b7780725993a8b&v=4" width="64" height="64" alt=""/><br/><div>A Safe and Convenient API for WASM-4.</div>]]></content>
+        <author>
+            <name>nekodjin</name>
+            <email>nekodjin@noreply.github.com</email>
+            <uri>https://github.com/nekodjin</uri>
+        </author>
+        <published>2022-11-15T23:46:01.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JaDogg/blw4: WASM4 native runtime ported to 32blit (32blit SDK) ]]></title>
         <id>https://github.com/JaDogg/blw4</id>
@@ -21,6 +34,32 @@
         <published>2022-11-14T23:21:41.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
+        <id>https://github.com/Cyborus04/sw4</id>
+        <link href="https://github.com/Cyborus04/sw4"/>
+        <updated>2022-11-15T11:35:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87248184?u=aa2e11c2277d8b37d1f1c63eaa8d3f674944def8&v=4" width="64" height="64" alt=""/><br/><div>a `struct`-based wasm4 api</div>]]></content>
+        <author>
+            <name>Cyborus04</name>
+            <email>Cyborus04@noreply.github.com</email>
+            <uri>https://github.com/Cyborus04</uri>
+        </author>
+        <published>2022-11-15T05:17:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaDogg/lime-volleyball-32blit: Port of WASM4 lime volleyball 32blit]]></title>
+        <id>https://github.com/JaDogg/lime-volleyball-32blit</id>
+        <link href="https://github.com/JaDogg/lime-volleyball-32blit"/>
+        <updated>2022-11-15T00:26:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>Port of WASM4 lime volleyball 32blit</div>]]></content>
+        <author>
+            <name>JaDogg</name>
+            <email>JaDogg@noreply.github.com</email>
+            <uri>https://github.com/JaDogg</uri>
+        </author>
+        <published>2022-11-14T14:04:56.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[nekodjin/nkd-w4-prim: Primitive interface for the WASM-4 API.]]></title>
         <id>https://github.com/nekodjin/nkd-w4-prim</id>
         <link href="https://github.com/nekodjin/nkd-w4-prim"/>
@@ -32,19 +71,6 @@
             <uri>https://github.com/nekodjin</uri>
         </author>
         <published>2022-11-14T23:19:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JaDogg/lime-volleyball-32blit: Port of WASM4 lime volleyball]]></title>
-        <id>https://github.com/JaDogg/lime-volleyball-32blit</id>
-        <link href="https://github.com/JaDogg/lime-volleyball-32blit"/>
-        <updated>2022-11-14T16:45:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>Port of WASM4 lime volleyball</div>]]></content>
-        <author>
-            <name>JaDogg</name>
-            <email>JaDogg@noreply.github.com</email>
-            <uri>https://github.com/JaDogg</uri>
-        </author>
-        <published>2022-11-14T14:04:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[benc-uk/wasm-lander]]></title>
@@ -89,7 +115,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-13T16:24:52.000Z</updated>
+        <updated>2022-11-15T21:18:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Gertkeno</uri>
         </author>
         <published>2022-09-22T01:52:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[markwu010/WASM4NN]]></title>
-        <id>https://github.com/markwu010/WASM4NN</id>
-        <link href="https://github.com/markwu010/WASM4NN"/>
-        <updated>2022-10-05T10:39:57.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87466538?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>markwu010</name>
-            <email>markwu010@noreply.github.com</email>
-            <uri>https://github.com/markwu010</uri>
-        </author>
-        <published>2022-09-13T08:54:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLiV9/corn: My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.]]></title>
-        <id>https://github.com/SLiV9/corn</id>
-        <link href="https://github.com/SLiV9/corn"/>
-        <updated>2022-09-28T14:58:16.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?v=4" width="64" height="64" alt=""/><br/><div>My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.</div>]]></content>
-        <author>
-            <name>SLiV9</name>
-            <email>SLiV9@noreply.github.com</email>
-            <uri>https://github.com/SLiV9</uri>
-        </author>
-        <published>2022-09-24T18:14:51.000Z</published>
     </entry>
 </feed>
