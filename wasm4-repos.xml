@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-17T00:18:20.299Z</updated>
+    <updated>2022-11-18T00:18:55.447Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-11-17T18:25:19.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taqmuraz/RomeWasm4]]></title>
+        <id>https://github.com/Taqmuraz/RomeWasm4</id>
+        <link href="https://github.com/Taqmuraz/RomeWasm4"/>
+        <updated>2022-11-17T13:54:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37420878?u=9645f5bff1dd365aac11e94ac4a1c46f5e400914&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Taqmuraz</name>
+            <email>Taqmuraz@noreply.github.com</email>
+            <uri>https://github.com/Taqmuraz</uri>
+        </author>
+        <published>2022-11-12T13:20:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JaDogg/blw4: WASM4 native runtime ported to 32blit (32blit SDK) ]]></title>
+        <id>https://github.com/JaDogg/blw4</id>
+        <link href="https://github.com/JaDogg/blw4"/>
+        <updated>2022-11-17T18:33:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>WASM4 native runtime ported to 32blit (32blit SDK) </div>]]></content>
+        <author>
+            <name>JaDogg</name>
+            <email>JaDogg@noreply.github.com</email>
+            <uri>https://github.com/JaDogg</uri>
+        </author>
+        <published>2022-11-14T23:21:41.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[grantshandy/w4-paint: A simple (12K) paint application I made in Rust while learning the wasm4 game engine.]]></title>
+        <id>https://github.com/grantshandy/w4-paint</id>
+        <link href="https://github.com/grantshandy/w4-paint"/>
+        <updated>2022-11-17T16:13:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>A simple (12K) paint application I made in Rust while learning the wasm4 game engine.</div>]]></content>
+        <author>
+            <name>grantshandy</name>
+            <email>grantshandy@noreply.github.com</email>
+            <uri>https://github.com/grantshandy</uri>
+        </author>
+        <published>2022-11-16T23:27:18.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nekodjin/nkd-w4: A Safe and Convenient API for WASM-4.]]></title>
         <id>https://github.com/nekodjin/nkd-w4</id>
@@ -19,19 +71,6 @@
             <uri>https://github.com/nekodjin</uri>
         </author>
         <published>2022-11-15T23:46:01.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JaDogg/blw4: WASM4 native runtime ported to 32blit (32blit SDK) ]]></title>
-        <id>https://github.com/JaDogg/blw4</id>
-        <link href="https://github.com/JaDogg/blw4"/>
-        <updated>2022-11-14T23:36:58.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>WASM4 native runtime ported to 32blit (32blit SDK) </div>]]></content>
-        <author>
-            <name>JaDogg</name>
-            <email>JaDogg@noreply.github.com</email>
-            <uri>https://github.com/JaDogg</uri>
-        </author>
-        <published>2022-11-14T23:21:41.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
@@ -97,32 +136,6 @@
             <uri>https://github.com/pashutk</uri>
         </author>
         <published>2022-10-22T18:30:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taqmuraz/RomeWasm4]]></title>
-        <id>https://github.com/Taqmuraz/RomeWasm4</id>
-        <link href="https://github.com/Taqmuraz/RomeWasm4"/>
-        <updated>2022-11-12T13:22:06.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37420878?u=9645f5bff1dd365aac11e94ac4a1c46f5e400914&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Taqmuraz</name>
-            <email>Taqmuraz@noreply.github.com</email>
-            <uri>https://github.com/Taqmuraz</uri>
-        </author>
-        <published>2022-11-12T13:20:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-16T07:18:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Taqmuraz/Wasm4Guide]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/asiekierka</uri>
         </author>
         <published>2022-10-15T00:48:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gertkeno/ZoopZoopAdventuresSeven: Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7]]></title>
-        <id>https://github.com/Gertkeno/ZoopZoopAdventuresSeven</id>
-        <link href="https://github.com/Gertkeno/ZoopZoopAdventuresSeven"/>
-        <updated>2022-11-05T01:28:36.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15616419?u=fb12ca227144265ceead8dee5b324d4fe1f6f183&v=4" width="64" height="64" alt=""/><br/><div>Join Zoop, Berry, Pemdas, and Jonathan in Zoop Zoop's Bee Adventures 7</div>]]></content>
-        <author>
-            <name>Gertkeno</name>
-            <email>Gertkeno@noreply.github.com</email>
-            <uri>https://github.com/Gertkeno</uri>
-        </author>
-        <published>2022-09-22T01:52:29.000Z</published>
     </entry>
 </feed>
