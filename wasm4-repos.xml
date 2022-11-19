@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-18T00:18:55.447Z</updated>
+    <updated>2022-11-19T00:17:03.817Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-17T18:25:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <title type="html"><![CDATA[JaDogg/lime-volleyball-32blit: Port of WASM4 lime volleyball 32blit]]></title>
+        <id>https://github.com/JaDogg/lime-volleyball-32blit</id>
+        <link href="https://github.com/JaDogg/lime-volleyball-32blit"/>
+        <updated>2022-11-15T00:26:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>Port of WASM4 lime volleyball 32blit</div>]]></content>
         <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
+            <name>JaDogg</name>
+            <email>JaDogg@noreply.github.com</email>
+            <uri>https://github.com/JaDogg</uri>
         </author>
-        <published>2021-08-05T23:48:23.000Z</published>
+        <published>2022-11-14T14:04:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Taqmuraz/RomeWasm4]]></title>
@@ -34,10 +34,23 @@
         <published>2022-11-12T13:20:43.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-11-18T20:16:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JaDogg/blw4: WASM4 native runtime ported to 32blit (32blit SDK) ]]></title>
         <id>https://github.com/JaDogg/blw4</id>
         <link href="https://github.com/JaDogg/blw4"/>
-        <updated>2022-11-17T18:33:49.000Z</updated>
+        <updated>2022-11-18T16:36:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>WASM4 native runtime ported to 32blit (32blit SDK) </div>]]></content>
         <author>
             <name>JaDogg</name>
@@ -84,19 +97,6 @@
             <uri>https://github.com/Cyborus04</uri>
         </author>
         <published>2022-11-15T05:17:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JaDogg/lime-volleyball-32blit: Port of WASM4 lime volleyball 32blit]]></title>
-        <id>https://github.com/JaDogg/lime-volleyball-32blit</id>
-        <link href="https://github.com/JaDogg/lime-volleyball-32blit"/>
-        <updated>2022-11-15T00:26:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/498642?u=58cbdc1a0145b2b162ef78529af031d5fc3b2834&v=4" width="64" height="64" alt=""/><br/><div>Port of WASM4 lime volleyball 32blit</div>]]></content>
-        <author>
-            <name>JaDogg</name>
-            <email>JaDogg@noreply.github.com</email>
-            <uri>https://github.com/JaDogg</uri>
-        </author>
-        <published>2022-11-14T14:04:56.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[nekodjin/nkd-w4-prim: Primitive interface for the WASM-4 API.]]></title>
