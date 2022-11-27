@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-11-26T00:15:09.324Z</updated>
+    <updated>2022-11-27T00:17:54.992Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[JBergles/wasm4-glyphs]]></title>
+        <id>https://github.com/JBergles/wasm4-glyphs</id>
+        <link href="https://github.com/JBergles/wasm4-glyphs"/>
+        <updated>2022-11-20T06:02:12.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68064?u=a87c0b6a1074ebb822fc46bc5d734ff9107124df&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>JBergles</name>
+            <email>JBergles@noreply.github.com</email>
+            <uri>https://github.com/JBergles</uri>
+        </author>
+        <published>2022-11-20T06:01:38.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
         <id>https://github.com/pashutk/w4tracker</id>
@@ -19,6 +32,32 @@
             <uri>https://github.com/pashutk</uri>
         </author>
         <published>2022-10-22T18:30:35.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
+        <id>https://github.com/VyrCossont/Pinput</id>
+        <link href="https://github.com/VyrCossont/Pinput"/>
+        <updated>2022-11-04T18:39:10.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
+        <author>
+            <name>VyrCossont</name>
+            <email>VyrCossont@noreply.github.com</email>
+            <uri>https://github.com/VyrCossont</uri>
+        </author>
+        <published>2021-10-01T23:45:05.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-11-26T00:58:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[steppicrew/wasm-4-Tetris]]></title>
@@ -60,19 +99,6 @@
         <published>2022-11-15T23:46:01.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JBergles/wasm4-glyphs]]></title>
-        <id>https://github.com/JBergles/wasm4-glyphs</id>
-        <link href="https://github.com/JBergles/wasm4-glyphs"/>
-        <updated>2022-11-20T06:02:12.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/68064?u=a87c0b6a1074ebb822fc46bc5d734ff9107124df&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JBergles</name>
-            <email>JBergles@noreply.github.com</email>
-            <uri>https://github.com/JBergles</uri>
-        </author>
-        <published>2022-11-20T06:01:38.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JaDogg/lime-volleyball-32blit: Port of WASM4 lime volleyball 32blit]]></title>
         <id>https://github.com/JaDogg/lime-volleyball-32blit</id>
         <link href="https://github.com/JaDogg/lime-volleyball-32blit"/>
@@ -84,19 +110,6 @@
             <uri>https://github.com/JaDogg</uri>
         </author>
         <published>2022-11-14T14:04:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-11-25T15:53:33.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[JaDogg/blw4: WASM4 native runtime ported to 32blit (32blit SDK) ]]></title>
@@ -227,19 +240,6 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-03-29T20:46:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
-        <id>https://github.com/VyrCossont/Pinput</id>
-        <link href="https://github.com/VyrCossont/Pinput"/>
-        <updated>2022-11-04T18:39:10.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/26195552?u=23c12a68500db2429fa7a0858b2614d6904cc8f8&v=4" width="64" height="64" alt=""/><br/><div>Extended gamepad support for PICO-8 and WASM-4</div>]]></content>
-        <author>
-            <name>VyrCossont</name>
-            <email>VyrCossont@noreply.github.com</email>
-            <uri>https://github.com/VyrCossont</uri>
-        </author>
-        <published>2021-10-01T23:45:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[leroycep/wasm4-zig-runtime]]></title>
