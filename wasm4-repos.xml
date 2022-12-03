@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-12-02T00:15:33.164Z</updated>
+    <updated>2022-12-03T00:14:11.507Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -21,6 +21,45 @@
         <published>2022-11-29T20:43:11.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
+        <id>https://github.com/JerwuQu/wasm4-test-cart</id>
+        <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
+        <updated>2022-12-02T15:05:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime implementation checker.</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-06-08T20:55:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
+        <id>https://github.com/Cyborus04/sw4</id>
+        <link href="https://github.com/Cyborus04/sw4"/>
+        <updated>2022-11-15T11:35:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87248184?u=aa2e11c2277d8b37d1f1c63eaa8d3f674944def8&v=4" width="64" height="64" alt=""/><br/><div>a `struct`-based wasm4 api</div>]]></content>
+        <author>
+            <name>Cyborus04</name>
+            <email>Cyborus04@noreply.github.com</email>
+            <uri>https://github.com/Cyborus04</uri>
+        </author>
+        <published>2022-11-15T05:17:12.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-12-02T08:48:46.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
         <id>https://github.com/pashutk/w4tracker</id>
         <link href="https://github.com/pashutk/w4tracker"/>
@@ -32,19 +71,6 @@
             <uri>https://github.com/pashutk</uri>
         </author>
         <published>2022-10-22T18:30:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-test-cart]]></title>
-        <id>https://github.com/JerwuQu/wasm4-test-cart</id>
-        <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
-        <updated>2022-12-01T15:48:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-06-08T20:55:13.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[christopher-kleine/w4g: WASM-4 tools written in Go]]></title>
@@ -71,19 +97,6 @@
             <uri>https://github.com/asiekierka</uri>
         </author>
         <published>2022-10-15T00:48:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-12-01T11:10:28.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
@@ -188,19 +201,6 @@
             <uri>https://github.com/grantshandy</uri>
         </author>
         <published>2022-11-16T23:27:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
-        <id>https://github.com/Cyborus04/sw4</id>
-        <link href="https://github.com/Cyborus04/sw4"/>
-        <updated>2022-11-15T11:35:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87248184?u=aa2e11c2277d8b37d1f1c63eaa8d3f674944def8&v=4" width="64" height="64" alt=""/><br/><div>a `struct`-based wasm4 api</div>]]></content>
-        <author>
-            <name>Cyborus04</name>
-            <email>Cyborus04@noreply.github.com</email>
-            <uri>https://github.com/Cyborus04</uri>
-        </author>
-        <published>2022-11-15T05:17:12.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[nekodjin/nkd-w4-prim: Primitive interface for the WASM-4 API.]]></title>
