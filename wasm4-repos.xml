@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-12-04T00:15:18.235Z</updated>
+    <updated>2022-12-05T00:15:42.672Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[grantshandy/w4rr: Wasm4 Rust Runtime]]></title>
+        <id>https://github.com/grantshandy/w4rr</id>
+        <link href="https://github.com/grantshandy/w4rr"/>
+        <updated>2022-11-30T14:36:03.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 Rust Runtime</div>]]></content>
+        <author>
+            <name>grantshandy</name>
+            <email>grantshandy@noreply.github.com</email>
+            <uri>https://github.com/grantshandy</uri>
+        </author>
+        <published>2022-11-29T20:43:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[raytracer/wasm4-strategy: A simple Anno 1602 like prototype]]></title>
+        <id>https://github.com/raytracer/wasm4-strategy</id>
+        <link href="https://github.com/raytracer/wasm4-strategy"/>
+        <updated>2022-12-04T21:31:50.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1621631?u=d2a5e0ace514c00e425624e24a6965085e9f1fc1&v=4" width="64" height="64" alt=""/><br/><div>A simple Anno 1602 like prototype</div>]]></content>
+        <author>
+            <name>raytracer</name>
+            <email>raytracer@noreply.github.com</email>
+            <uri>https://github.com/raytracer</uri>
+        </author>
+        <published>2022-12-04T21:29:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[benc-uk/wasm-lander]]></title>
+        <id>https://github.com/benc-uk/wasm-lander</id>
+        <link href="https://github.com/benc-uk/wasm-lander"/>
+        <updated>2022-12-04T17:06:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14982936?u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>benc-uk</name>
+            <email>benc-uk@noreply.github.com</email>
+            <uri>https://github.com/benc-uk</uri>
+        </author>
+        <published>2022-11-12T11:44:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
+        <id>https://github.com/JerwuQu/wasm4-test-cart</id>
+        <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
+        <updated>2022-12-02T15:05:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime implementation checker.</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-06-08T20:55:13.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
         <id>https://github.com/pashutk/w4tracker</id>
@@ -32,32 +84,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
-        <id>https://github.com/JerwuQu/wasm4-test-cart</id>
-        <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
-        <updated>2022-12-02T15:05:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime implementation checker.</div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-06-08T20:55:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[grantshandy/w4rr: Wasm4 Rust Runtime]]></title>
-        <id>https://github.com/grantshandy/w4rr</id>
-        <link href="https://github.com/grantshandy/w4rr"/>
-        <updated>2022-11-30T14:36:03.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 Rust Runtime</div>]]></content>
-        <author>
-            <name>grantshandy</name>
-            <email>grantshandy@noreply.github.com</email>
-            <uri>https://github.com/grantshandy</uri>
-        </author>
-        <published>2022-11-29T20:43:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
@@ -216,19 +242,6 @@
         <published>2022-11-14T23:19:07.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[benc-uk/wasm-lander]]></title>
-        <id>https://github.com/benc-uk/wasm-lander</id>
-        <link href="https://github.com/benc-uk/wasm-lander"/>
-        <updated>2022-11-12T11:46:52.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14982936?u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>benc-uk</name>
-            <email>benc-uk@noreply.github.com</email>
-            <uri>https://github.com/benc-uk</uri>
-        </author>
-        <published>2022-11-12T11:44:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taqmuraz/Wasm4Guide]]></title>
         <id>https://github.com/Taqmuraz/Wasm4Guide</id>
         <link href="https://github.com/Taqmuraz/Wasm4Guide"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Socrates1232</uri>
         </author>
         <published>2021-07-07T03:36:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[benc-uk/w4-snake: Simple game in WASM and Go using WASM-4]]></title>
-        <id>https://github.com/benc-uk/w4-snake</id>
-        <link href="https://github.com/benc-uk/w4-snake"/>
-        <updated>2022-11-07T16:14:44.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14982936?u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="64" height="64" alt=""/><br/><div>Simple game in WASM and Go using WASM-4</div>]]></content>
-        <author>
-            <name>benc-uk</name>
-            <email>benc-uk@noreply.github.com</email>
-            <uri>https://github.com/benc-uk</uri>
-        </author>
-        <published>2022-11-05T15:17:48.000Z</published>
     </entry>
 </feed>
