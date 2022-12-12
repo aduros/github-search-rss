@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-12-11T00:16:54.360Z</updated>
+    <updated>2022-12-12T00:16:07.153Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[benc-uk/wasm-lander]]></title>
+        <id>https://github.com/benc-uk/wasm-lander</id>
+        <link href="https://github.com/benc-uk/wasm-lander"/>
+        <updated>2022-12-04T17:06:53.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14982936?u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>benc-uk</name>
+            <email>benc-uk@noreply.github.com</email>
+            <uri>https://github.com/benc-uk</uri>
+        </author>
+        <published>2022-11-12T11:44:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[grantshandy/w4rr: Wasm4 Rust Runtime]]></title>
         <id>https://github.com/grantshandy/w4rr</id>
@@ -47,19 +60,6 @@
         <published>2021-10-01T23:45:05.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[benc-uk/wasm-lander]]></title>
-        <id>https://github.com/benc-uk/wasm-lander</id>
-        <link href="https://github.com/benc-uk/wasm-lander"/>
-        <updated>2022-12-04T17:06:53.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14982936?u=0f2cc69e7af1f9bf14f289effd34fa26c9e18e78&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>benc-uk</name>
-            <email>benc-uk@noreply.github.com</email>
-            <uri>https://github.com/benc-uk</uri>
-        </author>
-        <published>2022-11-12T11:44:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[raytracer/wasm4-strategy: A simple Anno 1602 like prototype]]></title>
         <id>https://github.com/raytracer/wasm4-strategy</id>
         <link href="https://github.com/raytracer/wasm4-strategy"/>
@@ -89,7 +89,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-12-10T04:23:11.000Z</updated>
+        <updated>2022-12-11T03:44:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
