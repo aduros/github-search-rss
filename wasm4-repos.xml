@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2022-12-14T00:15:41.227Z</updated>
+    <updated>2022-12-15T00:15:22.167Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -19,6 +19,19 @@
             <uri>https://github.com/benc-uk</uri>
         </author>
         <published>2022-11-12T11:44:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kahdeg-15520487/wasm4.net]]></title>
+        <id>https://github.com/Kahdeg-15520487/wasm4.net</id>
+        <link href="https://github.com/Kahdeg-15520487/wasm4.net"/>
+        <updated>2022-12-14T10:23:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/15503419?u=f1362b176a8c4a5dc9eab8f73f0e9d5e90cf7997&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>Kahdeg-15520487</name>
+            <email>Kahdeg-15520487@noreply.github.com</email>
+            <uri>https://github.com/Kahdeg-15520487</uri>
+        </author>
+        <published>2022-12-14T10:23:18.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
@@ -89,7 +102,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-12-13T09:24:03.000Z</updated>
+        <updated>2022-12-14T17:10:41.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Taqmuraz</uri>
         </author>
         <published>2022-11-11T21:25:19.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Socrates1232/WASM4Win]]></title>
-        <id>https://github.com/Socrates1232/WASM4Win</id>
-        <link href="https://github.com/Socrates1232/WASM4Win"/>
-        <updated>2022-11-08T05:55:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/34000675?u=44404684870290137c5a722d5961f454e557d1a6&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Socrates1232</name>
-            <email>Socrates1232@noreply.github.com</email>
-            <uri>https://github.com/Socrates1232</uri>
-        </author>
-        <published>2021-07-07T03:36:56.000Z</published>
     </entry>
 </feed>
