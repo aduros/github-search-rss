@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-01T00:17:10.886Z</updated>
+    <updated>2023-01-02T00:14:55.693Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2022-12-27T16:15:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[douglett/break-it: My first wasm4 game - a breakout clone]]></title>
+        <id>https://github.com/douglett/break-it</id>
+        <link href="https://github.com/douglett/break-it"/>
+        <updated>2023-01-01T19:53:32.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/738780?v=4" width="64" height="64" alt=""/><br/><div>My first wasm4 game - a breakout clone</div>]]></content>
+        <author>
+            <name>douglett</name>
+            <email>douglett@noreply.github.com</email>
+            <uri>https://github.com/douglett</uri>
+        </author>
+        <published>2023-01-01T19:52:44.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
         <id>https://github.com/hahahahaman/snakery</id>
@@ -125,19 +151,6 @@
         <published>2022-12-04T21:29:54.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2022-12-27T16:15:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
         <id>https://github.com/Cyborus04/sw4</id>
         <link href="https://github.com/Cyborus04/sw4"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/grantshandy</uri>
         </author>
         <published>2022-11-16T23:27:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nekodjin/nkd-w4-prim: Primitive interface for the WASM-4 API.]]></title>
-        <id>https://github.com/nekodjin/nkd-w4-prim</id>
-        <link href="https://github.com/nekodjin/nkd-w4-prim"/>
-        <updated>2022-11-14T23:19:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59782103?u=a54f31b115e74d740fabc78c90b7780725993a8b&v=4" width="64" height="64" alt=""/><br/><div>Primitive interface for the WASM-4 API.</div>]]></content>
-        <author>
-            <name>nekodjin</name>
-            <email>nekodjin@noreply.github.com</email>
-            <uri>https://github.com/nekodjin</uri>
-        </author>
-        <published>2022-11-14T23:19:07.000Z</published>
     </entry>
 </feed>
