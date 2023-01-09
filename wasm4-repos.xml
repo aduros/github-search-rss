@@ -2,11 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-08T00:16:09.982Z</updated>
+    <updated>2023-01-09T00:16:26.596Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
+        <id>https://github.com/JerwuQu/wasm4-test-cart</id>
+        <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
+        <updated>2022-12-02T15:05:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime implementation checker.</div>]]></content>
+        <author>
+            <name>JerwuQu</name>
+            <email>JerwuQu@noreply.github.com</email>
+            <uri>https://github.com/JerwuQu</uri>
+        </author>
+        <published>2022-06-08T20:55:13.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2023-01-08T08:46:08.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLiV9/corn: My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.]]></title>
+        <id>https://github.com/SLiV9/corn</id>
+        <link href="https://github.com/SLiV9/corn"/>
+        <updated>2022-09-28T14:58:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1826193?u=4d356ab43f90dc4c370a711166b6d983a7612208&v=4" width="64" height="64" alt=""/><br/><div>My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.</div>]]></content>
+        <author>
+            <name>SLiV9</name>
+            <email>SLiV9@noreply.github.com</email>
+            <uri>https://github.com/SLiV9</uri>
+        </author>
+        <published>2022-09-24T18:14:51.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nefrace/newyearkrendelki: A WASM4 game for local New Year jam]]></title>
         <id>https://github.com/nefrace/newyearkrendelki</id>
@@ -32,19 +71,6 @@
             <uri>https://github.com/code4fukui</uri>
         </author>
         <published>2023-01-04T22:48:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-06T01:25:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[douglett/break-it: My first wasm4 game - a breakout clone]]></title>
@@ -151,19 +177,6 @@
         <published>2022-12-14T10:23:18.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
-        <id>https://github.com/JerwuQu/wasm4-test-cart</id>
-        <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
-        <updated>2022-12-02T15:05:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime implementation checker.</div>]]></content>
-        <author>
-            <name>JerwuQu</name>
-            <email>JerwuQu@noreply.github.com</email>
-            <uri>https://github.com/JerwuQu</uri>
-        </author>
-        <published>2022-06-08T20:55:13.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VyrCossont/Pinput: Extended gamepad support for PICO-8 and WASM-4]]></title>
         <id>https://github.com/VyrCossont/Pinput</id>
         <link href="https://github.com/VyrCossont/Pinput"/>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Taqmuraz</uri>
         </author>
         <published>2022-11-12T13:20:43.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nekodjin/nkd-w4: A Safe and Convenient API for WASM-4.]]></title>
-        <id>https://github.com/nekodjin/nkd-w4</id>
-        <link href="https://github.com/nekodjin/nkd-w4"/>
-        <updated>2022-11-15T23:46:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/59782103?u=a54f31b115e74d740fabc78c90b7780725993a8b&v=4" width="64" height="64" alt=""/><br/><div>A Safe and Convenient API for WASM-4.</div>]]></content>
-        <author>
-            <name>nekodjin</name>
-            <email>nekodjin@noreply.github.com</email>
-            <uri>https://github.com/nekodjin</uri>
-        </author>
-        <published>2022-11-15T23:46:01.000Z</published>
     </entry>
 </feed>
