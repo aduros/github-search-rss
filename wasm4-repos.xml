@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-10T00:15:55.625Z</updated>
+    <updated>2023-01-11T00:14:45.878Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-09T19:47:55.000Z</updated>
+        <updated>2023-01-10T12:14:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -102,7 +102,7 @@
         <title type="html"><![CDATA[asiekierka/wasm4-aot: Ahead-of-time compiled WASM-4 runtime]]></title>
         <id>https://github.com/asiekierka/wasm4-aot</id>
         <link href="https://github.com/asiekierka/wasm4-aot"/>
-        <updated>2023-01-07T03:06:57.000Z</updated>
+        <updated>2023-01-10T01:32:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113514?u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="64" height="64" alt=""/><br/><div>Ahead-of-time compiled WASM-4 runtime</div>]]></content>
         <author>
             <name>asiekierka</name>
