@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-13T00:15:33.374Z</updated>
+    <updated>2023-01-14T00:14:48.520Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/tinysprite</id>
+        <link href="https://github.com/MrRafael-dev/tinysprite"/>
+        <updated>2023-01-14T00:00:56.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2022-01-19T18:47:14.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
         <id>https://github.com/JerwuQu/wasm4-test-cart</id>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-12T17:38:08.000Z</updated>
+        <updated>2023-01-13T06:29:29.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/steppicrew</uri>
         </author>
         <published>2022-11-22T19:16:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taqmuraz/RomeWasm4]]></title>
-        <id>https://github.com/Taqmuraz/RomeWasm4</id>
-        <link href="https://github.com/Taqmuraz/RomeWasm4"/>
-        <updated>2022-11-17T13:54:09.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/37420878?u=9645f5bff1dd365aac11e94ac4a1c46f5e400914&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>Taqmuraz</name>
-            <email>Taqmuraz@noreply.github.com</email>
-            <uri>https://github.com/Taqmuraz</uri>
-        </author>
-        <published>2022-11-12T13:20:43.000Z</published>
     </entry>
 </feed>
