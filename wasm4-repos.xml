@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-14T00:14:48.520Z</updated>
+    <updated>2023-01-15T00:16:21.634Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[ibillingsley/wasm4-gamejam: One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console]]></title>
+        <id>https://github.com/ibillingsley/wasm4-gamejam</id>
+        <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
+        <updated>2022-10-25T03:15:21.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=278f8b63636adc13268deace79cfe29bd8a1cce8&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
+        <author>
+            <name>ibillingsley</name>
+            <email>ibillingsley@noreply.github.com</email>
+            <uri>https://github.com/ibillingsley</uri>
+        </author>
+        <published>2022-08-21T21:25:54.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2023-01-14T21:01:31.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
@@ -32,19 +58,6 @@
             <uri>https://github.com/JerwuQu</uri>
         </author>
         <published>2022-06-08T20:55:13.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-13T06:29:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[SLiV9/corn: My entry for GBJAM 10, written in Penne for the WASM-4 fantasy console.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/JBergles</uri>
         </author>
         <published>2022-11-20T06:01:38.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[steppicrew/wasm-4-Tetris]]></title>
-        <id>https://github.com/steppicrew/wasm-4-Tetris</id>
-        <link href="https://github.com/steppicrew/wasm-4-Tetris"/>
-        <updated>2022-11-22T19:18:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/7250?u=01a559f4bb03f8d170c2e494b74df02e6288ad85&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>steppicrew</name>
-            <email>steppicrew@noreply.github.com</email>
-            <uri>https://github.com/steppicrew</uri>
-        </author>
-        <published>2022-11-22T19:16:38.000Z</published>
     </entry>
 </feed>
