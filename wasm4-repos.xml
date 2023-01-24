@@ -2,16 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-23T00:15:14.583Z</updated>
+    <updated>2023-01-24T00:15:43.577Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[jzeiber/wasm4-city: Port of MicroCity to WASM-4]]></title>
+        <id>https://github.com/jzeiber/wasm4-city</id>
+        <link href="https://github.com/jzeiber/wasm4-city"/>
+        <updated>2023-01-23T23:23:26.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Port of MicroCity to WASM-4</div>]]></content>
+        <author>
+            <name>jzeiber</name>
+            <email>jzeiber@noreply.github.com</email>
+            <uri>https://github.com/jzeiber</uri>
+        </author>
+        <published>2023-01-23T23:09:44.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[grantshandy/wasm4-playground: Write retro video games in assemblyscript.]]></title>
         <id>https://github.com/grantshandy/wasm4-playground</id>
         <link href="https://github.com/grantshandy/wasm4-playground"/>
-        <updated>2023-01-22T22:22:32.000Z</updated>
+        <updated>2023-01-23T19:03:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>Write retro video games in assemblyscript.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-22T09:00:31.000Z</updated>
+        <updated>2023-01-23T03:31:43.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Cyborus04</uri>
         </author>
         <published>2022-11-15T05:17:12.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[christopher-kleine/w4g: WASM-4 tools written in Go]]></title>
-        <id>https://github.com/christopher-kleine/w4g</id>
-        <link href="https://github.com/christopher-kleine/w4g"/>
-        <updated>2022-05-27T01:41:02.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3718227?u=3181595ce0c52b8b0abc67f96356873d73ed66ae&v=4" width="64" height="64" alt=""/><br/><div>WASM-4 tools written in Go</div>]]></content>
-        <author>
-            <name>christopher-kleine</name>
-            <email>christopher-kleine@noreply.github.com</email>
-            <uri>https://github.com/christopher-kleine</uri>
-        </author>
-        <published>2022-05-27T01:40:16.000Z</published>
     </entry>
 </feed>
