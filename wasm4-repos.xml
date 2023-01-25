@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-24T00:15:43.577Z</updated>
+    <updated>2023-01-25T00:15:51.366Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-city: Port of MicroCity to WASM-4]]></title>
-        <id>https://github.com/jzeiber/wasm4-city</id>
-        <link href="https://github.com/jzeiber/wasm4-city"/>
-        <updated>2023-01-23T23:23:26.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Port of MicroCity to WASM-4</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2023-01-23T23:09:44.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[grantshandy/wasm4-playground: Write retro video games in assemblyscript.]]></title>
         <id>https://github.com/grantshandy/wasm4-playground</id>
@@ -34,10 +21,36 @@
         <published>2023-01-17T17:17:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
+        <id>https://github.com/zoeydawn/snake</id>
+        <link href="https://github.com/zoeydawn/snake"/>
+        <updated>2023-01-24T20:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
+        <author>
+            <name>zoeydawn</name>
+            <email>zoeydawn@noreply.github.com</email>
+            <uri>https://github.com/zoeydawn</uri>
+        </author>
+        <published>2023-01-24T20:49:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jzeiber/wasm4-city: Port of MicroCity to WASM-4]]></title>
+        <id>https://github.com/jzeiber/wasm4-city</id>
+        <link href="https://github.com/jzeiber/wasm4-city"/>
+        <updated>2023-01-24T03:08:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Port of MicroCity to WASM-4</div>]]></content>
+        <author>
+            <name>jzeiber</name>
+            <email>jzeiber@noreply.github.com</email>
+            <uri>https://github.com/jzeiber</uri>
+        </author>
+        <published>2023-01-23T23:09:44.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-23T03:31:43.000Z</updated>
+        <updated>2023-01-24T22:38:22.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -154,7 +167,7 @@
         <title type="html"><![CDATA[asiekierka/wasm4-aot: Ahead-of-time compiled WASM-4 runtime]]></title>
         <id>https://github.com/asiekierka/wasm4-aot</id>
         <link href="https://github.com/asiekierka/wasm4-aot"/>
-        <updated>2023-01-10T01:32:21.000Z</updated>
+        <updated>2023-01-24T14:04:39.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113514?u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="64" height="64" alt=""/><br/><div>Ahead-of-time compiled WASM-4 runtime</div>]]></content>
         <author>
             <name>asiekierka</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/raytracer</uri>
         </author>
         <published>2022-12-04T21:29:54.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyborus04/sw4: a `struct`-based wasm4 api]]></title>
-        <id>https://github.com/Cyborus04/sw4</id>
-        <link href="https://github.com/Cyborus04/sw4"/>
-        <updated>2022-11-15T11:35:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/87248184?u=aa2e11c2277d8b37d1f1c63eaa8d3f674944def8&v=4" width="64" height="64" alt=""/><br/><div>a `struct`-based wasm4 api</div>]]></content>
-        <author>
-            <name>Cyborus04</name>
-            <email>Cyborus04@noreply.github.com</email>
-            <uri>https://github.com/Cyborus04</uri>
-        </author>
-        <published>2022-11-15T05:17:12.000Z</published>
     </entry>
 </feed>
