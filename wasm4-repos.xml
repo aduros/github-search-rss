@@ -2,24 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-28T00:14:44.256Z</updated>
+    <updated>2023-01-29T00:16:40.564Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
-    <entry>
-        <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
-        <id>https://github.com/zoeydawn/snake</id>
-        <link href="https://github.com/zoeydawn/snake"/>
-        <updated>2023-01-24T20:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
-        <author>
-            <name>zoeydawn</name>
-            <email>zoeydawn@noreply.github.com</email>
-            <uri>https://github.com/zoeydawn</uri>
-        </author>
-        <published>2023-01-24T20:49:33.000Z</published>
-    </entry>
     <entry>
         <title type="html"><![CDATA[twoXes/gr0: wasm4 web assembly text game for game jam]]></title>
         <id>https://github.com/twoXes/gr0</id>
@@ -32,19 +19,6 @@
             <uri>https://github.com/twoXes</uri>
         </author>
         <published>2023-01-27T13:54:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[twoXes/shroomNdoom2: zig wasm4 game]]></title>
-        <id>https://github.com/twoXes/shroomNdoom2</id>
-        <link href="https://github.com/twoXes/shroomNdoom2"/>
-        <updated>2023-01-25T15:33:29.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=c16bb204c0fe967ffea561a609aaf268a670c0a0&v=4" width="64" height="64" alt=""/><br/><div>zig wasm4 game</div>]]></content>
-        <author>
-            <name>twoXes</name>
-            <email>twoXes@noreply.github.com</email>
-            <uri>https://github.com/twoXes</uri>
-        </author>
-        <published>2023-01-25T14:23:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[christopher-kleine/w4g: WASM-4 tools written in Go]]></title>
@@ -73,6 +47,32 @@
         <published>2023-01-17T17:17:22.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
+        <id>https://github.com/zoeydawn/snake</id>
+        <link href="https://github.com/zoeydawn/snake"/>
+        <updated>2023-01-24T20:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
+        <author>
+            <name>zoeydawn</name>
+            <email>zoeydawn@noreply.github.com</email>
+            <uri>https://github.com/zoeydawn</uri>
+        </author>
+        <published>2023-01-24T20:49:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[twoXes/shroomNdoom2: zig wasm4 game]]></title>
+        <id>https://github.com/twoXes/shroomNdoom2</id>
+        <link href="https://github.com/twoXes/shroomNdoom2"/>
+        <updated>2023-01-25T15:33:29.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=c16bb204c0fe967ffea561a609aaf268a670c0a0&v=4" width="64" height="64" alt=""/><br/><div>zig wasm4 game</div>]]></content>
+        <author>
+            <name>twoXes</name>
+            <email>twoXes@noreply.github.com</email>
+            <uri>https://github.com/twoXes</uri>
+        </author>
+        <published>2023-01-25T14:23:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[jzeiber/wasm4-city: Port of MicroCity to WASM-4]]></title>
         <id>https://github.com/jzeiber/wasm4-city</id>
         <link href="https://github.com/jzeiber/wasm4-city"/>
@@ -89,7 +89,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-27T04:25:47.000Z</updated>
+        <updated>2023-01-28T20:47:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
