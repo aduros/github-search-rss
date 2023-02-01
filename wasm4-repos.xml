@@ -2,17 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-01-31T00:16:09.694Z</updated>
+    <updated>2023-02-01T00:17:55.976Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[twoXes/gr0: wasm4 web assembly text game for game jam]]></title>
+        <title type="html"><![CDATA[stan-dot/wasm4-games]]></title>
+        <id>https://github.com/stan-dot/wasm4-games</id>
+        <link href="https://github.com/stan-dot/wasm4-games"/>
+        <updated>2023-01-31T21:32:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/56644812?u=a7dd773084f1c17c5f05019cc25a984e24873691&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>stan-dot</name>
+            <email>stan-dot@noreply.github.com</email>
+            <uri>https://github.com/stan-dot</uri>
+        </author>
+        <published>2023-01-31T21:31:28.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aysenaozcan/UpSchool.Wasm4: .]]></title>
+        <id>https://github.com/aysenaozcan/UpSchool.Wasm4</id>
+        <link href="https://github.com/aysenaozcan/UpSchool.Wasm4"/>
+        <updated>2023-01-31T21:05:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/92749952?u=72041b9a066e5229e5e528fdbb6a02be5a3cdcf6&v=4" width="64" height="64" alt=""/><br/><div>.</div>]]></content>
+        <author>
+            <name>aysenaozcan</name>
+            <email>aysenaozcan@noreply.github.com</email>
+            <uri>https://github.com/aysenaozcan</uri>
+        </author>
+        <published>2023-01-31T20:57:36.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[twoXes/gr0: Wasm4 Web Assembly Text (WAT) game for game jam]]></title>
         <id>https://github.com/twoXes/gr0</id>
         <link href="https://github.com/twoXes/gr0"/>
-        <updated>2023-01-27T16:04:38.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=c16bb204c0fe967ffea561a609aaf268a670c0a0&v=4" width="64" height="64" alt=""/><br/><div>wasm4 web assembly text game for game jam</div>]]></content>
+        <updated>2023-01-31T04:05:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=c16bb204c0fe967ffea561a609aaf268a670c0a0&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 Web Assembly Text (WAT) game for game jam</div>]]></content>
         <author>
             <name>twoXes</name>
             <email>twoXes@noreply.github.com</email>
@@ -24,7 +50,7 @@
         <title type="html"><![CDATA[glassyeyedfish/wasm4-sprite-editor]]></title>
         <id>https://github.com/glassyeyedfish/wasm4-sprite-editor</id>
         <link href="https://github.com/glassyeyedfish/wasm4-sprite-editor"/>
-        <updated>2023-01-29T15:19:45.000Z</updated>
+        <updated>2023-01-31T02:17:11.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95254357?u=c7559c6978093dbddaed983b7607861b0e2c13f1&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>glassyeyedfish</name>
@@ -50,7 +76,7 @@
         <title type="html"><![CDATA[grantshandy/wasm4-playground: Write retro video games in assemblyscript.]]></title>
         <id>https://github.com/grantshandy/wasm4-playground</id>
         <link href="https://github.com/grantshandy/wasm4-playground"/>
-        <updated>2023-01-27T12:47:35.000Z</updated>
+        <updated>2023-01-31T23:40:35.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>Write retro video games in assemblyscript.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -102,7 +128,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-01-29T21:10:56.000Z</updated>
+        <updated>2023-01-31T17:42:46.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -128,7 +154,7 @@
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
         <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2023-01-14T00:00:56.000Z</updated>
+        <updated>2023-01-31T19:28:21.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
         <author>
             <name>MrRafael-dev</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/Gertkeno</uri>
         </author>
         <published>2022-12-26T21:33:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pashutk/w4tracker: Tiny music sequencer built with rust and webassembly]]></title>
-        <id>https://github.com/pashutk/w4tracker</id>
-        <link href="https://github.com/pashutk/w4tracker"/>
-        <updated>2022-11-01T22:49:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/4306737?v=4" width="64" height="64" alt=""/><br/><div>Tiny music sequencer built with rust and webassembly</div>]]></content>
-        <author>
-            <name>pashutk</name>
-            <email>pashutk@noreply.github.com</email>
-            <uri>https://github.com/pashutk</uri>
-        </author>
-        <published>2022-10-22T18:30:35.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ItHasU/w4-sk8r: A skater game deveopped in WebAssembly for the WASM-4 game system.]]></title>
-        <id>https://github.com/ItHasU/w4-sk8r</id>
-        <link href="https://github.com/ItHasU/w4-sk8r"/>
-        <updated>2022-12-21T07:12:46.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/347144?v=4" width="64" height="64" alt=""/><br/><div>A skater game deveopped in WebAssembly for the WASM-4 game system.</div>]]></content>
-        <author>
-            <name>ItHasU</name>
-            <email>ItHasU@noreply.github.com</email>
-            <uri>https://github.com/ItHasU</uri>
-        </author>
-        <published>2022-12-21T06:53:09.000Z</published>
     </entry>
 </feed>
