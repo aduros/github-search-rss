@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-05T00:17:27.544Z</updated>
+    <updated>2023-02-06T00:15:36.381Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-02-04T23:22:06.000Z</updated>
+        <updated>2023-02-05T12:24:06.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -73,11 +73,11 @@
         <published>2023-01-27T13:54:36.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[glassyeyedfish/wasm4-sprite-editor]]></title>
+        <title type="html"><![CDATA[glassyeyedfish/wasm4-sprite-editor: Sprite editor for the WASM-4 fantasy console.]]></title>
         <id>https://github.com/glassyeyedfish/wasm4-sprite-editor</id>
         <link href="https://github.com/glassyeyedfish/wasm4-sprite-editor"/>
-        <updated>2023-01-31T02:17:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95254357?u=c7559c6978093dbddaed983b7607861b0e2c13f1&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <updated>2023-02-05T18:36:07.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/95254357?u=c7559c6978093dbddaed983b7607861b0e2c13f1&v=4" width="64" height="64" alt=""/><br/><div>Sprite editor for the WASM-4 fantasy console.</div>]]></content>
         <author>
             <name>glassyeyedfish</name>
             <email>glassyeyedfish@noreply.github.com</email>
