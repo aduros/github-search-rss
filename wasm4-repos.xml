@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-08T00:15:26.149Z</updated>
+    <updated>2023-02-09T00:16:03.159Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
+        <id>https://github.com/zoeydawn/snake</id>
+        <link href="https://github.com/zoeydawn/snake"/>
+        <updated>2023-01-24T20:52:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
+        <author>
+            <name>zoeydawn</name>
+            <email>zoeydawn@noreply.github.com</email>
+            <uri>https://github.com/zoeydawn</uri>
+        </author>
+        <published>2023-01-24T20:49:33.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[luehmann/assemblio]]></title>
+        <id>https://github.com/luehmann/assemblio</id>
+        <link href="https://github.com/luehmann/assemblio"/>
+        <updated>2022-10-28T18:34:15.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47984692?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>luehmann</name>
+            <email>luehmann@noreply.github.com</email>
+            <uri>https://github.com/luehmann</uri>
+        </author>
+        <published>2022-01-23T21:53:52.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
@@ -112,19 +138,6 @@
         <published>2023-01-17T17:17:22.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
-        <id>https://github.com/zoeydawn/snake</id>
-        <link href="https://github.com/zoeydawn/snake"/>
-        <updated>2023-01-24T20:52:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
-        <author>
-            <name>zoeydawn</name>
-            <email>zoeydawn@noreply.github.com</email>
-            <uri>https://github.com/zoeydawn</uri>
-        </author>
-        <published>2023-01-24T20:49:33.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[twoXes/shroomNdoom2: zig wasm4 game]]></title>
         <id>https://github.com/twoXes/shroomNdoom2</id>
         <link href="https://github.com/twoXes/shroomNdoom2"/>
@@ -180,7 +193,7 @@
         <title type="html"><![CDATA[JerwuQu/wasm4-test-cart: A WASM-4 runtime implementation checker.]]></title>
         <id>https://github.com/JerwuQu/wasm4-test-cart</id>
         <link href="https://github.com/JerwuQu/wasm4-test-cart"/>
-        <updated>2022-12-02T15:05:40.000Z</updated>
+        <updated>2023-02-08T20:15:49.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/3710677?u=38898e02e419c238a309c392b4d3dccfba1dc797&v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime implementation checker.</div>]]></content>
         <author>
             <name>JerwuQu</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/hahahahaman</uri>
         </author>
         <published>2022-12-13T02:02:18.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[asiekierka/wasm4-aot: Ahead-of-time compiled WASM-4 runtime]]></title>
-        <id>https://github.com/asiekierka/wasm4-aot</id>
-        <link href="https://github.com/asiekierka/wasm4-aot"/>
-        <updated>2023-01-24T14:04:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113514?u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="64" height="64" alt=""/><br/><div>Ahead-of-time compiled WASM-4 runtime</div>]]></content>
-        <author>
-            <name>asiekierka</name>
-            <email>asiekierka@noreply.github.com</email>
-            <uri>https://github.com/asiekierka</uri>
-        </author>
-        <published>2022-10-15T00:48:44.000Z</published>
     </entry>
 </feed>
