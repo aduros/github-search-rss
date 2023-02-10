@@ -2,16 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-09T00:16:03.159Z</updated>
+    <updated>2023-02-10T00:16:32.832Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
+        <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
+        <id>https://github.com/kivutar/w4-bobble</id>
+        <link href="https://github.com/kivutar/w4-bobble"/>
+        <updated>2023-02-09T20:47:48.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
+        <author>
+            <name>kivutar</name>
+            <email>kivutar@noreply.github.com</email>
+            <uri>https://github.com/kivutar</uri>
+        </author>
+        <published>2023-02-09T20:47:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrRafael-dev/wasm4-beep2src: Experimental music converter for WASM-4.]]></title>
+        <id>https://github.com/MrRafael-dev/wasm4-beep2src</id>
+        <link href="https://github.com/MrRafael-dev/wasm4-beep2src"/>
+        <updated>2023-02-09T21:26:00.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>Experimental music converter for WASM-4.</div>]]></content>
+        <author>
+            <name>MrRafael-dev</name>
+            <email>MrRafael-dev@noreply.github.com</email>
+            <uri>https://github.com/MrRafael-dev</uri>
+        </author>
+        <published>2021-12-31T10:19:25.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
         <id>https://github.com/zoeydawn/snake</id>
         <link href="https://github.com/zoeydawn/snake"/>
-        <updated>2023-01-24T20:52:13.000Z</updated>
+        <updated>2023-02-09T14:37:19.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
         <author>
             <name>zoeydawn</name>
@@ -37,7 +63,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-02-05T12:24:06.000Z</updated>
+        <updated>2023-02-09T14:23:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -168,7 +194,7 @@
         <id>https://github.com/ibillingsley/wasm4-gamejam</id>
         <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
         <updated>2022-10-25T03:15:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=278f8b63636adc13268deace79cfe29bd8a1cce8&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=31fbdcbf2cb24dcffbbe5390c3b6f5545766879f&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
         <author>
             <name>ibillingsley</name>
             <email>ibillingsley@noreply.github.com</email>
@@ -240,31 +266,5 @@
             <uri>https://github.com/code4fukui</uri>
         </author>
         <published>2023-01-04T22:48:58.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[douglett/break-it: My first wasm4 game - a breakout clone]]></title>
-        <id>https://github.com/douglett/break-it</id>
-        <link href="https://github.com/douglett/break-it"/>
-        <updated>2023-01-01T19:53:32.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/738780?v=4" width="64" height="64" alt=""/><br/><div>My first wasm4 game - a breakout clone</div>]]></content>
-        <author>
-            <name>douglett</name>
-            <email>douglett@noreply.github.com</email>
-            <uri>https://github.com/douglett</uri>
-        </author>
-        <published>2023-01-01T19:52:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
-        <id>https://github.com/hahahahaman/snakery</id>
-        <link href="https://github.com/hahahahaman/snakery"/>
-        <updated>2022-12-13T02:12:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/707442?v=4" width="64" height="64" alt=""/><br/><div>wasm4 game written in C</div>]]></content>
-        <author>
-            <name>hahahahaman</name>
-            <email>hahahahaman@noreply.github.com</email>
-            <uri>https://github.com/hahahahaman</uri>
-        </author>
-        <published>2022-12-13T02:02:18.000Z</published>
     </entry>
 </feed>
