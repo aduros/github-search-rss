@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-12T00:17:12.262Z</updated>
+    <updated>2023-02-13T00:16:26.279Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -24,7 +24,7 @@
         <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
         <id>https://github.com/kivutar/w4-bobble</id>
         <link href="https://github.com/kivutar/w4-bobble"/>
-        <updated>2023-02-09T20:47:48.000Z</updated>
+        <updated>2023-02-12T07:27:40.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
         <author>
             <name>kivutar</name>
