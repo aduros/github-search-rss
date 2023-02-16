@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-15T00:16:31.140Z</updated>
+    <updated>2023-02-16T00:15:57.112Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
+        <id>https://github.com/kivutar/w4-bobble</id>
+        <link href="https://github.com/kivutar/w4-bobble"/>
+        <updated>2023-02-12T07:27:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
+        <author>
+            <name>kivutar</name>
+            <email>kivutar@noreply.github.com</email>
+            <uri>https://github.com/kivutar</uri>
+        </author>
+        <published>2023-02-09T20:47:24.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/tinysprite</id>
@@ -71,19 +84,6 @@
             <uri>https://github.com/Zayac-The-Engineer</uri>
         </author>
         <published>2023-02-10T17:22:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
-        <id>https://github.com/kivutar/w4-bobble</id>
-        <link href="https://github.com/kivutar/w4-bobble"/>
-        <updated>2023-02-12T07:27:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
-        <author>
-            <name>kivutar</name>
-            <email>kivutar@noreply.github.com</email>
-            <uri>https://github.com/kivutar</uri>
-        </author>
-        <published>2023-02-09T20:47:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/wasm4-beep2src: Experimental music converter for WASM-4.]]></title>
