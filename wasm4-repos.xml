@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-16T00:15:57.112Z</updated>
+    <updated>2023-02-17T00:17:25.035Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
@@ -19,6 +19,19 @@
             <uri>https://github.com/kivutar</uri>
         </author>
         <published>2023-02-09T20:47:24.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[twoXes/gr0: Wasm4 Web Assembly Text (WAT) game for game jam]]></title>
+        <id>https://github.com/twoXes/gr0</id>
+        <link href="https://github.com/twoXes/gr0"/>
+        <updated>2023-01-31T04:05:47.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=ac1831eac261bdae59667327698cb70ed1b64d10&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 Web Assembly Text (WAT) game for game jam</div>]]></content>
+        <author>
+            <name>twoXes</name>
+            <email>twoXes@noreply.github.com</email>
+            <uri>https://github.com/twoXes</uri>
+        </author>
+        <published>2023-01-27T13:54:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
@@ -63,7 +76,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-02-13T22:39:12.000Z</updated>
+        <updated>2023-02-16T18:24:30.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -162,19 +175,6 @@
             <uri>https://github.com/stan-dot</uri>
         </author>
         <published>2023-01-31T21:31:28.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[twoXes/gr0: Wasm4 Web Assembly Text (WAT) game for game jam]]></title>
-        <id>https://github.com/twoXes/gr0</id>
-        <link href="https://github.com/twoXes/gr0"/>
-        <updated>2023-01-31T04:05:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=ac1831eac261bdae59667327698cb70ed1b64d10&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 Web Assembly Text (WAT) game for game jam</div>]]></content>
-        <author>
-            <name>twoXes</name>
-            <email>twoXes@noreply.github.com</email>
-            <uri>https://github.com/twoXes</uri>
-        </author>
-        <published>2023-01-27T13:54:36.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[glassyeyedfish/wasm4-sprite-editor: Sprite editor for the WASM-4 fantasy console.]]></title>
