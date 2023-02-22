@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-21T00:16:23.787Z</updated>
+    <updated>2023-02-22T00:14:56.875Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[maxcurzi/disk-0-madness: Entry for the itch.io WASM4 Game Jam #2 - and my first project in Rust!]]></title>
+        <id>https://github.com/maxcurzi/disk-0-madness</id>
+        <link href="https://github.com/maxcurzi/disk-0-madness"/>
+        <updated>2023-02-15T14:38:52.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/30084738?v=4" width="64" height="64" alt=""/><br/><div>Entry for the itch.io WASM4 Game Jam #2 - and my first project in Rust!</div>]]></content>
+        <author>
+            <name>maxcurzi</name>
+            <email>maxcurzi@noreply.github.com</email>
+            <uri>https://github.com/maxcurzi</uri>
+        </author>
+        <published>2022-08-15T10:39:56.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[benrussell80/casino-games: WASM4 casino games]]></title>
         <id>https://github.com/benrussell80/casino-games</id>
@@ -21,6 +34,19 @@
         <published>2023-02-20T01:44:48.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2023-02-21T13:07:24.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[twoXes/gr0: Wasm4 Web Assembly Text (WAT) game for game jam]]></title>
         <id>https://github.com/twoXes/gr0</id>
         <link href="https://github.com/twoXes/gr0"/>
@@ -32,19 +58,6 @@
             <uri>https://github.com/twoXes</uri>
         </author>
         <published>2023-01-27T13:54:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-02-20T22:59:23.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/jzeiber</uri>
         </author>
         <published>2023-01-23T23:09:44.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ibillingsley/wasm4-gamejam: One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/ibillingsley/wasm4-gamejam</id>
-        <link href="https://github.com/ibillingsley/wasm4-gamejam"/>
-        <updated>2022-10-25T03:15:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1782216?u=31fbdcbf2cb24dcffbbe5390c3b6f5545766879f&v=4" width="64" height="64" alt=""/><br/><div>One Slime Army is an arcade endless wave survival game for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>ibillingsley</name>
-            <email>ibillingsley@noreply.github.com</email>
-            <uri>https://github.com/ibillingsley</uri>
-        </author>
-        <published>2022-08-21T21:25:54.000Z</published>
     </entry>
 </feed>
