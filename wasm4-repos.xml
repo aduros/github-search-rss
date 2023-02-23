@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-02-22T00:14:56.875Z</updated>
+    <updated>2023-02-23T00:16:35.449Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[haviital/CreepyInvaders-for-Wasm4: CreepyInvaders for WASM-4 platform]]></title>
+        <id>https://github.com/haviital/CreepyInvaders-for-Wasm4</id>
+        <link href="https://github.com/haviital/CreepyInvaders-for-Wasm4"/>
+        <updated>2023-02-22T20:33:49.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1862346?v=4" width="64" height="64" alt=""/><br/><div>CreepyInvaders for WASM-4 platform</div>]]></content>
+        <author>
+            <name>haviital</name>
+            <email>haviital@noreply.github.com</email>
+            <uri>https://github.com/haviital</uri>
+        </author>
+        <published>2023-02-22T20:28:45.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
+        <id>https://github.com/kivutar/w4-bobble</id>
+        <link href="https://github.com/kivutar/w4-bobble"/>
+        <updated>2023-02-12T07:27:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
+        <author>
+            <name>kivutar</name>
+            <email>kivutar@noreply.github.com</email>
+            <uri>https://github.com/kivutar</uri>
+        </author>
+        <published>2023-02-09T20:47:24.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[maxcurzi/disk-0-madness: Entry for the itch.io WASM4 Game Jam #2 - and my first project in Rust!]]></title>
         <id>https://github.com/maxcurzi/disk-0-madness</id>
@@ -19,6 +45,19 @@
             <uri>https://github.com/maxcurzi</uri>
         </author>
         <published>2022-08-15T10:39:56.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2023-02-22T00:17:36.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[benrussell80/casino-games: WASM4 casino games]]></title>
@@ -34,19 +73,6 @@
         <published>2023-02-20T01:44:48.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-02-21T13:07:24.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[twoXes/gr0: Wasm4 Web Assembly Text (WAT) game for game jam]]></title>
         <id>https://github.com/twoXes/gr0</id>
         <link href="https://github.com/twoXes/gr0"/>
@@ -58,19 +84,6 @@
             <uri>https://github.com/twoXes</uri>
         </author>
         <published>2023-01-27T13:54:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
-        <id>https://github.com/kivutar/w4-bobble</id>
-        <link href="https://github.com/kivutar/w4-bobble"/>
-        <updated>2023-02-12T07:27:40.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
-        <author>
-            <name>kivutar</name>
-            <email>kivutar@noreply.github.com</email>
-            <uri>https://github.com/kivutar</uri>
-        </author>
-        <published>2023-02-09T20:47:24.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/twoXes</uri>
         </author>
         <published>2023-01-25T14:23:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jzeiber/wasm4-city: Port of MicroCity to WASM-4]]></title>
-        <id>https://github.com/jzeiber/wasm4-city</id>
-        <link href="https://github.com/jzeiber/wasm4-city"/>
-        <updated>2023-01-24T03:08:00.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23410344?v=4" width="64" height="64" alt=""/><br/><div>Port of MicroCity to WASM-4</div>]]></content>
-        <author>
-            <name>jzeiber</name>
-            <email>jzeiber@noreply.github.com</email>
-            <uri>https://github.com/jzeiber</uri>
-        </author>
-        <published>2023-01-23T23:09:44.000Z</published>
     </entry>
 </feed>
