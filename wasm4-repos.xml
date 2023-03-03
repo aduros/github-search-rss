@@ -2,11 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-02T00:17:02.070Z</updated>
+    <updated>2023-03-03T01:55:22.652Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[merskip/gothic-wasm4]]></title>
+        <id>https://github.com/merskip/gothic-wasm4</id>
+        <link href="https://github.com/merskip/gothic-wasm4"/>
+        <updated>2023-03-02T18:57:38.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>merskip</name>
+            <email>merskip@noreply.github.com</email>
+            <uri>https://github.com/merskip</uri>
+        </author>
+        <published>2023-03-02T05:37:20.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[merskip/wasm4]]></title>
+        <id>https://github.com/merskip/wasm4</id>
+        <link href="https://github.com/merskip/wasm4"/>
+        <updated>2023-03-02T18:36:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>merskip</name>
+            <email>merskip@noreply.github.com</email>
+            <uri>https://github.com/merskip</uri>
+        </author>
+        <published>2023-03-02T18:35:22.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[merskip/wasm4_game]]></title>
+        <id>https://github.com/merskip/wasm4_game</id>
+        <link href="https://github.com/merskip/wasm4_game"/>
+        <updated>2023-02-26T11:01:11.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>merskip</name>
+            <email>merskip@noreply.github.com</email>
+            <uri>https://github.com/merskip</uri>
+        </author>
+        <published>2023-02-26T11:00:55.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
+        <id>https://github.com/opencastsoftware/wasm4j</id>
+        <link href="https://github.com/opencastsoftware/wasm4j"/>
+        <updated>2023-03-01T13:53:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
+        <author>
+            <name>opencastsoftware</name>
+            <email>opencastsoftware@noreply.github.com</email>
+            <uri>https://github.com/opencastsoftware</uri>
+        </author>
+        <published>2023-02-28T12:24:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MrRafael-dev/wasm4-beep2src: Experimental music converter for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/wasm4-beep2src</id>
@@ -24,7 +76,7 @@
         <title type="html"><![CDATA[grantshandy/wasm4-raycaster: A demo raycaster for the WASM-4 engine.]]></title>
         <id>https://github.com/grantshandy/wasm4-raycaster</id>
         <link href="https://github.com/grantshandy/wasm4-raycaster"/>
-        <updated>2023-03-01T20:38:36.000Z</updated>
+        <updated>2023-03-03T01:51:07.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>A demo raycaster for the WASM-4 engine.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -32,19 +84,6 @@
             <uri>https://github.com/grantshandy</uri>
         </author>
         <published>2023-02-17T04:54:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
-        <id>https://github.com/opencastsoftware/wasm4j</id>
-        <link href="https://github.com/opencastsoftware/wasm4j"/>
-        <updated>2023-03-01T13:53:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
-        <author>
-            <name>opencastsoftware</name>
-            <email>opencastsoftware@noreply.github.com</email>
-            <uri>https://github.com/opencastsoftware</uri>
-        </author>
-        <published>2023-02-28T12:24:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[claudiomattera/wasm4fun.neocities.org: Source of static website at https://wasm4fun.neocities.org/]]></title>
@@ -63,7 +102,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-03-01T15:29:29.000Z</updated>
+        <updated>2023-03-02T03:57:10.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -110,19 +149,6 @@
             <uri>https://github.com/DusterTheFirst</uri>
         </author>
         <published>2023-02-26T12:59:07.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[merskip/wasm4_game]]></title>
-        <id>https://github.com/merskip/wasm4_game</id>
-        <link href="https://github.com/merskip/wasm4_game"/>
-        <updated>2023-02-26T11:01:11.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>merskip</name>
-            <email>merskip@noreply.github.com</email>
-            <uri>https://github.com/merskip</uri>
-        </author>
-        <published>2023-02-26T11:00:55.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
@@ -240,31 +266,5 @@
             <uri>https://github.com/zoeydawn</uri>
         </author>
         <published>2023-01-24T20:49:33.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[luehmann/assemblio]]></title>
-        <id>https://github.com/luehmann/assemblio</id>
-        <link href="https://github.com/luehmann/assemblio"/>
-        <updated>2023-02-25T12:56:51.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/47984692?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
-        <author>
-            <name>luehmann</name>
-            <email>luehmann@noreply.github.com</email>
-            <uri>https://github.com/luehmann</uri>
-        </author>
-        <published>2022-01-23T21:53:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScottFromDerby/TexasChainsawDodge: Wasm4 TexasChainsawDodge game]]></title>
-        <id>https://github.com/ScottFromDerby/TexasChainsawDodge</id>
-        <link href="https://github.com/ScottFromDerby/TexasChainsawDodge"/>
-        <updated>2023-02-02T15:01:04.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/36479414?u=e3b746fa1244a2b7e53a5bc82638bb524a551e22&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 TexasChainsawDodge game</div>]]></content>
-        <author>
-            <name>ScottFromDerby</name>
-            <email>ScottFromDerby@noreply.github.com</email>
-            <uri>https://github.com/ScottFromDerby</uri>
-        </author>
-        <published>2022-10-12T16:02:54.000Z</published>
     </entry>
 </feed>
