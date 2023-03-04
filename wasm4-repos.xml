@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-03T01:55:22.652Z</updated>
+    <updated>2023-03-04T00:15:05.191Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim]]></title>
+        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
+        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
+        <updated>2023-03-03T16:03:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>StephaneTrebel</name>
+            <email>StephaneTrebel@noreply.github.com</email>
+            <uri>https://github.com/StephaneTrebel</uri>
+        </author>
+        <published>2023-03-03T16:03:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[merskip/gothic-wasm4]]></title>
         <id>https://github.com/merskip/gothic-wasm4</id>
@@ -76,7 +89,7 @@
         <title type="html"><![CDATA[grantshandy/wasm4-raycaster: A demo raycaster for the WASM-4 engine.]]></title>
         <id>https://github.com/grantshandy/wasm4-raycaster</id>
         <link href="https://github.com/grantshandy/wasm4-raycaster"/>
-        <updated>2023-03-03T01:51:07.000Z</updated>
+        <updated>2023-03-03T14:53:16.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>A demo raycaster for the WASM-4 engine.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -102,7 +115,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-03-02T03:57:10.000Z</updated>
+        <updated>2023-03-03T12:18:15.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -167,7 +180,7 @@
         <title type="html"><![CDATA[haviital/CreepyInvaders-for-Wasm4: CreepyInvaders for WASM-4 platform]]></title>
         <id>https://github.com/haviital/CreepyInvaders-for-Wasm4</id>
         <link href="https://github.com/haviital/CreepyInvaders-for-Wasm4"/>
-        <updated>2023-02-22T20:33:49.000Z</updated>
+        <updated>2023-03-03T11:00:32.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/1862346?v=4" width="64" height="64" alt=""/><br/><div>CreepyInvaders for WASM-4 platform</div>]]></content>
         <author>
             <name>haviital</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/Zayac-The-Engineer</uri>
         </author>
         <published>2023-02-10T17:22:29.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zoeydawn/snake: just testing out WASM-4]]></title>
-        <id>https://github.com/zoeydawn/snake</id>
-        <link href="https://github.com/zoeydawn/snake"/>
-        <updated>2023-02-09T14:37:19.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/5925306?u=17fe26bca9f45c5f864d44469f2db685ec8e5c15&v=4" width="64" height="64" alt=""/><br/><div>just testing out WASM-4</div>]]></content>
-        <author>
-            <name>zoeydawn</name>
-            <email>zoeydawn@noreply.github.com</email>
-            <uri>https://github.com/zoeydawn</uri>
-        </author>
-        <published>2023-01-24T20:49:33.000Z</published>
     </entry>
 </feed>
