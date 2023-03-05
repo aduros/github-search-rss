@@ -2,23 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-04T00:15:05.191Z</updated>
+    <updated>2023-03-05T00:19:17.007Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
     <entry>
-        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim]]></title>
-        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
-        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
-        <updated>2023-03-03T16:03:43.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2023-03-04T22:23:01.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
-            <name>StephaneTrebel</name>
-            <email>StephaneTrebel@noreply.github.com</email>
-            <uri>https://github.com/StephaneTrebel</uri>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
         </author>
-        <published>2023-03-03T16:03:05.000Z</published>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[merskip/wasm4]]></title>
+        <id>https://github.com/merskip/wasm4</id>
+        <link href="https://github.com/merskip/wasm4"/>
+        <updated>2023-03-02T18:36:13.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <author>
+            <name>merskip</name>
+            <email>merskip@noreply.github.com</email>
+            <uri>https://github.com/merskip</uri>
+        </author>
+        <published>2023-03-02T18:35:22.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[merskip/gothic-wasm4]]></title>
@@ -34,17 +47,17 @@
         <published>2023-03-02T05:37:20.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[merskip/wasm4]]></title>
-        <id>https://github.com/merskip/wasm4</id>
-        <link href="https://github.com/merskip/wasm4"/>
-        <updated>2023-03-02T18:36:13.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
+        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim]]></title>
+        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
+        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
+        <updated>2023-03-03T16:03:43.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
-            <name>merskip</name>
-            <email>merskip@noreply.github.com</email>
-            <uri>https://github.com/merskip</uri>
+            <name>StephaneTrebel</name>
+            <email>StephaneTrebel@noreply.github.com</email>
+            <uri>https://github.com/StephaneTrebel</uri>
         </author>
-        <published>2023-03-02T18:35:22.000Z</published>
+        <published>2023-03-03T16:03:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[merskip/wasm4_game]]></title>
@@ -89,7 +102,7 @@
         <title type="html"><![CDATA[grantshandy/wasm4-raycaster: A demo raycaster for the WASM-4 engine.]]></title>
         <id>https://github.com/grantshandy/wasm4-raycaster</id>
         <link href="https://github.com/grantshandy/wasm4-raycaster"/>
-        <updated>2023-03-03T14:53:16.000Z</updated>
+        <updated>2023-03-04T23:46:13.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>A demo raycaster for the WASM-4 engine.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -110,19 +123,6 @@
             <uri>https://github.com/claudiomattera</uri>
         </author>
         <published>2021-11-20T10:53:52.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-03-03T12:18:15.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wasmstation/wasmstation: A work-in-progress runtime for WASM-4]]></title>
