@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-06T00:16:30.884Z</updated>
+    <updated>2023-03-07T00:17:27.508Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[stone3311/wasm4ds: A WASM-4 runtime for the NDS]]></title>
+        <id>https://github.com/stone3311/wasm4ds</id>
+        <link href="https://github.com/stone3311/wasm4ds"/>
+        <updated>2023-03-06T21:49:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/9110659?v=4" width="64" height="64" alt=""/><br/><div>A WASM-4 runtime for the NDS</div>]]></content>
+        <author>
+            <name>stone3311</name>
+            <email>stone3311@noreply.github.com</email>
+            <uri>https://github.com/stone3311</uri>
+        </author>
+        <published>2023-03-06T21:04:43.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
+        <id>https://github.com/opencastsoftware/wasm4j</id>
+        <link href="https://github.com/opencastsoftware/wasm4j"/>
+        <updated>2023-03-01T13:53:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
+        <author>
+            <name>opencastsoftware</name>
+            <email>opencastsoftware@noreply.github.com</email>
+            <uri>https://github.com/opencastsoftware</uri>
+        </author>
+        <published>2023-02-28T12:24:11.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BeefOnWeck/maze-racer: Multiplayer maze racing game using wasm4.]]></title>
         <id>https://github.com/BeefOnWeck/maze-racer</id>
@@ -21,10 +47,23 @@
         <published>2023-03-05T23:28:59.000Z</published>
     </entry>
     <entry>
+        <title type="html"><![CDATA[asiekierka/wasm4-aot: Ahead-of-time compiled WASM-4 runtime]]></title>
+        <id>https://github.com/asiekierka/wasm4-aot</id>
+        <link href="https://github.com/asiekierka/wasm4-aot"/>
+        <updated>2023-03-06T18:10:55.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/113514?u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="64" height="64" alt=""/><br/><div>Ahead-of-time compiled WASM-4 runtime</div>]]></content>
+        <author>
+            <name>asiekierka</name>
+            <email>asiekierka@noreply.github.com</email>
+            <uri>https://github.com/asiekierka</uri>
+        </author>
+        <published>2022-10-15T00:48:44.000Z</published>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-03-05T23:56:10.000Z</updated>
+        <updated>2023-03-06T18:03:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -50,7 +89,7 @@
         <title type="html"><![CDATA[merskip/gothic-wasm4]]></title>
         <id>https://github.com/merskip/gothic-wasm4</id>
         <link href="https://github.com/merskip/gothic-wasm4"/>
-        <updated>2023-03-02T18:57:38.000Z</updated>
+        <updated>2023-03-06T11:52:44.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/2797425?v=4" width="64" height="64" alt=""/><br/><div></div>]]></content>
         <author>
             <name>merskip</name>
@@ -86,19 +125,6 @@
         <published>2023-02-26T11:00:55.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
-        <id>https://github.com/opencastsoftware/wasm4j</id>
-        <link href="https://github.com/opencastsoftware/wasm4j"/>
-        <updated>2023-03-01T13:53:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
-        <author>
-            <name>opencastsoftware</name>
-            <email>opencastsoftware@noreply.github.com</email>
-            <uri>https://github.com/opencastsoftware</uri>
-        </author>
-        <published>2023-02-28T12:24:11.000Z</published>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MrRafael-dev/wasm4-beep2src: Experimental music converter for WASM-4.]]></title>
         <id>https://github.com/MrRafael-dev/wasm4-beep2src</id>
         <link href="https://github.com/MrRafael-dev/wasm4-beep2src"/>
@@ -115,7 +141,7 @@
         <title type="html"><![CDATA[grantshandy/wasm4-raycaster: A demo raycaster for the WASM-4 engine.]]></title>
         <id>https://github.com/grantshandy/wasm4-raycaster</id>
         <link href="https://github.com/grantshandy/wasm4-raycaster"/>
-        <updated>2023-03-05T23:54:44.000Z</updated>
+        <updated>2023-03-06T18:01:45.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>A demo raycaster for the WASM-4 engine.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -240,31 +266,5 @@
             <uri>https://github.com/twoXes</uri>
         </author>
         <published>2023-01-27T13:54:36.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MrRafael-dev/tinysprite: A simple game library for WASM-4.]]></title>
-        <id>https://github.com/MrRafael-dev/tinysprite</id>
-        <link href="https://github.com/MrRafael-dev/tinysprite"/>
-        <updated>2023-01-31T19:28:21.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/94740791?v=4" width="64" height="64" alt=""/><br/><div>A simple game library for WASM-4.</div>]]></content>
-        <author>
-            <name>MrRafael-dev</name>
-            <email>MrRafael-dev@noreply.github.com</email>
-            <uri>https://github.com/MrRafael-dev</uri>
-        </author>
-        <published>2022-01-19T18:47:14.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hazeycode/escape-guldur: A minimalistic "retro action RPG" written in Zig for the WASM-4 fantasy console]]></title>
-        <id>https://github.com/hazeycode/escape-guldur</id>
-        <link href="https://github.com/hazeycode/escape-guldur"/>
-        <updated>2023-02-25T16:29:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/22148308?u=17b8023283677994e48ad8d453f443e7785cb795&v=4" width="64" height="64" alt=""/><br/><div>A minimalistic "retro action RPG" written in Zig for the WASM-4 fantasy console</div>]]></content>
-        <author>
-            <name>hazeycode</name>
-            <email>hazeycode@noreply.github.com</email>
-            <uri>https://github.com/hazeycode</uri>
-        </author>
-        <published>2022-08-16T13:44:47.000Z</published>
     </entry>
 </feed>
