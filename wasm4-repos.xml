@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-17T00:15:27.673Z</updated>
+    <updated>2023-03-18T00:14:59.055Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
+        <id>https://github.com/hahahahaman/snakery</id>
+        <link href="https://github.com/hahahahaman/snakery"/>
+        <updated>2022-12-13T02:12:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/707442?v=4" width="64" height="64" alt=""/><br/><div>wasm4 game written in C</div>]]></content>
+        <author>
+            <name>hahahahaman</name>
+            <email>hahahahaman@noreply.github.com</email>
+            <uri>https://github.com/hahahahaman</uri>
+        </author>
+        <published>2022-12-13T02:02:18.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
+        <id>https://github.com/aduros/wasm4</id>
+        <link href="https://github.com/aduros/wasm4"/>
+        <updated>2023-03-17T13:23:16.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
+        <author>
+            <name>aduros</name>
+            <email>aduros@noreply.github.com</email>
+            <uri>https://github.com/aduros</uri>
+        </author>
+        <published>2021-08-05T23:48:23.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
         <id>https://github.com/opencastsoftware/wasm4j</id>
@@ -45,19 +71,6 @@
             <uri>https://github.com/maxcurzi</uri>
         </author>
         <published>2022-08-15T10:39:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
-        <id>https://github.com/aduros/wasm4</id>
-        <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-03-16T05:32:34.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
-        <author>
-            <name>aduros</name>
-            <email>aduros@noreply.github.com</email>
-            <uri>https://github.com/aduros</uri>
-        </author>
-        <published>2021-08-05T23:48:23.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim: WIP, in spaaaaace !]]></title>
@@ -167,7 +180,7 @@
         <title type="html"><![CDATA[grantshandy/wasm4-raycaster: A demo raycaster for the WASM-4 engine.]]></title>
         <id>https://github.com/grantshandy/wasm4-raycaster</id>
         <link href="https://github.com/grantshandy/wasm4-raycaster"/>
-        <updated>2023-03-15T14:44:51.000Z</updated>
+        <updated>2023-03-17T10:24:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/45475651?u=e7b7f0960862aad63b46ac18119cb8090d0b26a3&v=4" width="64" height="64" alt=""/><br/><div>A demo raycaster for the WASM-4 engine.</div>]]></content>
         <author>
             <name>grantshandy</name>
@@ -253,18 +266,5 @@
             <uri>https://github.com/benrussell80</uri>
         </author>
         <published>2023-02-20T01:44:48.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[twoXes/gr0: Wasm4 Web Assembly Text (WAT) game for game jam]]></title>
-        <id>https://github.com/twoXes/gr0</id>
-        <link href="https://github.com/twoXes/gr0"/>
-        <updated>2023-01-31T04:05:47.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/64801585?u=ac1831eac261bdae59667327698cb70ed1b64d10&v=4" width="64" height="64" alt=""/><br/><div>Wasm4 Web Assembly Text (WAT) game for game jam</div>]]></content>
-        <author>
-            <name>twoXes</name>
-            <email>twoXes@noreply.github.com</email>
-            <uri>https://github.com/twoXes</uri>
-        </author>
-        <published>2023-01-27T13:54:36.000Z</published>
     </entry>
 </feed>
