@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-22T00:13:31.667Z</updated>
+    <updated>2023-03-23T00:14:53.794Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
+        <id>https://github.com/opencastsoftware/wasm4j</id>
+        <link href="https://github.com/opencastsoftware/wasm4j"/>
+        <updated>2023-03-01T13:53:39.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
+        <author>
+            <name>opencastsoftware</name>
+            <email>opencastsoftware@noreply.github.com</email>
+            <uri>https://github.com/opencastsoftware</uri>
+        </author>
+        <published>2023-02-28T12:24:11.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kivutar/w4-bobble: A WASM4 platformer demo in Go]]></title>
+        <id>https://github.com/kivutar/w4-bobble</id>
+        <link href="https://github.com/kivutar/w4-bobble"/>
+        <updated>2023-02-12T07:27:40.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/442722?v=4" width="64" height="64" alt=""/><br/><div>A WASM4 platformer demo in Go</div>]]></content>
+        <author>
+            <name>kivutar</name>
+            <email>kivutar@noreply.github.com</email>
+            <uri>https://github.com/kivutar</uri>
+        </author>
+        <published>2023-02-09T20:47:24.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ennak-alt/snake: Snake game, created with wasm-4 and rust]]></title>
         <id>https://github.com/Ennak-alt/snake</id>
@@ -63,7 +89,7 @@
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
         <link href="https://github.com/aduros/wasm4"/>
-        <updated>2023-03-20T11:49:52.000Z</updated>
+        <updated>2023-03-22T20:40:57.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/23202?v=4" width="64" height="64" alt=""/><br/><div>Build retro games using WebAssembly for a fantasy console.</div>]]></content>
         <author>
             <name>aduros</name>
@@ -97,19 +123,6 @@
             <uri>https://github.com/BeefOnWeck</uri>
         </author>
         <published>2023-03-05T23:28:59.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
-        <id>https://github.com/opencastsoftware/wasm4j</id>
-        <link href="https://github.com/opencastsoftware/wasm4j"/>
-        <updated>2023-03-01T13:53:39.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
-        <author>
-            <name>opencastsoftware</name>
-            <email>opencastsoftware@noreply.github.com</email>
-            <uri>https://github.com/opencastsoftware</uri>
-        </author>
-        <published>2023-02-28T12:24:11.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[maxcurzi/disk-0-madness: Entry for the itch.io WASM4 Game Jam #2 - and my first project in Rust!]]></title>
@@ -253,18 +266,5 @@
             <uri>https://github.com/zleyyij</uri>
         </author>
         <published>2023-02-26T03:03:45.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DusterTheFirst/wasm4-test: a test wasm4 cartridge]]></title>
-        <id>https://github.com/DusterTheFirst/wasm4-test</id>
-        <link href="https://github.com/DusterTheFirst/wasm4-test"/>
-        <updated>2023-02-26T12:59:18.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/14093962?u=5ce85f9c1e5883f103ef6756f80a95141e20a1b1&v=4" width="64" height="64" alt=""/><br/><div>a test wasm4 cartridge</div>]]></content>
-        <author>
-            <name>DusterTheFirst</name>
-            <email>DusterTheFirst@noreply.github.com</email>
-            <uri>https://github.com/DusterTheFirst</uri>
-        </author>
-        <published>2023-02-26T12:59:07.000Z</published>
     </entry>
 </feed>
