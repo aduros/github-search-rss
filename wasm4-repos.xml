@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-24T00:14:54.149Z</updated>
+    <updated>2023-03-25T00:14:14.116Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim: WIP, in spaaaaace !]]></title>
+        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
+        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
+        <updated>2023-03-07T15:51:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div>WIP, in spaaaaace !</div>]]></content>
+        <author>
+            <name>StephaneTrebel</name>
+            <email>StephaneTrebel@noreply.github.com</email>
+            <uri>https://github.com/StephaneTrebel</uri>
+        </author>
+        <published>2023-03-03T16:03:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
         <id>https://github.com/hahahahaman/snakery</id>
@@ -24,7 +37,7 @@
         <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
         <id>https://github.com/opencastsoftware/wasm4j</id>
         <link href="https://github.com/opencastsoftware/wasm4j"/>
-        <updated>2023-03-01T13:53:39.000Z</updated>
+        <updated>2023-03-24T20:04:26.000Z</updated>
         <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/6613998?v=4" width="64" height="64" alt=""/><br/><div>WebAssembly toolkit for Java</div>]]></content>
         <author>
             <name>opencastsoftware</name>
@@ -136,19 +149,6 @@
             <uri>https://github.com/maxcurzi</uri>
         </author>
         <published>2022-08-15T10:39:56.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim: WIP, in spaaaaace !]]></title>
-        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
-        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
-        <updated>2023-03-07T15:51:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div>WIP, in spaaaaace !</div>]]></content>
-        <author>
-            <name>StephaneTrebel</name>
-            <email>StephaneTrebel@noreply.github.com</email>
-            <uri>https://github.com/StephaneTrebel</uri>
-        </author>
-        <published>2023-03-03T16:03:05.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[claudiomattera/wasm4fun.neocities.org: Source of static website at https://wasm4fun.neocities.org/]]></title>
