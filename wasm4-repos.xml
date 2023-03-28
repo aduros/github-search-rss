@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-27T00:15:15.007Z</updated>
+    <updated>2023-03-28T00:16:18.684Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim: WIP, in spaaaaace !]]></title>
+        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
+        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
+        <updated>2023-03-07T15:51:45.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div>WIP, in spaaaaace !</div>]]></content>
+        <author>
+            <name>StephaneTrebel</name>
+            <email>StephaneTrebel@noreply.github.com</email>
+            <uri>https://github.com/StephaneTrebel</uri>
+        </author>
+        <published>2023-03-03T16:03:05.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
@@ -19,19 +32,6 @@
             <uri>https://github.com/aduros</uri>
         </author>
         <published>2021-08-05T23:48:23.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
-        <id>https://github.com/hahahahaman/snakery</id>
-        <link href="https://github.com/hahahahaman/snakery"/>
-        <updated>2022-12-13T02:12:20.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/707442?v=4" width="64" height="64" alt=""/><br/><div>wasm4 game written in C</div>]]></content>
-        <author>
-            <name>hahahahaman</name>
-            <email>hahahahaman@noreply.github.com</email>
-            <uri>https://github.com/hahahahaman</uri>
-        </author>
-        <published>2022-12-13T02:02:18.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[wasmstation/wasmstation: A work-in-progress runtime for WASM-4]]></title>
@@ -47,17 +47,17 @@
         <published>2022-12-10T18:01:48.000Z</published>
     </entry>
     <entry>
-        <title type="html"><![CDATA[StephaneTrebel/wasm4-spacesim: WIP, in spaaaaace !]]></title>
-        <id>https://github.com/StephaneTrebel/wasm4-spacesim</id>
-        <link href="https://github.com/StephaneTrebel/wasm4-spacesim"/>
-        <updated>2023-03-07T15:51:45.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/11737219?u=1a9e25fd7e78964058d373e1af339a191cf100a0&v=4" width="64" height="64" alt=""/><br/><div>WIP, in spaaaaace !</div>]]></content>
+        <title type="html"><![CDATA[hahahahaman/snakery: wasm4 game written in C]]></title>
+        <id>https://github.com/hahahahaman/snakery</id>
+        <link href="https://github.com/hahahahaman/snakery"/>
+        <updated>2022-12-13T02:12:20.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/707442?v=4" width="64" height="64" alt=""/><br/><div>wasm4 game written in C</div>]]></content>
         <author>
-            <name>StephaneTrebel</name>
-            <email>StephaneTrebel@noreply.github.com</email>
-            <uri>https://github.com/StephaneTrebel</uri>
+            <name>hahahahaman</name>
+            <email>hahahahaman@noreply.github.com</email>
+            <uri>https://github.com/hahahahaman</uri>
         </author>
-        <published>2023-03-03T16:03:05.000Z</published>
+        <published>2022-12-13T02:02:18.000Z</published>
     </entry>
     <entry>
         <title type="html"><![CDATA[opencastsoftware/wasm4j: WebAssembly toolkit for Java]]></title>
