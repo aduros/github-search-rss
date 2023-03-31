@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aduros.github.io/github-search-rss/wasm4-repos.xml</id>
     <title>WASM-4 repositories</title>
-    <updated>2023-03-30T00:15:17.718Z</updated>
+    <updated>2023-03-31T00:15:28.275Z</updated>
     <generator>github-search-rss</generator>
     <link rel="alternate" href="https://aduros.github.io/github-search-rss/wasm4-repos.xml"/>
     <subtitle>WASM-4 repositories on GitHub</subtitle>
     <rights>github-search-rss</rights>
+    <entry>
+        <title type="html"><![CDATA[rhian-cs/wasm4-rust-template: Boilerplate for creating WASM-4 games with Rust!]]></title>
+        <id>https://github.com/rhian-cs/wasm4-rust-template</id>
+        <link href="https://github.com/rhian-cs/wasm4-rust-template"/>
+        <updated>2023-03-30T02:04:09.000Z</updated>
+        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/72531802?u=4ec6aff802033bbe1ac9a999163ee3f8d4f113b9&v=4" width="64" height="64" alt=""/><br/><div>Boilerplate for creating WASM-4 games with Rust!</div>]]></content>
+        <author>
+            <name>rhian-cs</name>
+            <email>rhian-cs@noreply.github.com</email>
+            <uri>https://github.com/rhian-cs</uri>
+        </author>
+        <published>2023-03-30T02:03:50.000Z</published>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aduros/wasm4: Build retro games using WebAssembly for a fantasy console.]]></title>
         <id>https://github.com/aduros/wasm4</id>
@@ -253,18 +266,5 @@
             <uri>https://github.com/grantshandy</uri>
         </author>
         <published>2023-02-17T04:54:41.000Z</published>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zleyyij/tinycaster: WASM4 raycasting demo written in rust that's very smol]]></title>
-        <id>https://github.com/zleyyij/tinycaster</id>
-        <link href="https://github.com/zleyyij/tinycaster"/>
-        <updated>2023-02-26T16:24:55.000Z</updated>
-        <content type="html"><![CDATA[<img src="https://avatars.githubusercontent.com/u/75810274?u=d872a0c2984f9da2a1ccd6579ecd3ac4dbbe8314&v=4" width="64" height="64" alt=""/><br/><div>WASM4 raycasting demo written in rust that's very smol</div>]]></content>
-        <author>
-            <name>zleyyij</name>
-            <email>zleyyij@noreply.github.com</email>
-            <uri>https://github.com/zleyyij</uri>
-        </author>
-        <published>2023-02-26T03:03:45.000Z</published>
     </entry>
 </feed>
